@@ -1,0 +1,1066 @@
+{
+  "version": 1,
+  "name": "Epic Collect",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 3131119,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3131119,
+        "name": "Battlecry",
+        "artist": "Two Steps From Hell",
+        "cover": "https://p1.music.126.net/M4dIigd024UmAUbOnDXJ4A==/109951170179380497.jpg",
+        "publishTime": 1430150400000,
+        "year": "2015",
+        "trackCount": 26,
+        "company": "Two Steps From Hell Productions.",
+        "description": "Battlecry是2015年4月28日发行的地狱双步乐队的第八张公开专辑。它由作曲家Thomas J. Bergersen和Nick Phoenix编写的26首曲目组成。",
+        "tracks": [
+          {
+            "id": 31654449,
+            "name": "None Shall Live",
+            "duration": 139981,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654450,
+            "name": "Stormkeeper",
+            "duration": 175471,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654455,
+            "name": "Victory",
+            "duration": 320467,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654454,
+            "name": "Wolf King",
+            "duration": 254822,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654452,
+            "name": "Rise Above",
+            "duration": 222807,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654451,
+            "name": "Spellcaster",
+            "duration": 181697,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654453,
+            "name": "Never Back Down",
+            "duration": 175595,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654456,
+            "name": "Red Tower",
+            "duration": 188944,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654457,
+            "name": "Cannon In D Minor",
+            "duration": 183855,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654458,
+            "name": "Blackout",
+            "duration": 225682,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654463,
+            "name": "Stronger Faster Braver",
+            "duration": 278459,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654462,
+            "name": "Battleborne",
+            "duration": 299356,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654459,
+            "name": "Last Of The Light",
+            "duration": 173926,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654460,
+            "name": "Ultraground",
+            "duration": 190942,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654461,
+            "name": "Release Me",
+            "duration": 243443,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654465,
+            "name": "Freedom Ship",
+            "duration": 202903,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654466,
+            "name": "Amaria",
+            "duration": 194734,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654464,
+            "name": "Flight Of The Silverbird",
+            "duration": 201793,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654467,
+            "name": "Outpost",
+            "duration": 178137,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654469,
+            "name": "Unforgiven",
+            "duration": 250496,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654468,
+            "name": "Across The Blood Water",
+            "duration": 213263,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654470,
+            "name": "No Honor In Blood",
+            "duration": 187872,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654473,
+            "name": "Sariel",
+            "duration": 169137,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654478,
+            "name": "Star Sky",
+            "duration": 330579,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 31654477,
+            "name": "Battleborne - Instrumental",
+            "duration": 299452,
+            "artists": "Two Steps From Hell、Nick Phoenix"
+          },
+          {
+            "id": 31654479,
+            "name": "Star Sky - Instrumental",
+            "duration": 334924,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:40:36.297Z"
+    },
+    {
+      "albumId": 1800914,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 1800914,
+        "name": "Archangel",
+        "artist": "Two Steps From Hell",
+        "cover": "https://p2.music.126.net/91pGSeh1q7bjOZ0QxDvIJg==/109951170131833940.jpg",
+        "publishTime": 1316448000000,
+        "year": "2011",
+        "trackCount": 26,
+        "company": "Two Steps From Hell Productions.",
+        "description": "\n美国专业音乐制作公司Two Steps From Hell于2011年9月20日发布的专辑《Archangel》。\n",
+        "tracks": [
+          {
+            "id": 19554984,
+            "name": "Mercy in Darkness",
+            "duration": 70926,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554985,
+            "name": "Archangel",
+            "duration": 154857,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554986,
+            "name": "Everlasting",
+            "duration": 169407,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554987,
+            "name": "United We Stand - Divided We Fall",
+            "duration": 237843,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554988,
+            "name": "Love & Loss",
+            "duration": 109235,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554989,
+            "name": "The Last Stand",
+            "duration": 169823,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554990,
+            "name": "Nero",
+            "duration": 207350,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554991,
+            "name": "Destructo",
+            "duration": 151650,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554992,
+            "name": "Atlantis",
+            "duration": 117232,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554993,
+            "name": "Strength of a Thousand Men",
+            "duration": 136892,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554994,
+            "name": "Unexplained Forces",
+            "duration": 191336,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554995,
+            "name": "Magic of Love",
+            "duration": 139716,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554996,
+            "name": "Norwegian Pirate",
+            "duration": 179759,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554997,
+            "name": "Dark Harbor",
+            "duration": 195006,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554998,
+            "name": "Dragon Rider",
+            "duration": 113837,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19554999,
+            "name": "Mountains From Water",
+            "duration": 134021,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19555000,
+            "name": "Titan Dune",
+            "duration": 130566,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558001,
+            "name": "Ironwing",
+            "duration": 157648,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558002,
+            "name": "Army of Justice",
+            "duration": 123810,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558003,
+            "name": "Immortal Avenger",
+            "duration": 223617,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558004,
+            "name": "He Who Brings the Night",
+            "duration": 186644,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558005,
+            "name": "Caradhras",
+            "duration": 252734,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558006,
+            "name": "Sanctuary is Lost",
+            "duration": 125391,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558007,
+            "name": "What's Happening to Me",
+            "duration": 189784,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558008,
+            "name": "Aesir",
+            "duration": 290120,
+            "artists": "Two Steps From Hell"
+          },
+          {
+            "id": 19558009,
+            "name": "Friendship to Last",
+            "duration": 192716,
+            "artists": "Two Steps From Hell"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:40:55.987Z"
+    },
+    {
+      "albumId": 212815,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 212815,
+        "name": "Mind Heist",
+        "artist": "Zack Hemsey",
+        "cover": "https://p1.music.126.net/x0jMt_E_JRJdaiymlYvgHg==/109951167881091008.jpg",
+        "publishTime": 1304179200000,
+        "year": "2011",
+        "trackCount": 6,
+        "company": "Trees Of Earth LLC",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2112321,
+            "name": "Mind Heist",
+            "duration": 130008,
+            "artists": "Zack Hemsey"
+          },
+          {
+            "id": 2112324,
+            "name": "Mind Heist: The Birth Of An Idea",
+            "duration": 227323,
+            "artists": "Zack Hemsey"
+          },
+          {
+            "id": 2112327,
+            "name": "Mind Heist: No Turning Back",
+            "duration": 153298,
+            "artists": "Zack Hemsey"
+          },
+          {
+            "id": 2112329,
+            "name": "Mind Heist: The Promise Of Tomorrow",
+            "duration": 83183,
+            "artists": "Zack Hemsey"
+          },
+          {
+            "id": 2112331,
+            "name": "Mind Heist: Evolution",
+            "duration": 375466,
+            "artists": "Zack Hemsey"
+          },
+          {
+            "id": 2112332,
+            "name": "Mind Heist: Beyond Control (bonus track)",
+            "duration": 50808,
+            "artists": "Zack Hemsey"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:41:03.304Z"
+    },
+    {
+      "albumId": 441933,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 441933,
+        "name": "Nemesis",
+        "artist": "Two Steps From Hell",
+        "cover": "https://p2.music.126.net/7PI_-SjyIxL0R22EIaAaRA==/109951170157486198.jpg",
+        "publishTime": 1193587200000,
+        "year": "2007",
+        "trackCount": 39,
+        "company": "Two Steps From Hell Productions.",
+        "description": "Two Steps From Hell 联合创始人 Thomas J. Bergersen 的 21 首原创作品。《NEMESIS》充满了宏伟和不朽的力量，但不可否认的是，这些线索都是精湛的作品。 NEMESIS 拥有一支由 100 人组成的管弦乐团、一支大型打击乐团和著名的 Tabernacle 合唱团。线索范围从壮观的动作到真正情感戏剧作品的神圣之美。 《NEMESIS》由挪威人梅雷特·索尔特维特 (Merethe Soltvedt) 带来迷人的声音。提供了几首不同强度级别的替代版本，为编辑提供了更大的灵活性。为了满足对更大音量不断增长的需求，我们还推出了新的 Ultra Loud Definition™ 功能。 Ultra Loud Definition™ 提示经过重新混合和重新制作，可为您的制作提供最大响度。 Ultra Loud Definition™ 中提供了 NEMESIS 中所有最重要的提示。经过一年多的制作，NEMESIS 也许是我们迄今为止最好的版本。我们聘请了来自世界各地的杰出音乐人才为您带来这款永恒的预告片音乐。",
+        "tracks": [
+          {
+            "id": 4379227,
+            "name": "Dark Ages",
+            "duration": 207734,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Francesca Genco"
+          },
+          {
+            "id": 4379230,
+            "name": "Nemesis",
+            "duration": 81549,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379234,
+            "name": "Clash of Empires",
+            "duration": 185457,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379242,
+            "name": "Army of Justice",
+            "duration": 123810,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379246,
+            "name": "Tristan",
+            "duration": 156881,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379250,
+            "name": "Road to Revelation",
+            "duration": 119299,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379252,
+            "name": "God of Lightning",
+            "duration": 122248,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379254,
+            "name": "Sons of War",
+            "duration": 115449,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379256,
+            "name": "The Immortals",
+            "duration": 131297,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379258,
+            "name": "Wrath of Sea",
+            "duration": 78803,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379261,
+            "name": "Red Omen",
+            "duration": 85700,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379263,
+            "name": "Sky Titans",
+            "duration": 128727,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379265,
+            "name": "Hunter's Moon",
+            "duration": 49598,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379238,
+            "name": "Atlantis",
+            "duration": 120000,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Stine Mari Langstrand"
+          },
+          {
+            "id": 4379267,
+            "name": "Moving Mountains",
+            "duration": 182112,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379270,
+            "name": "Eternal Sorrow",
+            "duration": 106127,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379273,
+            "name": "Fountain of Life",
+            "duration": 208746,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379275,
+            "name": "Enigmatic Soul",
+            "duration": 174529,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Merethe Soltvedt"
+          },
+          {
+            "id": 4379277,
+            "name": "Dominion Heart",
+            "duration": 94316,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 4379279,
+            "name": "False King",
+            "duration": 137790,
+            "artists": "Two Steps From Hell、Nick Phoenix、Merethe Soltvedt"
+          },
+          {
+            "id": 4379281,
+            "name": "Friendship to Last",
+            "duration": 192716,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Merethe Soltvedt"
+          },
+          {
+            "id": 1454381950,
+            "name": "Atlantis (No Choir)",
+            "duration": 120032,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Francesca Genco"
+          },
+          {
+            "id": 1454381964,
+            "name": "Road to Revelation (No Choir)",
+            "duration": 119275,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381951,
+            "name": "Clash of Empires (No Choir)",
+            "duration": 185469,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381948,
+            "name": "Army of Justice (No Choir)",
+            "duration": 124551,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381967,
+            "name": "Sons of War (No Choir)",
+            "duration": 115826,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454382568,
+            "name": "Fountain of Life (No Percussion)",
+            "duration": 208979,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381963,
+            "name": "Red Omen (No Choir)",
+            "duration": 85681,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454382570,
+            "name": "God of Lightning (No Choir)",
+            "duration": 122174,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381960,
+            "name": "Hunter's Moon (No Choir)",
+            "duration": 49554,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381961,
+            "name": "Moving Mountains (No Choir)",
+            "duration": 182282,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Stine Mari Langstrand"
+          },
+          {
+            "id": 1454382578,
+            "name": "Tristan (No Choir)",
+            "duration": 156917,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454382566,
+            "name": "Dominion Heart (No Choir)",
+            "duration": 94380,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381957,
+            "name": "False King (No Choir)",
+            "duration": 137783,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381953,
+            "name": "Dark Ages (No Choir)",
+            "duration": 208666,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381955,
+            "name": "Enigmatic Soul (No Vocals)",
+            "duration": 174471,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381966,
+            "name": "Sky Titans (No Choir)",
+            "duration": 128705,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454381970,
+            "name": "Wrath of Sea (No Choir)",
+            "duration": 78001,
+            "artists": "Two Steps From Hell、Thomas Bergersen"
+          },
+          {
+            "id": 1454382574,
+            "name": "Nemesis (No Choir)",
+            "duration": 81606,
+            "artists": "Two Steps From Hell、Thomas Bergersen、Merethe Soltvedt"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:27:38.043Z"
+    },
+    {
+      "albumId": 34526042,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34526042,
+        "name": "Of Stars and Eternity",
+        "artist": "Imagine Music、Sergey Zubarev",
+        "cover": "https://p1.music.126.net/QsDvpSO7aD-OJQFVi3DcWA==/109951163577988097.jpg",
+        "publishTime": 1446825600000,
+        "year": "2015",
+        "trackCount": 12,
+        "company": "Imagine Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 404784200,
+            "name": "My Personal Paradise",
+            "duration": 243605,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404783199,
+            "name": "Aural",
+            "duration": 277794,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404784201,
+            "name": "From Dark to Light",
+            "duration": 136000,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404783200,
+            "name": "Rhythm Fluids",
+            "duration": 159163,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404784202,
+            "name": "Misty Motion",
+            "duration": 156305,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404783201,
+            "name": "Ardoreum",
+            "duration": 318045,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404784203,
+            "name": "A Mournful Soul",
+            "duration": 185046,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404783202,
+            "name": "Fragile Breath",
+            "duration": 285000,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404784204,
+            "name": "Luna Lux",
+            "duration": 165811,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404783203,
+            "name": "Of Stars and Eternity",
+            "duration": 383200,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404784205,
+            "name": "Areia De Tempo",
+            "duration": 304888,
+            "artists": "Imagine Music、Sergey Zubarev"
+          },
+          {
+            "id": 404783204,
+            "name": "Jumping From Clouds (Remix)",
+            "duration": 253023,
+            "artists": "Imagine Music、Sergey Zubarev"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:29:37.843Z"
+    },
+    {
+      "albumId": 207765,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 207765,
+        "name": "Illusions",
+        "artist": "Thomas Bergersen",
+        "cover": "https://p1.music.126.net/HKKng3fxT2c546UI2KbjmQ==/109951170131836774.jpg",
+        "publishTime": 1308672000000,
+        "year": "2011",
+        "trackCount": 19,
+        "company": "Thomas Bergersen Studios.",
+        "description": "作为Two Steps from Hell的创始人之一Thomas Bergersen，用了3年的时间Thomas Bergersen完成了自己的首张专辑。\n\"Illusions\" 融合了来自世界各地的民族风味的传统西方管弦乐团和合唱团。包括了爱尔兰民间合唱团，Armenian Duduk，日本尺八，奈伊长笛和世界著名爱尔兰爱尔兰风笛演奏家Chris Bleth。\n专辑里面的合唱以女声为主，最值得一提的是专辑大多数曲目收录于大家期待已久的复仇女神2之中，整张预告片音乐的风格寄予了复仇女神1当中悲壮的气质，有一种仿佛目睹了古罗马战争的尾声，悠远而雄壮。比较新意的是部分曲目融入了部落元素。\n\n以下专辑介绍来自官网:\nIllusions是我过去三年多以来的心血之作。每当我创作出一首比平时更特别的音乐作品时，我都会把它留到这张专辑里。我希望能创造出一种超越所有民族界限的音乐景观，将传统的西方交响乐与世界各地的民间音乐文化结合在一起。我的目的就是把世界上所有美妙的音乐奇观汇聚在一起，来一个大大的集拥。所以在这张专辑中，你可以听到从我的挪威血统，到中东神秘的声音，再到保加利亚空灵的声音，以及亚美尼亚令人惊叹的抒情木管乐器的民间音乐痕迹。\n这个名单还在继续。今天的先进技术也不容忽视，所以我在音乐中融入了很多有机合成的声音。毕竟现在是2011年，我想承认这一点，并对音乐技术领域的进步表示敬意。但最终，是世界各地美妙的声音真正把Illusions粘合在一起。这些女歌手给了我巨大的灵感。没有她们，我真的做不到这一点。音乐是一种表达，对我来说，音乐理论是一种障碍。我喜欢作曲，因为它让我从社会常规和权威中解放出来。对我来说，这是一种纯粹的自由。我最不想做的就是遵循那些直接限制我创造力的学术准则和规则。音乐是我的圣地，理论无法涉足其中。Illusions百分百地反映了这一点。\n\nIllusions has been my pet project for the last 3 or so years. Every time I wrote a piece of music I felt was a little more special than my usual output, I would put it aside for this album. I wanted to create a musical soundscape that transcended all ethnic boundaries, combining traditional western orchestras with folk music culture from around the world.\nThe purpose was to bring all the wonderful musical wonders of the world together in a big collective hug. That is why you can hear traces of folk music, from my Norwegian heritage, to the mystical voices of the middle east, to the ethereal voices of the Bulgarian people, to the amazing lyrical woodwinds in Armenia. The list goes on. The amazing technology of today could not be overlooked, so I incorporated a lot of organic synthesized sounds into the music. It is the year 2011 after all, and I wanted to acknowledge that and pay my respect to the musical advancement in the technological field as well. In the end, though, it is the wonderful voices from around the world that really glue Illusions together. These girls have inspired me so tremendously. I truly could not have done this without them.\nIllusions has taken me three years to complete and has been a long journey that has required more patience than I thought I had in me. I spent so much time searching around the world for new unique ideas, musical instruments and most importantly inspiration, but little did I know that it was the truly incredible vocalists that I would encounter in my venture that would shape the musical outcome. To everyone of you, I am proud, blessed and eternally grateful for your amazing musical contributions. I could not have done this without you.\nMusic is all about expression. To me, music theory is an obstruction. I love composing music because it liberates me from social conventions and authorities. It is pure freedom to me. The last thing I want to be doing is follow academic guidelines and rules that directly inhibit my creative freedom. Music is my sanctum and theory has no access. Illusions reflects this 100%.",
+        "tracks": [
+          {
+            "id": 2061720,
+            "name": "Aura",
+            "duration": 463317,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061721,
+            "name": "Starvation",
+            "duration": 266698,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061722,
+            "name": "Dreammaker",
+            "duration": 257912,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061723,
+            "name": "Hurt",
+            "duration": 103349,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061724,
+            "name": "Ocean Princess",
+            "duration": 171413,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061726,
+            "name": "Gift of Life",
+            "duration": 202368,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061728,
+            "name": "Rada",
+            "duration": 262520,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061730,
+            "name": "A Place in Heaven",
+            "duration": 255673,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061732,
+            "name": "Merchant Prince",
+            "duration": 146004,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061734,
+            "name": "Promise",
+            "duration": 298661,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061736,
+            "name": "Femme Fatale",
+            "duration": 251590,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061738,
+            "name": "Homecoming",
+            "duration": 176753,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061739,
+            "name": "Immortal",
+            "duration": 247754,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061740,
+            "name": "Remember Me",
+            "duration": 269794,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061741,
+            "name": "Sonera",
+            "duration": 336709,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061742,
+            "name": "Reborn",
+            "duration": 232970,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061743,
+            "name": "Age of Gods",
+            "duration": 150037,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061744,
+            "name": "Illusions",
+            "duration": 481621,
+            "artists": "Thomas Bergersen"
+          },
+          {
+            "id": 2061746,
+            "name": "Soulseeker",
+            "duration": 194929,
+            "artists": "Thomas Bergersen"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:40:13.133Z"
+    },
+    {
+      "albumId": 34589744,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34589744,
+        "name": "The Spirit of St. Louis",
+        "artist": "Adam Young",
+        "cover": "https://p1.music.126.net/ogm_VIMEuRztEOxR0YqXcQ==/109951164857244930.jpg",
+        "publishTime": 1459440000000,
+        "year": "2016",
+        "trackCount": 10,
+        "company": "Sky Harbor Entertainment",
+        "description": "Adam Young既《泰坦尼克》之后又推新作，这次专辑以《林白征空记》为故事背景，《林白征空记》讲述的故事是这样的：那天是一九二七年五月二十日，刚满二十五岁的查尔斯·林白，他发动了自己费尽心思才搞到手的单人驾驶的飞机，开始向大西洋上空飞行。飞越大西洋一直是查尔斯·林白内心深藏了很久的一个梦想。在这次的飞行过程中，他历尽了千辛万苦，甚至因为天气的突然变化被迫采用超低空飞行，他险些失去生命。然而，他最终战胜了各种困难，在经过三个半小时的艰难卓绝的飞行之后，他成功地飞越了大西洋，完成了具有历史意义的伟大壮举，在个人航空史上添上了光彩的一笔。",
+        "tracks": [
+          {
+            "id": 408332974,
+            "name": "Takeoff",
+            "duration": 194826,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408522071,
+            "name": "Nova Scotia",
+            "duration": 162547,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408332975,
+            "name": "Over Water",
+            "duration": 175412,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408522072,
+            "name": "Stars Appear",
+            "duration": 139813,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408332976,
+            "name": "The Thunderhead",
+            "duration": 175506,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408522073,
+            "name": "Ice on Wings",
+            "duration": 107133,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408332978,
+            "name": "The Fog",
+            "duration": 191964,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408522074,
+            "name": "Fighting to Stay Awake",
+            "duration": 183506,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408332979,
+            "name": "Land Ahead",
+            "duration": 148493,
+            "artists": "Adam Young"
+          },
+          {
+            "id": 408522075,
+            "name": "Wheels Down",
+            "duration": 218093,
+            "artists": "Adam Young"
+          }
+        ]
+      },
+      "addedAt": "2026-09-12T02:05:05.192Z"
+    },
+    {
+      "albumId": 3029289,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3029289,
+        "name": "Wonders",
+        "artist": "The Piano Guys",
+        "cover": "https://p2.music.126.net/1dAOPlO7SgDUsTn6gYztKQ==/109951165970771149.jpg",
+        "publishTime": 1412524800000,
+        "year": "2014",
+        "trackCount": 13,
+        "company": "索尼音乐",
+        "description": "●「酷音乐团」继2013年攻占Billboard第一名跨榜共计115周，2014年第四张大碟「奇迹」，即将再创音乐奇迹！\n●拥有YouTube超过5亿浏览人次、300万注册人数、脸书100万按赞粉丝团的全球最炙热音乐团体！\n●横跨流行与古典的极致演出组合，最新专辑大玩世代融合，包括一世代、菲利飞力普、大卫马修等冠军金曲完美再演绎。\n●酷玩电影名曲《冰雪奇缘》、《功夫熊猫》、《教会》，以及三代《蝙蝠侠》经典配乐首次合体超进化。\n●「CD版」与「CD+DVD版」全球同步发行，收录酷音乐团远征世界七大奇景拍摄MV。\n\n「酷音乐团」开创了我们这世代的全新指标，他们示范了音乐的真正玩法，不仅只有演出者，而是集结幕前幕后不同领域的才子，从作曲编曲、影像制作、到表演呈现，以超乎想像的巧思与创意，绽放出全方位的音乐能量。于是「酷音乐团」自2013年初发行首张同名专辑，年中趁胜追击的第二张专辑与年底的耶诞专辑，屡屡创下惊人记录，2014年秋天终于推出他们的第四张专辑：「奇迹」。\n\n酷音乐团将在最新专辑「奇迹」中继续创造令人惊艳的音乐奇迹，其中最鲜明的风格，莫过于他们藉由流行与古典所交织的神奇跨界魔力。第一首就是当红偶像团体「一世代」的《Story of my Life》衬上钢琴伴奏圣桑《动物狂欢节》之「水族馆」；而在《Home》这首歌里，他们将菲利飞力普（Phillip Phillips）夺冠单曲《Home》佐以德弗札克《新世界》交响曲之主题〈念故乡〉；同时也为大卫马修乐团（Dave Matthews）1995年摇滚金曲《Ants Marching》最后巧妙地以贝多芬《快乐颂》作为华丽尾奏，一次满足不同口味的所有乐迷。\n\n2013年电影《冰雪奇缘》最轰动的歌曲《Let It Go》自然逃不了酷音乐团的魔手，搭配韦瓦第《四季》的〈冬〉，在极尽寒冬中迸发无比火热的音符；电影《功夫熊猫》中那段柔肠寸断〈龟仙人升天〉旋律，在萧邦音乐中昇华为歌曲《功夫钢琴：大提琴升天》，而为了拍摄这支MV，「酷音乐团」特地远征中国长城当好汉。自此，让酷音乐团展开了「征服世界七大奇景」的雄心壮志，于是在拍摄颜尼欧莫利克奈经典电影配乐《The Mission / How Great Thou Art》MV时，全团再度拉拔至南美洲，除了重回电影《教会》里气势磅礡的伊瓜苏瀑布之外，还在里约热内卢的基督像下演奏，这五支美不胜收的MV将同时收录在专辑里。\n\n整张专辑一如过往的作品尽是充满惊喜，特别推荐歌曲《Batman Evolution》，这可说是「蝙蝠侠」三代配乐的超进化，从六?年代海夫提的电视影集配乐，加上九十年代丹尼叶夫曼《蝙蝠侠》系列电影配乐，以及二十一世纪重启《黑暗骑士》系列的汉斯季默之电影配乐，此乃有史以来第一次将老中青三代蝙蝠侠经典配乐融合为一的音乐开战时刻。除了流行与古典的跨界改编之外，「奇迹」专辑也收录了几首酷音乐团的创作曲，包括为了感谢粉丝所写的《Because of You》，还与火热的印度宝莱坞歌手苏布拉姆（Shweta Subram）合作《Don’t You Worry Child》，尼尔森的大提琴也因此转变为充满舞韵的「西塔大提琴」（Sitello）。酷音乐团在这张最新专辑再次创造了音乐的奇迹，邀请您进入他们不思议的异想世界。",
+        "tracks": [
+          {
+            "id": 29460771,
+            "name": "Story of My Life",
+            "duration": 270883,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460772,
+            "name": "Let It Go",
+            "duration": 243760,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460804,
+            "name": "Ants Marching / Ode to Joy",
+            "duration": 172524,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460773,
+            "name": "Fathers' Eyes",
+            "duration": 240117,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460805,
+            "name": "Kung Fu Piano:Cello Ascends",
+            "duration": 245179,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460774,
+            "name": "Summer Jam",
+            "duration": 234687,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460775,
+            "name": "Batman Evolution",
+            "duration": 253012,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460776,
+            "name": "Don't You Worry Child (feat. Shweta Subram)",
+            "duration": 245899,
+            "artists": "The Piano Guys、Shweta Subram"
+          },
+          {
+            "id": 29460777,
+            "name": "Home",
+            "duration": 281177,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460806,
+            "name": "The Mission / How Great Thou Art",
+            "duration": 191230,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460778,
+            "name": "Because of You",
+            "duration": 244807,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460779,
+            "name": "Pictures at an Exhibition",
+            "duration": 242230,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460780,
+            "name": "Love Story",
+            "duration": 384880,
+            "artists": "The Piano Guys"
+          }
+        ]
+      },
+      "addedAt": "2026-09-12T09:37:28.790Z"
+    }
+  ]
+}

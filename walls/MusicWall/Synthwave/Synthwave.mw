@@ -1,0 +1,2017 @@
+{
+  "version": 2,
+  "name": "Synthwave",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 162820698,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 162820698,
+        "name": "Disco Diver",
+        "artist": "Lupus Nocte",
+        "cover": "https://p2.music.126.net/XTvl9T2Zf9RaKMByotB3DA==/109951168508870650.jpg",
+        "publishTime": 1683216000000,
+        "year": "2023",
+        "trackCount": 4,
+        "company": "Epidemic Electronic",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2035041077,
+            "name": "Disco Diver",
+            "duration": 161786,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 2035040106,
+            "name": "Getting Lost",
+            "duration": 171746,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 2035041078,
+            "name": "Maniamaster",
+            "duration": 160669,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 2035041079,
+            "name": "Astral",
+            "duration": 183101,
+            "artists": "Lupus Nocte"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:01:45.326Z"
+    },
+    {
+      "albumId": 80814887,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 80814887,
+        "name": "Nocturnal",
+        "artist": "The Midnight",
+        "cover": "https://p1.music.126.net/jrJNCxZEcAw32pY98t5xnQ==/109951169807076908.jpg",
+        "publishTime": 1507910400000,
+        "year": "2017",
+        "trackCount": 7,
+        "company": "The Midnight",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1382561802,
+            "name": "Shadows",
+            "duration": 387857,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1382563368,
+            "name": "Crystalline",
+            "duration": 362410,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1382561800,
+            "name": "Collateral",
+            "duration": 346736,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1382563370,
+            "name": "River of Darkness",
+            "duration": 365778,
+            "artists": "The Midnight、Timecop1983"
+          },
+          {
+            "id": 1382561801,
+            "name": "Nocturnal",
+            "duration": 423457,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1382563369,
+            "name": "Light Years",
+            "duration": 321360,
+            "artists": "The Midnight、Nikki Flores"
+          },
+          {
+            "id": 1382563367,
+            "name": "Tokyo Night Train",
+            "duration": 336015,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:02:04.470Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 2478468,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2478468,
+        "name": "Join Us",
+        "artist": "Le Matos",
+        "cover": "https://p1.music.126.net/gERJ52txtFg5Z-hYuQ0e1w==/109951164852612210.jpg",
+        "publishTime": 1368633600000,
+        "year": "2013",
+        "trackCount": 10,
+        "company": "Le Matos",
+        "description": "released May 16, 2013\n\"Join Us\" (Digital LP)\nLe Matos - \"Join Us\"\nJean-Nicolas Leupi\nJean-Philippe Bernier\nMaxime Dumesnil\nVincent Menard\nLe Matos & Electric Youth - \"Light Again\"\n- Artwork -\nCreative Director : Jean-Philippe Bernier | www.jpbernier.com\nPhoto : Simon Duhamel | www.simonduhamel.com\nArt Director : Sarah Hall\nGraphic Design : Danny Demers & Mike Mason",
+        "tracks": [
+          {
+            "id": 26394124,
+            "name": "King's Filth",
+            "duration": 487006,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394125,
+            "name": "Interceptor",
+            "duration": 483761,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394126,
+            "name": "Overdog",
+            "duration": 389002,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394127,
+            "name": "58 Minutes Pour Vivre",
+            "duration": 319947,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394128,
+            "name": "Montrose",
+            "duration": 339999,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394129,
+            "name": "Molly",
+            "duration": 348248,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394130,
+            "name": "Light Again (feat. Electric Youth)",
+            "duration": 364000,
+            "artists": "Le Matos、Electric Youth"
+          },
+          {
+            "id": 26394131,
+            "name": "Sarah",
+            "duration": 371905,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394132,
+            "name": "The Stuff",
+            "duration": 362500,
+            "artists": "Le Matos"
+          },
+          {
+            "id": 26394133,
+            "name": "La Mer Des Possibilités",
+            "duration": 358607,
+            "artists": "Le Matos"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:02:19.068Z"
+    },
+    {
+      "albumId": 75462145,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 75462145,
+        "name": "Real Thing",
+        "artist": "LeBrock",
+        "cover": "https://p1.music.126.net/BrcEH0GkU-VsUhgD77_AAQ==/109951163922270993.jpg",
+        "publishTime": 1518537600000,
+        "year": "2018",
+        "trackCount": 10,
+        "company": "FiXT",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1344292311,
+            "name": "Real Thing",
+            "duration": 305500,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344291727,
+            "name": "Please Don't Cry",
+            "duration": 227952,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344291728,
+            "name": "Runaway",
+            "duration": 232846,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344291729,
+            "name": "Only the Brave",
+            "duration": 290390,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344291730,
+            "name": "Juice",
+            "duration": 343706,
+            "artists": "LeBrock、Ultraboss"
+          },
+          {
+            "id": 1344291731,
+            "name": "Real Thing (Instrumental)",
+            "duration": 305500,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344291732,
+            "name": "Please Don't Cry (Instrumental)",
+            "duration": 227952,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344292312,
+            "name": "Runaway (Instrumental)",
+            "duration": 232846,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344291733,
+            "name": "Only the Brave (Instrumental)",
+            "duration": 290390,
+            "artists": "LeBrock"
+          },
+          {
+            "id": 1344292313,
+            "name": "Juice (Instrumental)",
+            "duration": 343706,
+            "artists": "LeBrock、Ultraboss"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:02:29.028Z"
+    },
+    {
+      "albumId": 83548435,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 83548435,
+        "name": "Milky Way Express",
+        "artist": "Lupus Nocte",
+        "cover": "https://p2.music.126.net/MueKDYPyn_lfvl3Q8Xle2g==/109951164500505507.jpg",
+        "publishTime": 1574956800000,
+        "year": "2019",
+        "trackCount": 5,
+        "company": "Epidemic Sound",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1404977581,
+            "name": "Milky Way Express",
+            "duration": 162500,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 1404978182,
+            "name": "Crispy Days",
+            "duration": 175567,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 1404977582,
+            "name": "Sunset Dew",
+            "duration": 173000,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 1404978183,
+            "name": "Rescue Mission",
+            "duration": 184319,
+            "artists": "Lupus Nocte"
+          },
+          {
+            "id": 1404977583,
+            "name": "Champions Day",
+            "duration": 181529,
+            "artists": "Lupus Nocte"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:02:40.816Z"
+    },
+    {
+      "albumId": 154335182,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 154335182,
+        "name": "Shattered Dreams",
+        "artist": "NEHCA",
+        "cover": "https://p2.music.126.net/hzyb1GRtjoM4DkdBdfDbYQ==/109951168027381352.jpg",
+        "publishTime": 1667471949439,
+        "year": "2022",
+        "trackCount": 3,
+        "company": null,
+        "description": "Shattered Dreams...",
+        "tracks": [
+          {
+            "id": 1995199827,
+            "name": "Shattered Dreams",
+            "duration": 248275,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 2062925984,
+            "name": "Endless Night",
+            "duration": 217411,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 2075815245,
+            "name": "Out of Body",
+            "duration": 277327,
+            "artists": "NEHCA"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:02:49.201Z"
+    },
+    {
+      "albumId": 389863551,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 389863551,
+        "name": "New World",
+        "artist": "FM Attack",
+        "cover": "https://p1.music.126.net/ByEOh3Cw4vVrtBKIK7q-pA==/109951173663817815.jpg",
+        "publishTime": 1559910279025,
+        "year": "2019",
+        "trackCount": 10,
+        "company": "",
+        "description": "released June 7, 2019\n\nAll songs written and recorded by Shawn Ward\n\nVocals on Stranger performed by Hayley Stewart\nVocals/guitar on New World, Believe & Mixed Emotions written & performed by Blake Voss\n\nMastered by Gregor Zemljic @ Earresistible Mastering\nArtwork design by Brotherhood\n\nAll rights reserved ℗&© Starfield Music 2019\n\nall rights reserved",
+        "tracks": [
+          {
+            "id": 3413780432,
+            "name": "Dark Blue Sky  (Original Mix)",
+            "duration": 341761,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413779450,
+            "name": "Let You Go  (Original Mix)",
+            "duration": 343000,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413780433,
+            "name": "Stranger  (Original Mix)",
+            "duration": 339630,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413780437,
+            "name": "My Life  (Original Mix)",
+            "duration": 390264,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413780438,
+            "name": "Ultraviolet  (Original Mix)",
+            "duration": 406095,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413779452,
+            "name": "Cosmic Dance  (Original Mix)",
+            "duration": 215000,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413780439,
+            "name": "Shadows  (Original Mix)",
+            "duration": 282000,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 3413779453,
+            "name": "New World  (Original Mix)",
+            "duration": 238281,
+            "artists": "FM Attack、Vandal Moon"
+          },
+          {
+            "id": 3413780441,
+            "name": "Believe  (Original Mix)",
+            "duration": 201253,
+            "artists": "FM Attack、Vandal Moon"
+          },
+          {
+            "id": 3413779456,
+            "name": "Mixed Emotions  (Original Mix)",
+            "duration": 197076,
+            "artists": "FM Attack、Vandal Moon"
+          }
+        ]
+      },
+      "addedAt": "2026-09-19T07:26:02.226Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 2664565,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2664565,
+        "name": "Deja Vu",
+        "artist": "FM Attack",
+        "cover": "https://p2.music.126.net/O2zFWIc3WQWzkjUj_CK7fg==/109951163408630800.jpg",
+        "publishTime": 1529625600000,
+        "year": "2018",
+        "trackCount": 8,
+        "company": "Starfield Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 27723939,
+            "name": "With You Tonight (Original Mix)",
+            "duration": 302480,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723940,
+            "name": "Magic (Original Mix)",
+            "duration": 275875,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723941,
+            "name": "Corazon (Original Mix)",
+            "duration": 331794,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723942,
+            "name": "Activate (Original Mix)",
+            "duration": 399307,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723943,
+            "name": "Fade Away (Original Mix)",
+            "duration": 361351,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723944,
+            "name": "Runaway (Original Mix)",
+            "duration": 306249,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723945,
+            "name": "Tears Don't Lie (Original Mix)",
+            "duration": 292501,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 27723946,
+            "name": "Lost Angeles (Original Mix)",
+            "duration": 317435,
+            "artists": "FM Attack"
+          }
+        ]
+      },
+      "addedAt": "2026-09-19T07:26:40.499Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 168268890,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 168268890,
+        "name": "Cosmic",
+        "artist": "FM Attack",
+        "cover": "https://p1.music.126.net/waDLgGoeLLMqcWJ06QiGqQ==/109951168696429087.jpg",
+        "publishTime": 1694102400000,
+        "year": "2023",
+        "trackCount": 10,
+        "company": "Starfield Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2058415076,
+            "name": "Timeless",
+            "duration": 237062,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415077,
+            "name": "City Lights",
+            "duration": 200019,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415078,
+            "name": "A Million Miles Away",
+            "duration": 236842,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415079,
+            "name": "Invisible",
+            "duration": 357800,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415080,
+            "name": "Rain",
+            "duration": 231706,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058413435,
+            "name": "Strange Ways",
+            "duration": 374481,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415081,
+            "name": "Elevate",
+            "duration": 256086,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415082,
+            "name": "Secrets",
+            "duration": 192298,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058413436,
+            "name": "City Lights (Betamaxx Remix)",
+            "duration": 271500,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 2058415083,
+            "name": "City Lights (Jasper De Ceuster Remix)",
+            "duration": 239500,
+            "artists": "FM Attack"
+          }
+        ]
+      },
+      "addedAt": "2026-09-19T07:27:49.150Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 71812567,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 71812567,
+        "name": "Dreamatic",
+        "artist": "FM Attack",
+        "cover": "https://p2.music.126.net/ICsaCAoNTr_eUpe4-772dg==/109951163406058978.jpg",
+        "publishTime": 1529078400007,
+        "year": "2018",
+        "trackCount": 9,
+        "company": "Starfield Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 866099796,
+            "name": "Take Me Away (Original Mix)",
+            "duration": 339925,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866097825,
+            "name": "Hot Girlz In Love (Original Mix)",
+            "duration": 392097,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866097826,
+            "name": "Dreamer (Original Mix)",
+            "duration": 376825,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866097827,
+            "name": "Memorex (Original Mix)",
+            "duration": 363734,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866097828,
+            "name": "Yesterday (Original Mix)",
+            "duration": 297099,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866097829,
+            "name": "Mixed Signals (Original Mix)",
+            "duration": 345051,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866099797,
+            "name": "Disco Attack (Original Mix)",
+            "duration": 366654,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866097830,
+            "name": "Sleepless Nights (Original Mix)",
+            "duration": 407695,
+            "artists": "FM Attack"
+          },
+          {
+            "id": 866099798,
+            "name": "Hopeless Romantic (Original Mix)",
+            "duration": 192632,
+            "artists": "FM Attack"
+          }
+        ]
+      },
+      "addedAt": "2026-09-19T08:13:31.439Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 286554279,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 286554279,
+        "name": "Syndicate",
+        "artist": "The Midnight",
+        "cover": "https://p1.music.126.net/S8tRbGchHxNJ0TO4rlOD2w==/109951172072178037.jpg",
+        "publishTime": 1759420800000,
+        "year": "2025",
+        "trackCount": 17,
+        "company": "索尼音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2750350218,
+            "name": "Syndicate (Intro)",
+            "duration": 147284,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750350219,
+            "name": "Shadowverse",
+            "duration": 296588,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750350220,
+            "name": "Runaways",
+            "duration": 307153,
+            "artists": "The Midnight、Bonnie McKee"
+          },
+          {
+            "id": 2750348658,
+            "name": "Friction",
+            "duration": 236077,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750350221,
+            "name": "The Right Way",
+            "duration": 292571,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348659,
+            "name": "Afterglow pt. 1",
+            "duration": 328074,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348660,
+            "name": "Digital Dreams",
+            "duration": 366271,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348661,
+            "name": "Sentinels",
+            "duration": 299624,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348662,
+            "name": "Chariot",
+            "duration": 265613,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348663,
+            "name": "First Night In Paris",
+            "duration": 177075,
+            "artists": "The Midnight、Carpenter Brut"
+          },
+          {
+            "id": 2750350222,
+            "name": "Afterglow pt. 2",
+            "duration": 252006,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348664,
+            "name": "Fatal Obsession",
+            "duration": 339452,
+            "artists": "The Midnight、Jupiter Winter"
+          },
+          {
+            "id": 2750350223,
+            "name": "Quiet Earth",
+            "duration": 349947,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348665,
+            "name": "Long Island",
+            "duration": 308778,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348666,
+            "name": "Love Is an Ocean",
+            "duration": 322083,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348667,
+            "name": "Sanctuary",
+            "duration": 414127,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 2750348668,
+            "name": "Summer's Ending Soon",
+            "duration": 411504,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T10:33:20.208Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 95301146,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 95301146,
+        "name": "Miami Night on the Beach",
+        "artist": "AM 1984",
+        "cover": "https://p2.music.126.net/xVzab7KAIhqPXQJg559rZA==/109951165311085270.jpg",
+        "publishTime": 1599753600000,
+        "year": "2020",
+        "trackCount": 8,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1478582899,
+            "name": "Miami Days",
+            "duration": 271986,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478582901,
+            "name": "Night Sentinels",
+            "duration": 254608,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478581994,
+            "name": "Glory Days",
+            "duration": 267807,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478582902,
+            "name": "The Music's Got Me",
+            "duration": 272142,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478582903,
+            "name": "Miami Beach",
+            "duration": 275252,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478581999,
+            "name": "Red Sunset",
+            "duration": 294000,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478582000,
+            "name": "Desert Storm",
+            "duration": 292884,
+            "artists": "AM 1984"
+          },
+          {
+            "id": 1478582907,
+            "name": "Miami Days 2.0",
+            "duration": 221214,
+            "artists": "AM 1984"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.536Z"
+    },
+    {
+      "albumId": 147935767,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 147935767,
+        "name": "Stardriver",
+        "artist": "ELFL",
+        "cover": "https://p1.music.126.net/FjMLunr1zwJiuQb2h8dwhQ==/109951167656542011.jpg",
+        "publishTime": 1660233600000,
+        "year": "2022",
+        "trackCount": 3,
+        "company": "Epidemic Electronic",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1963067506,
+            "name": "Stardriver",
+            "duration": 240290,
+            "artists": "ELFL"
+          },
+          {
+            "id": 1963069751,
+            "name": "First Horizon",
+            "duration": 193992,
+            "artists": "ELFL"
+          },
+          {
+            "id": 1963067507,
+            "name": "Left in Haze",
+            "duration": 244074,
+            "artists": "ELFL"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.536Z"
+    },
+    {
+      "albumId": 2887411,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2887411,
+        "name": "Odyssey",
+        "artist": "Home",
+        "cover": "https://p1.music.126.net/-MCsD29Of_DsfMMpGlHH0w==/109951173964237474.jpg",
+        "publishTime": 1404144000000,
+        "year": "2014",
+        "trackCount": 12,
+        "company": "Unjaps AB",
+        "description": "",
+        "tracks": [
+          {
+            "id": 28764713,
+            "name": "Intro",
+            "duration": 189103,
+            "artists": "Home"
+          },
+          {
+            "id": 28764714,
+            "name": "Native",
+            "duration": 242393,
+            "artists": "Home"
+          },
+          {
+            "id": 28764715,
+            "name": "Decay",
+            "duration": 251147,
+            "artists": "Home"
+          },
+          {
+            "id": 28764716,
+            "name": "Oort Cloud",
+            "duration": 206007,
+            "artists": "Home"
+          },
+          {
+            "id": 28764717,
+            "name": "Tides",
+            "duration": 237145,
+            "artists": "Home"
+          },
+          {
+            "id": 28764718,
+            "name": "Nights (I Wish I Could Be There)",
+            "duration": 185759,
+            "artists": "Home"
+          },
+          {
+            "id": 28764719,
+            "name": "Odyssey",
+            "duration": 369475,
+            "artists": "Home"
+          },
+          {
+            "id": 28764720,
+            "name": "New Machines",
+            "duration": 177354,
+            "artists": "Home"
+          },
+          {
+            "id": 28764721,
+            "name": "Resonance",
+            "duration": 212880,
+            "artists": "Home"
+          },
+          {
+            "id": 28764722,
+            "name": "Come Back Down",
+            "duration": 293035,
+            "artists": "Home"
+          },
+          {
+            "id": 28764723,
+            "name": "Half Moon",
+            "duration": 260922,
+            "artists": "Home"
+          },
+          {
+            "id": 28764724,
+            "name": "On The Way Out",
+            "duration": 241882,
+            "artists": "Home"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.536Z"
+    },
+    {
+      "albumId": 89693612,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 89693612,
+        "name": "The Lost Youth",
+        "artist": "Midnight Kids",
+        "cover": "https://p1.music.126.net/cO3sYkAV2STyllwY0FmuPA==/109951165002071843.jpg",
+        "publishTime": 1590076800000,
+        "year": "2020",
+        "trackCount": 8,
+        "company": "索尼音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1449484759,
+            "name": "Innocence",
+            "duration": 112248,
+            "artists": "Midnight Kids"
+          },
+          {
+            "id": 1449484760,
+            "name": "Everything You Are",
+            "duration": 227160,
+            "artists": "Midnight Kids"
+          },
+          {
+            "id": 1449487352,
+            "name": "Run It",
+            "duration": 219428,
+            "artists": "Midnight Kids"
+          },
+          {
+            "id": 1449487353,
+            "name": "Break Away",
+            "duration": 184621,
+            "artists": "Midnight Kids"
+          },
+          {
+            "id": 1449484761,
+            "name": "Monsters",
+            "duration": 237981,
+            "artists": "Midnight Kids"
+          },
+          {
+            "id": 1449484762,
+            "name": "Bad For You",
+            "duration": 202849,
+            "artists": "Midnight Kids、90's Kids"
+          },
+          {
+            "id": 1449484763,
+            "name": "Last Time",
+            "duration": 224467,
+            "artists": "Midnight Kids"
+          },
+          {
+            "id": 1449484764,
+            "name": "Higher",
+            "duration": 250729,
+            "artists": "Midnight Kids、Opposite The Other"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.536Z"
+    },
+    {
+      "albumId": 84254660,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 84254660,
+        "name": "Dreamer",
+        "artist": "Morgan Willis",
+        "cover": "https://p2.music.126.net/3RerU8JQx6mjXI4xWElf2g==/109951164570359907.jpg",
+        "publishTime": 1577980800000,
+        "year": "2020",
+        "trackCount": 13,
+        "company": "Outland Recordings",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1410947793,
+            "name": "Lou & Giu (Intro) (Original Mix)",
+            "duration": 94505,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410948380,
+            "name": "Dark Before The Dream (Original Mix)",
+            "duration": 336642,
+            "artists": "Morgan Willis、Parallels"
+          },
+          {
+            "id": 1410948381,
+            "name": "Iza (Original Mix)",
+            "duration": 316000,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410947794,
+            "name": "Back To The Start (Original Mix)",
+            "duration": 272579,
+            "artists": "Morgan Willis、Nina"
+          },
+          {
+            "id": 1410947795,
+            "name": "Invisible (Original Mix)",
+            "duration": 230434,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410948382,
+            "name": "Daydream (Original Mix)",
+            "duration": 348226,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410948383,
+            "name": "Rabbit Hole Chasing You (Original Mix)",
+            "duration": 350064,
+            "artists": "Morgan Willis、Kel"
+          },
+          {
+            "id": 1410948384,
+            "name": "Dreamer (Original Mix)",
+            "duration": 238576,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410948385,
+            "name": "New Life (Original Mix)",
+            "duration": 331013,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410948386,
+            "name": "C.O.M.A (Original Mix)",
+            "duration": 257021,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410947796,
+            "name": "Teenager (Original Mix)",
+            "duration": 244575,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410948387,
+            "name": "We Are Young! (Original Mix)",
+            "duration": 284189,
+            "artists": "Morgan Willis"
+          },
+          {
+            "id": 1410947797,
+            "name": "Forever (Original Mix)",
+            "duration": 494259,
+            "artists": "Morgan Willis"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.536Z"
+    },
+    {
+      "albumId": 146919249,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 146919249,
+        "name": "Summer of 1984",
+        "artist": "NEHCA",
+        "cover": "https://p1.music.126.net/akKVPwmNTU0bxqhS7CAHPA==/109951168025301773.jpg",
+        "publishTime": 1655891737973,
+        "year": "2022",
+        "trackCount": 7,
+        "company": null,
+        "description": "落日余晖中，棕榈树下，开着时间机器，带你回到84年的盛夏。",
+        "tracks": [
+          {
+            "id": 1958430987,
+            "name": "Back to '84(Intro)",
+            "duration": 77496,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 1958429212,
+            "name": "Night Falls",
+            "duration": 209454,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 1960867653,
+            "name": "Last Kiss",
+            "duration": 311538,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 1960360524,
+            "name": "Runaway",
+            "duration": 188184,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 1968796596,
+            "name": "ARCADE",
+            "duration": 240000,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 1963497087,
+            "name": "Everything’s Alright",
+            "duration": 254457,
+            "artists": "NEHCA"
+          },
+          {
+            "id": 1958150904,
+            "name": "浮游天地",
+            "duration": 301333,
+            "artists": "NEHCA"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z"
+    },
+    {
+      "albumId": 180420579,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 180420579,
+        "name": "Axiom",
+        "artist": "PYLOT",
+        "cover": "https://p1.music.126.net/c9NQwvN-hkqioQgwoTBfDQ==/109951169474882579.jpg",
+        "publishTime": 1700150400000,
+        "year": "2023",
+        "trackCount": 8,
+        "company": "NRW Records, under exclusive license to NewRetroWave, LLC",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2105594240,
+            "name": "Invisible",
+            "duration": 201351,
+            "artists": "PYLOT、Ezra Hyte"
+          },
+          {
+            "id": 2105595096,
+            "name": "Terminal 001",
+            "duration": 200000,
+            "artists": "PYLOT、TOKYO ROSE"
+          },
+          {
+            "id": 2105595097,
+            "name": "Breathe",
+            "duration": 241136,
+            "artists": "PYLOT、Polarity、Sleepless-Nights"
+          },
+          {
+            "id": 2105594242,
+            "name": "Axiom",
+            "duration": 242666,
+            "artists": "PYLOT"
+          },
+          {
+            "id": 2105594243,
+            "name": "Lines of Code",
+            "duration": 214155,
+            "artists": "PYLOT、Tim Hutch"
+          },
+          {
+            "id": 2105594244,
+            "name": "Time Bomb",
+            "duration": 237837,
+            "artists": "PYLOT、Tyler Lyle"
+          },
+          {
+            "id": 2105594245,
+            "name": "Upgrades",
+            "duration": 282469,
+            "artists": "PYLOT"
+          },
+          {
+            "id": 2105594246,
+            "name": "The Road Ahead",
+            "duration": 220810,
+            "artists": "PYLOT"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z"
+    },
+    {
+      "albumId": 35138481,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 35138481,
+        "name": "Shadowtask EP",
+        "artist": "PYLOT",
+        "cover": "https://p1.music.126.net/TAx9IUTUlrpkGVveIF2hDQ==/109951163640421737.jpg",
+        "publishTime": 1485100800007,
+        "year": "2017",
+        "trackCount": 5,
+        "company": "Monstercat",
+        "description": "",
+        "tracks": [
+          {
+            "id": 455345012,
+            "name": "Caine",
+            "duration": 260903,
+            "artists": "PYLOT"
+          },
+          {
+            "id": 455345010,
+            "name": "Data",
+            "duration": 256500,
+            "artists": "PYLOT"
+          },
+          {
+            "id": 454966825,
+            "name": "Locke",
+            "duration": 325875,
+            "artists": "PYLOT"
+          },
+          {
+            "id": 454966826,
+            "name": "Clova",
+            "duration": 307636,
+            "artists": "PYLOT"
+          },
+          {
+            "id": 455345011,
+            "name": "Shadowtask",
+            "duration": 201272,
+            "artists": "PYLOT"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z"
+    },
+    {
+      "albumId": 147722394,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 147722394,
+        "name": "Avalanche",
+        "artist": "The Midnight",
+        "cover": "https://p2.music.126.net/9FzBM_iJc8bwRhybCFLD6g==/109951167634139785.jpg",
+        "publishTime": 1657036800000,
+        "year": "2022",
+        "trackCount": 3,
+        "company": "Counter Records",
+        "description": "The Midnight 发布新专辑中的第三支先行单曲 Avalanche \n",
+        "tracks": [
+          {
+            "id": 1961896996,
+            "name": "Avalanche",
+            "duration": 267890,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1961896997,
+            "name": "Heartbeat",
+            "duration": 230558,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1961896075,
+            "name": "Change Your Heart or Die",
+            "duration": 211809,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 2976060,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2976060,
+        "name": "Days of Thunder",
+        "artist": "The Midnight",
+        "cover": "https://p2.music.126.net/D65H41P9U-Y4UE2HsrGtyg==/109951169807059437.jpg",
+        "publishTime": 1395158400000,
+        "year": "2014",
+        "trackCount": 6,
+        "company": "The Midnight",
+        "description": "The Days of Thunder\nThere is a Japanese term: Mono no aware. It means basically, the sad beauty of seeing time pass - the aching awareness of impermanence. These are the days that we will return to one day in the future only in memories. How do we capture them? How could we possibly be able to fully appreciate them in the present? This project is our attempt to put time under glass.\nThe Midnight is a marriage between a songwriter from the Deep South and a producer from Denmark who both live in Los Angeles. The songs were written in North Hollywood and Santa Monica over two years and represent the first fruit of The Midnight. This is our love song to our city and a testament to the weight these years can hold.\nreleased July 15, 2014\nCredits:\nWords & music by Tim McEwan & Tyler Lyle.\nAdditional instrumentation:\nSaxophone on \"Days of Thunder\": Thomas Edinger\nSynth solo on \"Kick Drums & Red Wine\": Tim McEwan & Oliver McEwan",
+        "tracks": [
+          {
+            "id": 28999940,
+            "name": "The Years (Prologue)",
+            "duration": 368684,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 28999941,
+            "name": "Gloria",
+            "duration": 289897,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 28999942,
+            "name": "WeMoveForward",
+            "duration": 487738,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 28999943,
+            "name": "Days of Thunder",
+            "duration": 324018,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 28999944,
+            "name": "Kick Drums & Red Wine",
+            "duration": 381666,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 28999945,
+            "name": "Los Angeles",
+            "duration": 389094,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 128942349,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 128942349,
+        "name": "Endless Summer (5 Year Anniversary Edition)",
+        "artist": "The Midnight",
+        "cover": "https://p2.music.126.net/reOcpPp2h8jWz7gYXTpxRA==/109951169807094868.jpg",
+        "publishTime": 1624550400000,
+        "year": "2021",
+        "trackCount": 14,
+        "company": "The Midnight",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1852924336,
+            "name": "Endless Summer",
+            "duration": 405907,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925287,
+            "name": "Sunset",
+            "duration": 326520,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852924337,
+            "name": "Daytona",
+            "duration": 292702,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852924338,
+            "name": "Jason",
+            "duration": 331743,
+            "artists": "The Midnight、Nikki Flores"
+          },
+          {
+            "id": 1852925288,
+            "name": "Synthetic",
+            "duration": 199669,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852924339,
+            "name": "The Equaliser (Not Alone)",
+            "duration": 229014,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925289,
+            "name": "The Comeback Kid",
+            "duration": 321916,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925290,
+            "name": "Vampires",
+            "duration": 317228,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925291,
+            "name": "Crockett's Revenge",
+            "duration": 322978,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852924340,
+            "name": "Nighthawks",
+            "duration": 228630,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925292,
+            "name": "Lonely City",
+            "duration": 314047,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852924341,
+            "name": "Memories",
+            "duration": 379100,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925293,
+            "name": "Comet (Bonus Track)",
+            "duration": 317109,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1852925294,
+            "name": "Bend (Bonus Track)",
+            "duration": 293425,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 150332196,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 150332196,
+        "name": "Heart Worth Breaking",
+        "artist": "The Midnight",
+        "cover": "https://p2.music.126.net/BZ72PZC6oE7LcTagJnmU2A==/109951167817040929.jpg",
+        "publishTime": 1661270400000,
+        "year": "2022",
+        "trackCount": 5,
+        "company": "Counter Records",
+        "description": "The Midnight 发布新歌 Heart Worth Breaking。他们的新专辑 Heroes 将于9月9日上线。 \n",
+        "tracks": [
+          {
+            "id": 1975450796,
+            "name": "Heart Worth Breaking",
+            "duration": 307689,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1975450797,
+            "name": "Brooklyn. Friday. Love.",
+            "duration": 232101,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1975451646,
+            "name": "Heartbeat",
+            "duration": 230558,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1975451647,
+            "name": "Avalanche",
+            "duration": 267890,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1975450798,
+            "name": "Change Your Heart or Die",
+            "duration": 211809,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.537Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 150976812,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 150976812,
+        "name": "Heroes",
+        "artist": "The Midnight",
+        "cover": "https://p1.music.126.net/wSCK4Vo5_Z80KrM0eUxhAQ==/109951167844376022.jpg",
+        "publishTime": 1662652800000,
+        "year": "2022",
+        "trackCount": 13,
+        "company": "Counter Records",
+        "description": "来自洛杉矶的 synthwave 乐队 The Midnight 于9月9日发布备受瞩目的全新专辑 Heroes。 \n",
+        "tracks": [
+          {
+            "id": 1978374785,
+            "name": "Golden Gate",
+            "duration": 364871,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978374786,
+            "name": "Brooklyn. Friday. Love.",
+            "duration": 232101,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372607,
+            "name": "Heartbeat",
+            "duration": 230558,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372608,
+            "name": "A Place of Her Own",
+            "duration": 333069,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372609,
+            "name": "Heroes",
+            "duration": 313566,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978374787,
+            "name": "Heart Worth Breaking",
+            "duration": 307689,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978374788,
+            "name": "Loved by You",
+            "duration": 224585,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372610,
+            "name": "Aerostar",
+            "duration": 295722,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978374789,
+            "name": "Change Your Heart or Die",
+            "duration": 211809,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978374790,
+            "name": "Avalanche",
+            "duration": 267890,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372611,
+            "name": "Souvenir",
+            "duration": 214847,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372612,
+            "name": "Photograph",
+            "duration": 157902,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1978372613,
+            "name": "Energy Never Dies, It Just Transforms",
+            "duration": 260935,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.538Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 91949236,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 91949236,
+        "name": "Monsters",
+        "artist": "The Midnight",
+        "cover": "https://p1.music.126.net/X0ZUXOrUi2H42Hsr5Bi5MA==/109951165111559735.jpg",
+        "publishTime": 1594310400000,
+        "year": "2020",
+        "trackCount": 15,
+        "company": "Counter Records",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1460319073,
+            "name": "1991 (Intro)",
+            "duration": 27500,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460317680,
+            "name": "America Online",
+            "duration": 349710,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460317681,
+            "name": "Dance With Somebody",
+            "duration": 257900,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460317682,
+            "name": "Seventeen",
+            "duration": 242680,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460317683,
+            "name": "Dream Away",
+            "duration": 219010,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319074,
+            "name": "The Search for Ecco",
+            "duration": 244790,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460317684,
+            "name": "Prom Night",
+            "duration": 302270,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319075,
+            "name": "Fire In The Sky",
+            "duration": 249440,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319076,
+            "name": "Monsters",
+            "duration": 197933,
+            "artists": "The Midnight、Jupiter Winter"
+          },
+          {
+            "id": 1460317685,
+            "name": "Helvetica",
+            "duration": 316980,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319077,
+            "name": "Brooklyn",
+            "duration": 254210,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319078,
+            "name": "Deep Blue",
+            "duration": 237680,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319079,
+            "name": "Night Skies",
+            "duration": 184580,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460317686,
+            "name": "City Dreams (interlude)",
+            "duration": 137320,
+            "artists": "The Midnight"
+          },
+          {
+            "id": 1460319080,
+            "name": "Last Train",
+            "duration": 262040,
+            "artists": "The Midnight"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.538Z",
+      "groupId": "g3"
+    },
+    {
+      "albumId": 93794957,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 93794957,
+        "name": "Night Drive",
+        "artist": "Timecop1983",
+        "cover": "https://p1.music.126.net/8qobOCuXJ-pZP5cCQkacGQ==/109951165224917470.jpg",
+        "publishTime": 1541001600000,
+        "year": "2018",
+        "trackCount": 11,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1470149633,
+            "name": "Static (feat. The Midnight)",
+            "duration": 293509,
+            "artists": "Timecop1983、The Midnight"
+          },
+          {
+            "id": 1470149634,
+            "name": "On The Run",
+            "duration": 300836,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470149632,
+            "name": "Back To You",
+            "duration": 268049,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470148849,
+            "name": "Cruise",
+            "duration": 354015,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470149629,
+            "name": "Neon Lights",
+            "duration": 239333,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470149631,
+            "name": "Afterglow",
+            "duration": 303514,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470148850,
+            "name": "Too Late",
+            "duration": 298369,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470148847,
+            "name": "Skylines",
+            "duration": 302333,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470148844,
+            "name": "Tokyo",
+            "duration": 304652,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470148845,
+            "name": "Nightfall",
+            "duration": 280603,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 1470148848,
+            "name": "It Was Only A Dream",
+            "duration": 358200,
+            "artists": "Timecop1983"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.538Z"
+    },
+    {
+      "albumId": 3030176,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3030176,
+        "name": "Waves",
+        "artist": "Timecop1983",
+        "cover": "https://p1.music.126.net/iGmRiye3UY6zBC3rbFY8nA==/109951167557881628.jpg",
+        "publishTime": 1657814400000,
+        "year": "2022",
+        "trackCount": 5,
+        "company": "Timecop1983",
+        "description": "",
+        "tracks": [
+          {
+            "id": 29459596,
+            "name": "Tonight",
+            "duration": 304483,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 29459597,
+            "name": "Closer",
+            "duration": 307000,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 29459598,
+            "name": "In Your Arms",
+            "duration": 330266,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 29459599,
+            "name": "Waves",
+            "duration": 302210,
+            "artists": "Timecop1983"
+          },
+          {
+            "id": 29459600,
+            "name": "Running Away",
+            "duration": 342256,
+            "artists": "Timecop1983"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.538Z"
+    },
+    {
+      "albumId": 247015325,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 247015325,
+        "name": "NOICE",
+        "artist": "WIM",
+        "cover": "https://p2.music.126.net/u-HGoDAu0ArfoHw81AOG7Q==/109951173508322271.jpg",
+        "publishTime": 1727798400000,
+        "year": "2024",
+        "trackCount": 8,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2624178694,
+            "name": "Magic",
+            "duration": 200865,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624179651,
+            "name": "All the Way Home",
+            "duration": 167100,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624179652,
+            "name": "Mr. Feelgood",
+            "duration": 230250,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624179653,
+            "name": "Golden",
+            "duration": 158839,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624179654,
+            "name": "Two of Us",
+            "duration": 202000,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624178695,
+            "name": "Sweetest Potion",
+            "duration": 165769,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624178696,
+            "name": "Weirdo",
+            "duration": 253917,
+            "artists": "WIM"
+          },
+          {
+            "id": 2624179655,
+            "name": "One Day I'll Fly (Again)",
+            "duration": 200029,
+            "artists": "WIM"
+          }
+        ]
+      },
+      "addedAt": "2026-10-16T11:24:55.539Z"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "name": "FM Attack"
+    },
+    {
+      "id": "g3",
+      "name": "The Midnight"
+    }
+  ],
+  "order": [
+    389863551,
+    2664565,
+    168268890,
+    71812567,
+    95301146,
+    147935767,
+    2887411,
+    89693612,
+    84254660,
+    146919249,
+    180420579,
+    35138481,
+    93794957,
+    3030176,
+    247015325,
+    154335182,
+    75462145,
+    2478468,
+    83548435,
+    162820698,
+    80814887,
+    286554279,
+    150332196,
+    128942349,
+    2976060,
+    147722394,
+    150976812,
+    91949236
+  ],
+  "view": {
+    "sortMode": "manual"
+  }
+}

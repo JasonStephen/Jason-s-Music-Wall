@@ -1,0 +1,189 @@
+{
+  "version": 1,
+  "name": "Japan",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 34841090,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34841090,
+        "name": "君の名は。",
+        "artist": "RADWIMPS",
+        "cover": "https://p1.music.126.net/UoHin_i29CVJr4gKPEY1kQ==/109951171836647530.jpg",
+        "publishTime": 1471968000000,
+        "year": "2016",
+        "trackCount": 27,
+        "company": "voque ting co., ltd.",
+        "description": "RADWIMPS带给我们的诚意之作——2016年夏上映动画电影《你的名字。》原声带正式发布。本次原声作品经过长时间的打磨最终呈现在大家面前，5首人声曲+22首配乐，多样性的音乐和动画美丽如诗的世界观究竟能够产生怎样的化学反应呢？\n\n\n《你的名字。》是由新海诚导演的一部日本动画电影，由神木隆之介、上白石萌音担任主要配音演员，人设是由参与过《我们仍未知道那天所看见的花的名字。》的田中将贺担当，作画导演由曾创作过《千与千寻》、《幽灵公主》的安藤雅司执笔。作品于2016年8月26日在日本上映，中国大陆于2016年12月2日上映，故事讲述了男女高中生在梦中相遇的幻想故事。\n\n\n2016年夏公開される新海誠監督のアニメーション長編映画『君の名は。』のために制作された、主題歌と劇伴曲を収録したアルバム。新海誠監督とRADWIMPSによる綿密なやり取りを経て完成した今作は、プロット段階から1年以上かけ、妥協のない作業を繰り返した末に生まれた、オリジナルアルバムに匹敵する濃密な作品。RADWIMPSの多種多様な音楽性と、新海誠監督の美しくも切ない詩的な世界観が化学反応を引き起こし、音楽とアニメーションのかつてない密なコラボレーションによる作品となった。",
+        "tracks": [
+          {
+            "id": 426881480,
+            "name": "夢灯籠",
+            "duration": 128360,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881481,
+            "name": "三葉の通学",
+            "duration": 68043,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881482,
+            "name": "糸守高校",
+            "duration": 109626,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881483,
+            "name": "はじめての、東京",
+            "duration": 76978,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881484,
+            "name": "憧れカフェ",
+            "duration": 89874,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881485,
+            "name": "奥寺先輩のテーマ",
+            "duration": 126003,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881486,
+            "name": "ふたりの異変",
+            "duration": 159026,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881487,
+            "name": "前前前世 (movie ver.)",
+            "duration": 284405,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881488,
+            "name": "御神体",
+            "duration": 205662,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881489,
+            "name": "デート",
+            "duration": 243755,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881490,
+            "name": "秋祭り",
+            "duration": 67477,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881491,
+            "name": "記憶を呼び起こす瀧",
+            "duration": 100225,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881492,
+            "name": "飛騨探訪",
+            "duration": 89823,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881493,
+            "name": "消えた町",
+            "duration": 116442,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881494,
+            "name": "図書館",
+            "duration": 102123,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881495,
+            "name": "旅館の夜",
+            "duration": 89417,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881496,
+            "name": "御神体へ再び",
+            "duration": 141218,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881497,
+            "name": "口噛み酒トリップ",
+            "duration": 177299,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881498,
+            "name": "作戦会議",
+            "duration": 141694,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881499,
+            "name": "町長説得",
+            "duration": 165846,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881500,
+            "name": "三葉のテーマ",
+            "duration": 243239,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881501,
+            "name": "見えないふたり",
+            "duration": 50550,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881502,
+            "name": "かたわれ時",
+            "duration": 167901,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881503,
+            "name": "スパークル (movie ver.)",
+            "duration": 534532,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881504,
+            "name": "デート2",
+            "duration": 128825,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881505,
+            "name": "なんでもないや (movie edit)",
+            "duration": 195983,
+            "artists": "RADWIMPS"
+          },
+          {
+            "id": 426881506,
+            "name": "なんでもないや (movie ver.)",
+            "duration": 341891,
+            "artists": "RADWIMPS"
+          }
+        ]
+      },
+      "addedAt": "2026-09-11T06:14:24.084Z"
+    }
+  ]
+}

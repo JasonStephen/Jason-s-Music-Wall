@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "name": "塞壬唱片",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 79790899,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 79790899,
+        "name": "明日方舟OST1",
+        "artist": "塞壬唱片-MSR、BaoUner",
+        "cover": "https://p2.music.126.net/qGbSf3BD69zUDsfy4BlIWA==/109951165644205394.jpg",
+        "publishTime": 1560960000000,
+        "year": "2019",
+        "trackCount": 12,
+        "company": "HyperGryph",
+        "description": "自长眠中苏醒，城市里闪烁着依稀灯火迎来暮色。\n失去故乡的浪人结束了漫长的等待，天际的方舟已悄然启航。\n由新锐音乐组合Windbell_Project与鹰角网络倾力奉献的《明日方舟》游戏原声将为您描绘一个充满无边幻想，带来惊奇的世界。\n\n在这里，可以跟随旋律，漫步在喧嚣的城市；或勇往无前，感受来自北方废墟的凛冽；或于疲倦之时，静息在一缕阳光之下，为这纷乱之世的心灵带来片刻的宁静。\n无论身在何处，心在何方。此时此刻，方舟已然起航。明日还未到来，希望聚于心上。 \n",
+        "tracks": [
+          {
+            "id": 1371757762,
+            "name": "Synthetech",
+            "duration": 204000,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371760675,
+            "name": "逃亡 part2",
+            "duration": 182125,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371757760,
+            "name": "生命流",
+            "duration": 196000,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371757759,
+            "name": "泛用型自动化解决方案0.3.2.9f2",
+            "duration": 196363,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371760677,
+            "name": "人性",
+            "duration": 190615,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371760676,
+            "name": "短兵相接",
+            "duration": 192000,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371757758,
+            "name": "大柏墟",
+            "duration": 129375,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371760669,
+            "name": "终局抵抗者",
+            "duration": 133333,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371760673,
+            "name": "血液",
+            "duration": 124363,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371760674,
+            "name": "执棋者之骨",
+            "duration": 179400,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371757763,
+            "name": "永冻症",
+            "duration": 216666,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          },
+          {
+            "id": 1371757761,
+            "name": "旅途前方",
+            "duration": 202285,
+            "artists": "塞壬唱片-MSR、BaoUner"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T04:01:32.516Z"
+    }
+  ]
+}

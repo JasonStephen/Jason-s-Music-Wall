@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "name": "TURPAK",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 179432656,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 179432656,
+        "name": "The Next Step",
+        "artist": "TURPAK",
+        "cover": "https://p2.music.126.net/WCZPCumbKZT7yLJoPo7lUw==/109951169068025099.jpg",
+        "publishTime": 1699200000000,
+        "year": "2023",
+        "trackCount": 4,
+        "company": "TURPAK",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2101471725,
+            "name": "Dream Big",
+            "duration": 124666,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2101471726,
+            "name": "Over the Horizon",
+            "duration": 153729,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2101470760,
+            "name": "The Next Step",
+            "duration": 154821,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2101471727,
+            "name": "Shaping the Future",
+            "duration": 161400,
+            "artists": "TURPAK"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:33:32.782Z"
+    },
+    {
+      "albumId": 192423034,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 192423034,
+        "name": "Ascending",
+        "artist": "TURPAK",
+        "cover": "https://p1.music.126.net/67Cq-LrZgfT28A79x7V-zA==/109951169501279145.jpg",
+        "publishTime": 1712160000000,
+        "year": "2024",
+        "trackCount": 2,
+        "company": "TURPAK",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2146290136,
+            "name": "Ascending",
+            "duration": 147271,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2146290137,
+            "name": "Land of Wonders",
+            "duration": 144000,
+            "artists": "TURPAK"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:33:44.431Z"
+    },
+    {
+      "albumId": 192425170,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 192425170,
+        "name": "Rising Star",
+        "artist": "TURPAK",
+        "cover": "https://p2.music.126.net/bs0PgeRp2UpNwbXV0Rc4Fg==/109951169501288962.jpg",
+        "publishTime": 1712073600000,
+        "year": "2024",
+        "trackCount": 2,
+        "company": "TURPAK",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2146296677,
+            "name": "Rising Star",
+            "duration": 136000,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2146295134,
+            "name": "Wings of Freedom",
+            "duration": 125760,
+            "artists": "TURPAK"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:33:40.610Z"
+    },
+    {
+      "albumId": 175851806,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 175851806,
+        "name": "Keep Exploring",
+        "artist": "TURPAK",
+        "cover": "https://p1.music.126.net/_WzDtAkCA7yRUO4gDv87UA==/109951168950363881.jpg",
+        "publishTime": 1695225600000,
+        "year": "2023",
+        "trackCount": 5,
+        "company": "TURPAK",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2086521636,
+            "name": "Synergy",
+            "duration": 146517,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2086521167,
+            "name": "Exceptional",
+            "duration": 122714,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2086521637,
+            "name": "Dare to Try",
+            "duration": 183400,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2086521638,
+            "name": "Keep Exploring",
+            "duration": 114538,
+            "artists": "TURPAK"
+          },
+          {
+            "id": 2086521639,
+            "name": "Silver Wings",
+            "duration": 170935,
+            "artists": "TURPAK"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:33:35.756Z"
+    }
+  ]
+}

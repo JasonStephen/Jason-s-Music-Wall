@@ -1,0 +1,1050 @@
+{
+  "version": 1,
+  "name": "Music Dennis Kuo",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 133421,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 133421,
+        "name": "Study Music Project: Music for the Mind",
+        "artist": "Dennis Kuo",
+        "cover": "https://p2.music.126.net/9mY71crkeOgQrFVK-AY9cg==/109951164439091720.jpg",
+        "publishTime": 1293206400000,
+        "year": "2010",
+        "trackCount": 15,
+        "company": "Dennis Kuo",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1293020,
+            "name": "Sailing into Abyss",
+            "duration": 273633,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293024,
+            "name": "Almost Remember",
+            "duration": 261068,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293028,
+            "name": "Piano Ballad",
+            "duration": 212872,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293032,
+            "name": "Starlight Memories",
+            "duration": 338064,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293036,
+            "name": "Neptune Illusion",
+            "duration": 290232,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293040,
+            "name": "Rain Has Gone",
+            "duration": 325617,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293043,
+            "name": "Time Castle",
+            "duration": 273945,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293046,
+            "name": "Dream Waltz",
+            "duration": 228206,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293048,
+            "name": "Flower",
+            "duration": 182296,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293052,
+            "name": "Neo Gardens",
+            "duration": 266972,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293055,
+            "name": "Dream of Love",
+            "duration": 266332,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293058,
+            "name": "Once Upon a Time",
+            "duration": 250959,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293063,
+            "name": "Midnight Coffee",
+            "duration": 341421,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293068,
+            "name": "We'll Meet Again",
+            "duration": 339096,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1293072,
+            "name": "Rain Has Gone (Extended Version)",
+            "duration": 476082,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:57:33.005Z"
+    },
+    {
+      "albumId": 3319520,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3319520,
+        "name": "Study Music Project 2: Cram Session",
+        "artist": "Dennis Kuo",
+        "cover": "https://p1.music.126.net/D_dwFBDuS6uMMz-RTmppZA==/109951165352392865.jpg",
+        "publishTime": 1325347200000,
+        "year": "2012",
+        "trackCount": 13,
+        "company": "Dennis Kuo",
+        "description": "",
+        "tracks": [
+          {
+            "id": 35416317,
+            "name": "Tesseract",
+            "duration": 478666,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416318,
+            "name": "Autumn Melody",
+            "duration": 308063,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416319,
+            "name": "Blue Deja Vu",
+            "duration": 320064,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416320,
+            "name": "Clarity",
+            "duration": 329739,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416321,
+            "name": "Peace in Belize",
+            "duration": 314666,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416322,
+            "name": "Winter Story",
+            "duration": 302171,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416323,
+            "name": "Jazzmine Tea",
+            "duration": 286896,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416324,
+            "name": "I Miss You...",
+            "duration": 365701,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416325,
+            "name": "Smoothie Samba",
+            "duration": 333600,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416327,
+            "name": "Music Box",
+            "duration": 284035,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416328,
+            "name": "Masquerade",
+            "duration": 245039,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416329,
+            "name": "Snowflake Sonata",
+            "duration": 269280,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416330,
+            "name": "Étoile Filante (Shooting Star)",
+            "duration": 298000,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:58:35.361Z"
+    },
+    {
+      "albumId": 3319524,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3319524,
+        "name": "Study Music Project 3: All​-​Nighter",
+        "artist": "Dennis Kuo",
+        "cover": "https://p2.music.126.net/VCGDM-qlozL8_OJvdff9jQ==/3355709489159907.jpg",
+        "publishTime": 1365264000007,
+        "year": "2013",
+        "trackCount": 15,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 35416335,
+            "name": "Ever Eternity",
+            "duration": 540237,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416336,
+            "name": "Save My Dreams",
+            "duration": 326181,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416337,
+            "name": "Rainy Nights, Rainy Days",
+            "duration": 378212,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416338,
+            "name": "Crystal Rose",
+            "duration": 369893,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416339,
+            "name": "Moon Among Trees",
+            "duration": 474143,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416340,
+            "name": "Waltz into Love",
+            "duration": 267130,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416341,
+            "name": "Another Dimension",
+            "duration": 477805,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416342,
+            "name": "Mocha Latte",
+            "duration": 316376,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416343,
+            "name": "Falling Petals",
+            "duration": 461185,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416344,
+            "name": "Water Lily",
+            "duration": 283141,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416345,
+            "name": "Sweet Saturn",
+            "duration": 377087,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416346,
+            "name": "Just in a Dream",
+            "duration": 288051,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416347,
+            "name": "Sincerely Yours",
+            "duration": 310595,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416348,
+            "name": "Reminiscence (Coffee Version)",
+            "duration": 603000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 35416349,
+            "name": "Reminiscence (Tea Version)",
+            "duration": 603477,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:58:37.469Z"
+    },
+    {
+      "albumId": 72798211,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 72798211,
+        "name": "Study Music Project 4: Get Organized",
+        "artist": "Dennis Kuo",
+        "cover": "https://p2.music.126.net/Wz-KpDgPRiSgj7eM9_j6Ag==/109951165992618371.jpg",
+        "publishTime": 1461081600000,
+        "year": "2016",
+        "trackCount": 12,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1309903492,
+            "name": "Aurora Sky",
+            "duration": 532545,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309896427,
+            "name": "Ballad in Autumn",
+            "duration": 380000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309915386,
+            "name": "Caramel Macchiato",
+            "duration": 524081,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309896428,
+            "name": "Dear Diary",
+            "duration": 437413,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309901517,
+            "name": "Evening Epiphany",
+            "duration": 348300,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309903493,
+            "name": "Flight 302",
+            "duration": 352771,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309896429,
+            "name": "Glass Palace",
+            "duration": 331183,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309901518,
+            "name": "Harmony Echo",
+            "duration": 367604,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309903494,
+            "name": "Imaginasia",
+            "duration": 290000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309915388,
+            "name": "Just in a Memory",
+            "duration": 391978,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309915387,
+            "name": "Knight's Dream",
+            "duration": 337489,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1309903495,
+            "name": "Love for You",
+            "duration": 318659,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:58:39.089Z"
+    },
+    {
+      "albumId": 73444652,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 73444652,
+        "name": "Study Music Project 5: Music for the Heart",
+        "artist": "Dennis Kuo",
+        "cover": "https://p1.music.126.net/9hdd3V20QlMchlo0AiMKKg==/109951165992627286.jpg",
+        "publishTime": 1496764800000,
+        "year": "2017",
+        "trackCount": 15,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1311132217,
+            "name": "Green Tea Mochi",
+            "duration": 353578,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311131223,
+            "name": "Heart's Euphony",
+            "duration": 394555,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311131225,
+            "name": "Winter Sweet",
+            "duration": 401995,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311132216,
+            "name": "Daydream Away",
+            "duration": 284050,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311131222,
+            "name": "City of Illusions",
+            "duration": 211200,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311134189,
+            "name": "Wish the Moon",
+            "duration": 356924,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311131224,
+            "name": "Sakura Falls",
+            "duration": 416000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311133221,
+            "name": "Night Float",
+            "duration": 210402,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311134187,
+            "name": "Aquarium",
+            "duration": 506822,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311134188,
+            "name": "Banana Beach",
+            "duration": 281707,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311133223,
+            "name": "Windmills",
+            "duration": 431208,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311133220,
+            "name": "Forest Interlude",
+            "duration": 381769,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311134186,
+            "name": "Double Espresso",
+            "duration": 318263,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311133222,
+            "name": "Twilight Tranquility",
+            "duration": 311186,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1311132218,
+            "name": "Remember Me",
+            "duration": 438360,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:58:43.289Z"
+    },
+    {
+      "albumId": 73702860,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 73702860,
+        "name": "Study Music Project 6: Memory Palace",
+        "artist": "Dennis Kuo",
+        "cover": "https://p2.music.126.net/BDYYyy_x3yDV5thPLejtuQ==/109951165332759683.jpg",
+        "publishTime": 1525017600000,
+        "year": "2018",
+        "trackCount": 13,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1316330677,
+            "name": "Let's Escape to Paradise Together",
+            "duration": 387906,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330678,
+            "name": "Kaleidoscope Dreams",
+            "duration": 376822,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330679,
+            "name": "Love the City Lights",
+            "duration": 240000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330680,
+            "name": "White Nostalgia",
+            "duration": 276000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330681,
+            "name": "Love Me More",
+            "duration": 313752,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330682,
+            "name": "Enchanted Eternity",
+            "duration": 388363,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330683,
+            "name": "Working Late Tonight",
+            "duration": 439000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330684,
+            "name": "Lost Melon",
+            "duration": 296862,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330685,
+            "name": "Imagine If",
+            "duration": 371806,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330686,
+            "name": "Must Stay Awake",
+            "duration": 260000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330687,
+            "name": "Beyond This World",
+            "duration": 628805,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330688,
+            "name": "Marshmellow",
+            "duration": 364363,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1316330689,
+            "name": "Track in Time",
+            "duration": 282352,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:58:44.557Z"
+    },
+    {
+      "albumId": 80218653,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 80218653,
+        "name": "Study Music Project 7: Final Exam",
+        "artist": "Dennis Kuo",
+        "cover": "https://p2.music.126.net/H801An0IN1AXfj4cnFs0-A==/109951165992634604.jpg",
+        "publishTime": 1551110400000,
+        "year": "2019",
+        "trackCount": 14,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1375927624,
+            "name": "Aurora Nights",
+            "duration": 983562,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375927620,
+            "name": "PS I Still Love You",
+            "duration": 300531,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935121,
+            "name": "The First Time I Saw You, I Thought You Were a Star",
+            "duration": 319090,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935118,
+            "name": "Fallen from the Sky",
+            "duration": 247203,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375927600,
+            "name": "Wanna Get Coffee?",
+            "duration": 204000,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935126,
+            "name": "Rain in My Heart",
+            "duration": 484453,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935122,
+            "name": "Love Hurts, Love Anyway",
+            "duration": 328988,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935119,
+            "name": "Forgotten Fairytale",
+            "duration": 184090,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935127,
+            "name": "Your Eyes Are Like the Moon",
+            "duration": 418461,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375927618,
+            "name": "Parallel Worlds",
+            "duration": 211200,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935120,
+            "name": "Eternal Dreams",
+            "duration": 374285,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935124,
+            "name": "You Left Without Saying Goodbye",
+            "duration": 393398,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935117,
+            "name": "Pink Lemonade",
+            "duration": 158117,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1375935123,
+            "name": "Kiss of the Wind",
+            "duration": 389630,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:58:46.042Z"
+    },
+    {
+      "albumId": 94910383,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 94910383,
+        "name": "Study Music Project 8: Don't Procrastin8",
+        "artist": "Dennis Kuo",
+        "cover": "https://p1.music.126.net/YMA7dxhGoE2F7oDjEXLJ2g==/109951165292052768.jpg",
+        "publishTime": 1576080000000,
+        "year": "2019",
+        "trackCount": 15,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1476256481,
+            "name": "Winter Memories",
+            "duration": 455172,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256482,
+            "name": "You're Still on My Mind Past Midnight",
+            "duration": 285957,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476255994,
+            "name": "Sometimes You Gotta Be a Little Sad for Awhile",
+            "duration": 216338,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476255995,
+            "name": "Poetry of Innocence and Water",
+            "duration": 292743,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476255996,
+            "name": "Seasons of Reflection",
+            "duration": 320060,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256483,
+            "name": "Memory in Sweet Dreams",
+            "duration": 240046,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256484,
+            "name": "Roses",
+            "duration": 209499,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256485,
+            "name": "Another Day in a Café",
+            "duration": 135222,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476255997,
+            "name": "Night Sky Cries",
+            "duration": 273362,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256486,
+            "name": "Rain in My Heart (Coffee Version) (Coffee Version)",
+            "duration": 210389,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476255998,
+            "name": "Samurai Mural",
+            "duration": 218181,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256487,
+            "name": "My Lovely Lady",
+            "duration": 224721,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476255999,
+            "name": "Spent the Whole Evening Struggling With Writer's Block",
+            "duration": 149610,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256488,
+            "name": "The Ghost at Daybreak",
+            "duration": 273103,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1476256000,
+            "name": "Fly With Me to the Milky Way",
+            "duration": 248727,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:59:05.258Z"
+    },
+    {
+      "albumId": 94403484,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 94403484,
+        "name": "Study Music Project 9: Solitude",
+        "artist": "Dennis Kuo",
+        "cover": "https://p2.music.126.net/Tgah9BSKzDjps6ENyW69Og==/109951165264540163.jpg",
+        "publishTime": 1600963200000,
+        "year": "2020",
+        "trackCount": 15,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1473544692,
+            "name": "Lonely Expressions",
+            "duration": 196747,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545305,
+            "name": "Coffee for One",
+            "duration": 304041,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473544693,
+            "name": "Sonata by the Sea",
+            "duration": 232264,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473544694,
+            "name": "These Fragments I Have Shored Against My Ruins",
+            "duration": 201797,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473544695,
+            "name": "Lavender Morning",
+            "duration": 255700,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473544696,
+            "name": "Springtime Blossoms",
+            "duration": 281051,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473544697,
+            "name": "Mirrors in the Midst",
+            "duration": 286619,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545306,
+            "name": "Autumn and Spring Rains",
+            "duration": 353141,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545307,
+            "name": "Finding Meaning in a Delusional World",
+            "duration": 278600,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545308,
+            "name": "Waterfall from the Sky",
+            "duration": 311951,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545309,
+            "name": "Twinkling of an Eye",
+            "duration": 161525,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545310,
+            "name": "Sun, Moon, and the Stars",
+            "duration": 246704,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545311,
+            "name": "Catch a Pocketful of Stars",
+            "duration": 308929,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473544699,
+            "name": "Once a Beautiful World",
+            "duration": 252769,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1473545312,
+            "name": "Requiem of Solitude",
+            "duration": 232835,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:59:07.455Z"
+    },
+    {
+      "albumId": 98380229,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 98380229,
+        "name": "Study Music Project 10: Music for the Soul",
+        "artist": "Dennis Kuo",
+        "cover": "https://p1.music.126.net/1vLsIB-4ES2__Zm-3DB79Q==/109951165475076090.jpg",
+        "publishTime": 1607616000000,
+        "year": "2020",
+        "trackCount": 15,
+        "company": "Status Kuo Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1495924407,
+            "name": "Almost Remember Again",
+            "duration": 294941,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924408,
+            "name": "Raindrops Never Stop Falling",
+            "duration": 201665,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924409,
+            "name": "Sweet Saturn (Piano Version) (Piano Version)",
+            "duration": 223563,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924410,
+            "name": "Marble Clock",
+            "duration": 116168,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495925246,
+            "name": "Silent Pebbles",
+            "duration": 187348,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924411,
+            "name": "Serenity Sonata",
+            "duration": 334229,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924412,
+            "name": "A Color I Don't Remember",
+            "duration": 203389,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924413,
+            "name": "Blue Galaxy",
+            "duration": 301651,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924414,
+            "name": "Light Through the Window",
+            "duration": 230530,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924415,
+            "name": "A Brighter Tomorrow",
+            "duration": 286527,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924416,
+            "name": "A Story About Love",
+            "duration": 226285,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924417,
+            "name": "Letter For You",
+            "duration": 236907,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924418,
+            "name": "A Broken Heart Heals with Time",
+            "duration": 272999,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924419,
+            "name": "What if We Never Met",
+            "duration": 338703,
+            "artists": "Dennis Kuo"
+          },
+          {
+            "id": 1495924420,
+            "name": "Wandering In My Dream",
+            "duration": 236434,
+            "artists": "Dennis Kuo"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:59:09.900Z"
+    }
+  ]
+}

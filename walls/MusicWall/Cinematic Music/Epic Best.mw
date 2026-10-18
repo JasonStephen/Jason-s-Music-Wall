@@ -1,0 +1,4049 @@
+{
+  "version": 2,
+  "name": "新的音乐墙",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 179201313,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 179201313,
+        "name": "Kaleidoscope",
+        "artist": "Jo Blankenburg",
+        "cover": "https://p1.music.126.net/-R1qzx_eVlD2i7ARopjBQA==/109951169059075788.jpg",
+        "publishTime": 1435161600000,
+        "year": "2015",
+        "trackCount": 12,
+        "company": "Position Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2100374056,
+            "name": "Renascence",
+            "duration": 181120,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374058,
+            "name": "Jellyfish in the Sky",
+            "duration": 242666,
+            "artists": "Jo Blankenburg、Sunday Lane"
+          },
+          {
+            "id": 2100374657,
+            "name": "Abyss",
+            "duration": 233786,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374658,
+            "name": "A Lifetime",
+            "duration": 176173,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374061,
+            "name": "Memento",
+            "duration": 195893,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374659,
+            "name": "Velvet",
+            "duration": 206386,
+            "artists": "Jo Blankenburg、Sunday Lane"
+          },
+          {
+            "id": 2100374660,
+            "name": "Borealis",
+            "duration": 245800,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374062,
+            "name": "Pearls",
+            "duration": 212626,
+            "artists": "Jo Blankenburg、Sunday Lane"
+          },
+          {
+            "id": 2100374661,
+            "name": "Villanelle",
+            "duration": 236986,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374662,
+            "name": "Moira",
+            "duration": 187600,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 2100374663,
+            "name": "Lucida",
+            "duration": 188160,
+            "artists": "Jo Blankenburg、Sunday Lane"
+          },
+          {
+            "id": 2100374664,
+            "name": "Deliverance",
+            "duration": 213253,
+            "artists": "Jo Blankenburg"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:26:26.803Z"
+    },
+    {
+      "albumId": 91927362,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 91927362,
+        "name": "Elysium",
+        "artist": "Jo Blankenburg",
+        "cover": "https://p1.music.126.net/MCrzky8RdiFAkYq72ImxPA==/109951168888091870.jpg",
+        "publishTime": 1343664000000,
+        "year": "2012",
+        "trackCount": 11,
+        "company": "Position Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1460187805,
+            "name": "Garador's Flight",
+            "duration": 169187,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460186728,
+            "name": "Ascencia",
+            "duration": 128760,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460186729,
+            "name": "Gryphonheart",
+            "duration": 159000,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460187806,
+            "name": "Illumielle",
+            "duration": 161152,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460186730,
+            "name": "Terra Mirus",
+            "duration": 191197,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460187807,
+            "name": "Leaving Lemuria",
+            "duration": 178701,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460186731,
+            "name": "Zephyrus",
+            "duration": 159267,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460187808,
+            "name": "Arion",
+            "duration": 143768,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460187809,
+            "name": "Voyage Dans La Lune",
+            "duration": 153986,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460186732,
+            "name": "Empyrea",
+            "duration": 207324,
+            "artists": "Jo Blankenburg"
+          },
+          {
+            "id": 1460186733,
+            "name": "Theogony",
+            "duration": 155411,
+            "artists": "Jo Blankenburg"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:26:36.026Z"
+    },
+    {
+      "albumId": 75731337,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 75731337,
+        "name": "Pinnacle",
+        "artist": "Steven Coltart、Marcus Warner",
+        "cover": "https://p2.music.126.net/8xH3JneYfS1fhbYTEarWDw==/109951163894278838.jpg",
+        "publishTime": 1546272000000,
+        "year": "2019",
+        "trackCount": 12,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1349017795,
+            "name": "Cloud Realm",
+            "duration": 216502,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017788,
+            "name": "Eden",
+            "duration": 180558,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017794,
+            "name": "Remember",
+            "duration": 172512,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017786,
+            "name": "Stories of Hope",
+            "duration": 167601,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349016980,
+            "name": "Chapters",
+            "duration": 131761,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017791,
+            "name": "Climb",
+            "duration": 139075,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349016981,
+            "name": "Zion",
+            "duration": 162586,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017789,
+            "name": "Circles",
+            "duration": 142059,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017796,
+            "name": "Solace",
+            "duration": 162063,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349016982,
+            "name": "Earth",
+            "duration": 175020,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349016983,
+            "name": "Pinnacle",
+            "duration": 149002,
+            "artists": "Steven Coltart、Marcus Warner"
+          },
+          {
+            "id": 1349017787,
+            "name": "The Launch",
+            "duration": 175542,
+            "artists": "Steven Coltart、Marcus Warner"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:30:20.433Z"
+    },
+    {
+      "albumId": 3171557,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3171557,
+        "name": "Liberation",
+        "artist": "Marcus Warner",
+        "cover": "https://p1.music.126.net/u66fcT2CQmdUZDwPmNNXRA==/109951165174473135.jpg",
+        "publishTime": 1412352000000,
+        "year": "2014",
+        "trackCount": 15,
+        "company": "华纳音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 32857548,
+            "name": "Out of the Blue",
+            "duration": 289613,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857549,
+            "name": "Wings",
+            "duration": 243000,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857550,
+            "name": "After the Rain",
+            "duration": 376373,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857551,
+            "name": "The World Is Beautiful",
+            "duration": 193720,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857552,
+            "name": "If I Should Return",
+            "duration": 297013,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857553,
+            "name": "From My Time in London",
+            "duration": 123120,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857554,
+            "name": "Forward Thinking",
+            "duration": 295773,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857555,
+            "name": "Africa",
+            "duration": 384946,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857556,
+            "name": "Memories",
+            "duration": 184506,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857557,
+            "name": "The Captain's Dance",
+            "duration": 215613,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857558,
+            "name": "Telescope",
+            "duration": 301480,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857559,
+            "name": "Port Wednesday",
+            "duration": 173293,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857560,
+            "name": "If Elephants Could Fly",
+            "duration": 298960,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857561,
+            "name": "Fallen Hero",
+            "duration": 233426,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 32857562,
+            "name": "Liberation",
+            "duration": 297053,
+            "artists": "Marcus Warner"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:30:25.157Z"
+    },
+    {
+      "albumId": 188323682,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 188323682,
+        "name": "Ascending - Emotional Uplfiting Drama",
+        "artist": "Amir Gurvitz、Alexander Okunev",
+        "cover": "https://p2.music.126.net/k8O0OjQfG2G67w0jiiyLBA==/109951170707877543.jpg",
+        "publishTime": 1711900800000,
+        "year": "2024",
+        "trackCount": 10,
+        "company": "华纳音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2133656414,
+            "name": "Remember Everything",
+            "duration": 192136,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657983,
+            "name": "The Way Home",
+            "duration": 186016,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657984,
+            "name": "Summer Rain",
+            "duration": 205636,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657986,
+            "name": "Nostalgia",
+            "duration": 151000,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657987,
+            "name": "White Night",
+            "duration": 174000,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657988,
+            "name": "The Time",
+            "duration": 209550,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657989,
+            "name": "Rise & Fall",
+            "duration": 205090,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133656417,
+            "name": "Morning Rain",
+            "duration": 180125,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133657990,
+            "name": "Lost Dreams",
+            "duration": 160166,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          },
+          {
+            "id": 2133656418,
+            "name": "Oblivion",
+            "duration": 147409,
+            "artists": "Amir Gurvitz、Alexander Okunev"
+          }
+        ]
+      },
+      "addedAt": "2026-09-02T07:42:46.434Z"
+    },
+    {
+      "albumId": 3415590,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3415590,
+        "name": "Divinity",
+        "artist": "Peter Roe",
+        "cover": "https://p1.music.126.net/2lRR2kP4tPbJIBppHmbwYg==/109951165267743323.jpg",
+        "publishTime": 1446739200000,
+        "year": "2015",
+        "trackCount": 10,
+        "company": "Peter Roe",
+        "description": "",
+        "tracks": [
+          {
+            "id": 37211433,
+            "name": "Queen of the Ocean",
+            "duration": 287731,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211434,
+            "name": "Savior",
+            "duration": 225742,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211435,
+            "name": "This Is My World",
+            "duration": 198639,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211436,
+            "name": "One Love",
+            "duration": 209858,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211437,
+            "name": "Mysterious Islands",
+            "duration": 172960,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211438,
+            "name": "Divinity",
+            "duration": 261069,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211439,
+            "name": "In the Clouds",
+            "duration": 262462,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211440,
+            "name": "Final Touch",
+            "duration": 131562,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211441,
+            "name": "Last Hope",
+            "duration": 175392,
+            "artists": "Peter Roe"
+          },
+          {
+            "id": 37211442,
+            "name": "Child and the Guardian Angel",
+            "duration": 215392,
+            "artists": "Peter Roe"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:30:54.615Z"
+    },
+    {
+      "albumId": 3275300,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3275300,
+        "name": "Golden Abyss",
+        "artist": "Really Slow Motion",
+        "cover": "https://p2.music.126.net/05h908kh64g3uihD8ppWaA==/7742760883977414.jpg",
+        "publishTime": 1420041600007,
+        "year": "2015",
+        "trackCount": 36,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 34200312,
+            "name": "The Promise",
+            "duration": 116693,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200313,
+            "name": "Skyscraper",
+            "duration": 251018,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200314,
+            "name": "The Eternal Rest Of A Ronin",
+            "duration": 212394,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200315,
+            "name": "Elektric Horizons",
+            "duration": 178784,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200317,
+            "name": "The Gathering",
+            "duration": 136010,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200318,
+            "name": "Out Of The Mist",
+            "duration": 99008,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200319,
+            "name": "Adoramous",
+            "duration": 120010,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200320,
+            "name": "Forever We Are",
+            "duration": 134709,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200322,
+            "name": "Magic Tower",
+            "duration": 114741,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200323,
+            "name": "Illuminate",
+            "duration": 164000,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200324,
+            "name": "The Last Battle",
+            "duration": 157856,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200325,
+            "name": "Descent Into Darkness",
+            "duration": 184874,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200327,
+            "name": "Life After Life",
+            "duration": 179925,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200328,
+            "name": "Follow To The End",
+            "duration": 139434,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200329,
+            "name": "Unbound",
+            "duration": 186677,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200330,
+            "name": "And The World Shall Fall",
+            "duration": 111466,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200331,
+            "name": "Days Of Mayhem",
+            "duration": 152725,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200333,
+            "name": "Legendary Heroes",
+            "duration": 125632,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200334,
+            "name": "Pillars Of Ressurrection",
+            "duration": 203202,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200335,
+            "name": "Adoramous (No Choir)",
+            "duration": 120010,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200337,
+            "name": "And The World Shall Fall (No Choir)",
+            "duration": 111466,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200339,
+            "name": "Days Of Mayhem (No Choir)",
+            "duration": 152725,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200342,
+            "name": "Descent Into Darkness (No Choir)",
+            "duration": 183050,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200343,
+            "name": "Follow To The End (No Choir)",
+            "duration": 139434,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200344,
+            "name": "Forever We Are (No Choir)",
+            "duration": 134720,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200345,
+            "name": "Illuminate (No Orch)",
+            "duration": 164000,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200346,
+            "name": "Legendary Heroes (No Choir)",
+            "duration": 125632,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200347,
+            "name": "Life After Life (No Choir)",
+            "duration": 179925,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200348,
+            "name": "Magic Tower (No Choir)",
+            "duration": 114741,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200349,
+            "name": "Out Of The Mist (No Choir)",
+            "duration": 99008,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200350,
+            "name": "Pillars Of Ressurrection (No Choir)",
+            "duration": 203210,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200351,
+            "name": "Skyscraper (No Choir)",
+            "duration": 251018,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200353,
+            "name": "The Eternal Rest Of A Ronin (No Choir)",
+            "duration": 209984,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200354,
+            "name": "The Last Battle (No Vocal)",
+            "duration": 157910,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200355,
+            "name": "The Last Battle (Vocal Alt)",
+            "duration": 157856,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 34200356,
+            "name": "The Promise (No Choir)",
+            "duration": 116693,
+            "artists": "Really Slow Motion"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:31:08.868Z"
+    },
+    {
+      "albumId": 35369061,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 35369061,
+        "name": "Piano Works 8",
+        "artist": "Richard Schrieber",
+        "cover": "https://p1.music.126.net/4vy1Xgz_EnViYXvg92LDng==/18791753232187919.jpg",
+        "publishTime": 1483200000007,
+        "year": "2017",
+        "trackCount": 11,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 471968263,
+            "name": "The Sun Will Rise",
+            "duration": 218069,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471968261,
+            "name": "Falling Angels",
+            "duration": 183402,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471969278,
+            "name": "Highdown",
+            "duration": 155221,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471968260,
+            "name": "Miracle of Life",
+            "duration": 144426,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471968264,
+            "name": "By Another Name",
+            "duration": 162431,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471968262,
+            "name": "Atlantis Lives",
+            "duration": 172138,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471969281,
+            "name": "Years and Years",
+            "duration": 188586,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471968267,
+            "name": "From Within",
+            "duration": 123498,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471968268,
+            "name": "A Smile Goes A Long Way",
+            "duration": 161642,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471969280,
+            "name": "Joy",
+            "duration": 185234,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 471969282,
+            "name": "Get The Girl",
+            "duration": 159552,
+            "artists": "Richard Schrieber"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:31:17.406Z"
+    },
+    {
+      "albumId": 91343241,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 91343241,
+        "name": "The Highlands",
+        "artist": "IAN POST",
+        "cover": "https://p1.music.126.net/Timq2kr-q39RYE-onlx9Pg==/109951165082655665.jpg",
+        "publishTime": 1592755200000,
+        "year": "2020",
+        "trackCount": 10,
+        "company": "Artlist Original",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1457421954,
+            "name": "To Edinburgh",
+            "duration": 266760,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421955,
+            "name": "The Isle of Skye",
+            "duration": 208220,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421956,
+            "name": "Arisaig",
+            "duration": 239730,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421957,
+            "name": "Eminence Landscapes",
+            "duration": 210744,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421958,
+            "name": "The Meadow",
+            "duration": 176000,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421959,
+            "name": "Endless Fields",
+            "duration": 170254,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421960,
+            "name": "To Edinburgh (Alternative Version)",
+            "duration": 266760,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457423204,
+            "name": "The Isle of Skye (Alternative Version)",
+            "duration": 208220,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457421962,
+            "name": "Arisaig (Alternative Version)",
+            "duration": 239730,
+            "artists": "IAN POST"
+          },
+          {
+            "id": 1457423205,
+            "name": "Arisaig (Acoustic Version)",
+            "duration": 239730,
+            "artists": "IAN POST"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:29:30.827Z"
+    },
+    {
+      "albumId": 34898901,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34898901,
+        "name": "Right Step",
+        "artist": "Artem Yegorov",
+        "cover": "https://p2.music.126.net/3K3WwdU8Jy7uwnebTa4SLQ==/109951164150966247.jpg",
+        "publishTime": 1465920000000,
+        "year": "2016",
+        "trackCount": 8,
+        "company": "Artem Yegorov",
+        "description": "",
+        "tracks": [
+          {
+            "id": 434550423,
+            "name": "Right Step",
+            "duration": 214018,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434659280,
+            "name": "Follow Your Dreams",
+            "duration": 207124,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434550424,
+            "name": "Open Your Mind",
+            "duration": 192062,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434659281,
+            "name": "Master Your Fears",
+            "duration": 216124,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434550425,
+            "name": "Choice",
+            "duration": 215375,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434659282,
+            "name": "Breath of Joy",
+            "duration": 199812,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434550426,
+            "name": "Limitless",
+            "duration": 217124,
+            "artists": "Artem Yegorov"
+          },
+          {
+            "id": 434659283,
+            "name": "Reflections",
+            "duration": 343124,
+            "artists": "Artem Yegorov"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:32:08.643Z"
+    },
+    {
+      "albumId": 34886063,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34886063,
+        "name": "Epic Mayhem Vol.1",
+        "artist": "Dwayne Ford",
+        "cover": "https://p2.music.126.net/5Xl20BLYsTXJcRot6JqUWw==/18530069463135008.jpg",
+        "publishTime": 1415462400000,
+        "year": "2014",
+        "trackCount": 15,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 431395388,
+            "name": "End Times Lullaby",
+            "duration": 285605,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395389,
+            "name": "Achilles Tears",
+            "duration": 308898,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395390,
+            "name": "The Promise",
+            "duration": 342274,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395391,
+            "name": "Sentinel",
+            "duration": 286293,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395392,
+            "name": "Rubicon",
+            "duration": 314432,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395393,
+            "name": "Atonement",
+            "duration": 286543,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395394,
+            "name": "Ascension",
+            "duration": 345538,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395395,
+            "name": "Air Support",
+            "duration": 308378,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395396,
+            "name": "War In Heaven",
+            "duration": 274429,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395397,
+            "name": "Annapurna",
+            "duration": 249861,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395398,
+            "name": "Redemption",
+            "duration": 329781,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395399,
+            "name": "Ghost Of Eden",
+            "duration": 270400,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395400,
+            "name": "Golden Fleece",
+            "duration": 258873,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395401,
+            "name": "Perseus",
+            "duration": 311584,
+            "artists": "Dwayne Ford"
+          },
+          {
+            "id": 431395402,
+            "name": "Blood Temple",
+            "duration": 228165,
+            "artists": "Dwayne Ford"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:32:17.245Z"
+    },
+    {
+      "albumId": 3233257,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3233257,
+        "name": "SHIRE MUSIC IEATMCC02 - Life Sublimate",
+        "artist": "Shire Music",
+        "cover": "https://p1.music.126.net/6WdSZrzocv-ugN_oRSnAOA==/3285340743953297.jpg",
+        "publishTime": 1420041600007,
+        "year": "2015",
+        "trackCount": 21,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 33682155,
+            "name": "Water Of Life",
+            "duration": 172330,
+            "artists": "Silver Screen"
+          },
+          {
+            "id": 33682156,
+            "name": "Ascension",
+            "duration": 222120,
+            "artists": "Future World Music"
+          },
+          {
+            "id": 33682157,
+            "name": "Awake",
+            "duration": 180010,
+            "artists": "Full Tilt"
+          },
+          {
+            "id": 33682158,
+            "name": "Golden Fleece",
+            "duration": 258837,
+            "artists": "Songs To Your Eyes"
+          },
+          {
+            "id": 33682159,
+            "name": "Guardians at the Gate",
+            "duration": 136778,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 33682160,
+            "name": "In The Autumn",
+            "duration": 160714,
+            "artists": "FEM"
+          },
+          {
+            "id": 33682161,
+            "name": "The Uprising",
+            "duration": 176066,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 33682162,
+            "name": "Deep Heart",
+            "duration": 177365,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 33682163,
+            "name": "Suns And Stars",
+            "duration": 172064,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 33682167,
+            "name": "Panoramic",
+            "duration": 173312,
+            "artists": "Impact Trailer Music"
+          },
+          {
+            "id": 33682168,
+            "name": "Asylum",
+            "duration": 166022,
+            "artists": "Switch Music Group"
+          },
+          {
+            "id": 33682169,
+            "name": "Beautiful",
+            "duration": 130000,
+            "artists": "Future World Music"
+          },
+          {
+            "id": 33682171,
+            "name": "Deadly Deceit",
+            "duration": 125160,
+            "artists": "Gregg Lehrman"
+          },
+          {
+            "id": 33682172,
+            "name": "Ocean Sky",
+            "duration": 156000,
+            "artists": "Gargantuan Music"
+          },
+          {
+            "id": 33682180,
+            "name": "The Lost World",
+            "duration": 138250,
+            "artists": "Epic Soul Factory"
+          },
+          {
+            "id": 33682190,
+            "name": "Iridescence",
+            "duration": 166133,
+            "artists": "Really Slow Motion"
+          },
+          {
+            "id": 33682192,
+            "name": "Horizons",
+            "duration": 189962,
+            "artists": "Radical Music"
+          },
+          {
+            "id": 33682193,
+            "name": "Retribution",
+            "duration": 181088,
+            "artists": "David Reynolds"
+          },
+          {
+            "id": 33682199,
+            "name": "Rise",
+            "duration": 136200,
+            "artists": "Songs To Your Eyes"
+          },
+          {
+            "id": 33682211,
+            "name": "Cosmicity",
+            "duration": 148502,
+            "artists": "Hi-Finesse"
+          },
+          {
+            "id": 33682218,
+            "name": "We Are Here For Each Other",
+            "duration": 129497,
+            "artists": "Patryk Scelina"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:32:29.773Z"
+    },
+    {
+      "albumId": 182746381,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 182746381,
+        "name": "Feel Alive",
+        "artist": "lumine wave",
+        "cover": "https://p2.music.126.net/O9ZN2wi5arRPU7RWXHvUQA==/109951169244778358.jpg",
+        "publishTime": 1705420800000,
+        "year": "2024",
+        "trackCount": 2,
+        "company": "Artlist Original",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2115542267,
+            "name": "Inspirational Shimmering",
+            "duration": 137380,
+            "artists": "lumine wave"
+          },
+          {
+            "id": 2115542268,
+            "name": "Hopeful Solutions",
+            "duration": 154380,
+            "artists": "lumine wave"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:32:35.245Z"
+    },
+    {
+      "albumId": 2569064,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2569064,
+        "name": "Tree of Life",
+        "artist": "Audiomachine",
+        "cover": "https://p1.music.126.net/-qULai61sjMzQgb5AwZiGA==/109951170070164945.jpg",
+        "publishTime": 1373904000007,
+        "year": "2013",
+        "trackCount": 29,
+        "company": "Audiomachine",
+        "description": "",
+        "tracks": [
+          {
+            "id": 26902555,
+            "name": "Above and Beyond",
+            "duration": 171701,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902556,
+            "name": "Tree of Life",
+            "duration": 123669,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902557,
+            "name": "An Unfinished Life",
+            "duration": 125130,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902558,
+            "name": "Breaking Through",
+            "duration": 81034,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902559,
+            "name": "Equinox",
+            "duration": 147648,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902560,
+            "name": "The Fire Within",
+            "duration": 147776,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902561,
+            "name": "Life Chronicles",
+            "duration": 147050,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902562,
+            "name": "Solstice Sun",
+            "duration": 140757,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902563,
+            "name": "The Truth",
+            "duration": 204938,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902564,
+            "name": "Homecoming",
+            "duration": 194144,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902565,
+            "name": "Apotheosis",
+            "duration": 167424,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902566,
+            "name": "Turning Point",
+            "duration": 174762,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902567,
+            "name": "Rebirth",
+            "duration": 138506,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902568,
+            "name": "Age of Innocence",
+            "duration": 150204,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902569,
+            "name": "Hallowed Dawn",
+            "duration": 119466,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902570,
+            "name": "Hope and Glory",
+            "duration": 130485,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902571,
+            "name": "The New World",
+            "duration": 123168,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902572,
+            "name": "Ashes to Ashes",
+            "duration": 101930,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902573,
+            "name": "Cry Freedom",
+            "duration": 155146,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902574,
+            "name": "Day One",
+            "duration": 125753,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902575,
+            "name": "The Great Unknown",
+            "duration": 114165,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902576,
+            "name": "Remember the Titans",
+            "duration": 138741,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902577,
+            "name": "Across the Horizon",
+            "duration": 145845,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902578,
+            "name": "The Legend Begins",
+            "duration": 140490,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902579,
+            "name": "Leaving the Nest",
+            "duration": 133493,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902580,
+            "name": "Final Hope",
+            "duration": 156426,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902581,
+            "name": "Birth of Atlantis (Bonus Track)",
+            "duration": 122880,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902582,
+            "name": "Prelude of Dreams (Bonus Track)",
+            "duration": 113545,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 26902583,
+            "name": "Lady in the Water (Bonus Track)",
+            "duration": 88277,
+            "artists": "Audiomachine"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:39:31.797Z",
+      "groupId": "g2"
+    },
+    {
+      "albumId": 36528056,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 36528056,
+        "name": "Life",
+        "artist": "Audiomachine",
+        "cover": "https://p1.music.126.net/bohiG_dMMltfccMA0sNxeg==/109951163041986565.jpg",
+        "publishTime": 1506009600007,
+        "year": "2017",
+        "trackCount": 28,
+        "company": "Audiomachine",
+        "description": "Life是一部令人惊叹的音乐作品集，既全面而内敛，精致同时感性，由布拉格管弦乐队和合唱团现场录制，如同其名，充满了奇迹、美丽、痛苦和胜利。",
+        "tracks": [
+          {
+            "id": 512377196,
+            "name": "Promises to Keep",
+            "duration": 137184,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512359223,
+            "name": "Reunited",
+            "duration": 156245,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376219,
+            "name": "Remember Not to Forget",
+            "duration": 192714,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376218,
+            "name": "Try Again Tomorrow",
+            "duration": 188981,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512359224,
+            "name": "The Falling",
+            "duration": 114229,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512359225,
+            "name": "Radiant",
+            "duration": 213504,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376220,
+            "name": "All Is Not Lost",
+            "duration": 140202,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512358225,
+            "name": "Life Imitates Art",
+            "duration": 160373,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376221,
+            "name": "Glowing Embers",
+            "duration": 164906,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376222,
+            "name": "The Dreammaker",
+            "duration": 143936,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512358226,
+            "name": "Catalyst",
+            "duration": 161589,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376223,
+            "name": "Greatest Day",
+            "duration": 126442,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512359226,
+            "name": "From Beneath the Rubble",
+            "duration": 161898,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376224,
+            "name": "The Personality of Autumn",
+            "duration": 143040,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376225,
+            "name": "Brilliantine",
+            "duration": 122282,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512377197,
+            "name": "Eventide",
+            "duration": 189536,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512358227,
+            "name": "Cascades",
+            "duration": 134592,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376226,
+            "name": "No Matter What",
+            "duration": 181589,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512377198,
+            "name": "Remains of the Sun",
+            "duration": 175520,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376227,
+            "name": "Imperial",
+            "duration": 114602,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512358228,
+            "name": "Have Patience",
+            "duration": 163626,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376228,
+            "name": "Starfall",
+            "duration": 169002,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376229,
+            "name": "Now or Never",
+            "duration": 150346,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376230,
+            "name": "Silent Sands",
+            "duration": 124586,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512377199,
+            "name": "Determination",
+            "duration": 131765,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376231,
+            "name": "Endless Fall",
+            "duration": 146058,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512359227,
+            "name": "Goddess of Light",
+            "duration": 194741,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 512376232,
+            "name": "A Christmas Wish",
+            "duration": 123552,
+            "artists": "Audiomachine"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:41:31.677Z",
+      "groupId": "g2"
+    },
+    {
+      "albumId": 124748065,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 124748065,
+        "name": "Another Sky",
+        "artist": "Audiomachine",
+        "cover": "https://p2.music.126.net/iEWuO4Iq5oH6cQkE7a5FRA==/109951165816115861.jpg",
+        "publishTime": 1578585600000,
+        "year": "2020",
+        "trackCount": 18,
+        "company": "Audiomachine",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1830634788,
+            "name": "Under Lock and Key",
+            "duration": 134559,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634376,
+            "name": "The Crimson Drawing Room",
+            "duration": 117760,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634377,
+            "name": "Brocket Hall",
+            "duration": 163410,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634789,
+            "name": "Persecution",
+            "duration": 144567,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634378,
+            "name": "Until Death Do Us Part",
+            "duration": 183159,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634379,
+            "name": "The Stars Align",
+            "duration": 201502,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634790,
+            "name": "Evergreen",
+            "duration": 99381,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634791,
+            "name": "Vindication",
+            "duration": 154969,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634380,
+            "name": "In the Conservatory With the Revolver",
+            "duration": 133897,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634381,
+            "name": "Kneel Before the Crown",
+            "duration": 153588,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634792,
+            "name": "Highlander's Hymn",
+            "duration": 149908,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634793,
+            "name": "The Light Between Us",
+            "duration": 164768,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634382,
+            "name": "Chenonceau",
+            "duration": 149606,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634794,
+            "name": "Loved Against Reason",
+            "duration": 153391,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634795,
+            "name": "To Dwell on Dreams",
+            "duration": 166336,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634796,
+            "name": "Hill House",
+            "duration": 134989,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634797,
+            "name": "Scandalous Secrets",
+            "duration": 120488,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 1830634798,
+            "name": "Once Was All There Was",
+            "duration": 164768,
+            "artists": "Audiomachine"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:41:23.733Z",
+      "groupId": "g2"
+    },
+    {
+      "albumId": 2711608,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2711608,
+        "name": "Aura",
+        "artist": "BrunuhVille",
+        "cover": "https://p2.music.126.net/HYQKcAzu01oA8cKRLtUzbg==/109951164258464813.jpg",
+        "publishTime": 1374595200000,
+        "year": "2013",
+        "trackCount": 20,
+        "company": "BrunuhVille",
+        "description": "",
+        "tracks": [
+          {
+            "id": 28002598,
+            "name": "Aura",
+            "duration": 209658,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002599,
+            "name": "Heaven & Hell",
+            "duration": 266083,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002600,
+            "name": "Magic of Love",
+            "duration": 207255,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002601,
+            "name": "Anyone but You",
+            "duration": 114128,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002602,
+            "name": "River of Tears",
+            "duration": 255268,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002603,
+            "name": "Diary",
+            "duration": 197511,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002604,
+            "name": "Luna",
+            "duration": 192078,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002605,
+            "name": "Dream Chaser",
+            "duration": 73814,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002606,
+            "name": "Hymn to Eternity",
+            "duration": 244480,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002607,
+            "name": "The White Forest",
+            "duration": 267728,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002608,
+            "name": "Lusitanus",
+            "duration": 357146,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002609,
+            "name": "Draig Llofrudd",
+            "duration": 359340,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002610,
+            "name": "Dance With Dragons",
+            "duration": 208039,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002611,
+            "name": "King of the North",
+            "duration": 287097,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002612,
+            "name": "Aura (Alternative Version)",
+            "duration": 210128,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002613,
+            "name": "River of Tears (No Vocals)",
+            "duration": 255268,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002614,
+            "name": "Luna (Alternative Version)",
+            "duration": 187506,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002615,
+            "name": "The White Forest (\"La Rochelle\" Intro)",
+            "duration": 115095,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002616,
+            "name": "Lusitanus (No Choirs)",
+            "duration": 357146,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 28002617,
+            "name": "King of the North (No Choirs / Percussion)",
+            "duration": 287137,
+            "artists": "BrunuhVille"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:41:40.852Z"
+    },
+    {
+      "albumId": 3264722,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3264722,
+        "name": "Northwind",
+        "artist": "BrunuhVille",
+        "cover": "https://p2.music.126.net/Feyb-nqcKR2h4V2gumRSyg==/109951164258494266.jpg",
+        "publishTime": 1438876800000,
+        "year": "2015",
+        "trackCount": 14,
+        "company": "Brunuhville",
+        "description": "",
+        "tracks": [
+          {
+            "id": 34142760,
+            "name": "Winter's Tale",
+            "duration": 232210,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142761,
+            "name": "Song of the North",
+            "duration": 692596,
+            "artists": "BrunuhVille、SharM"
+          },
+          {
+            "id": 34142762,
+            "name": "Mother Earth",
+            "duration": 342100,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142763,
+            "name": "The Elven Prophecy",
+            "duration": 246997,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142764,
+            "name": "Solitude",
+            "duration": 195050,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142765,
+            "name": "Children of the World",
+            "duration": 153312,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142766,
+            "name": "Rise of a Kingdom",
+            "duration": 272340,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142767,
+            "name": "Dragon Empress",
+            "duration": 278361,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142768,
+            "name": "Sons of the Storm",
+            "duration": 269226,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142769,
+            "name": "Ascension",
+            "duration": 265432,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142770,
+            "name": "Northwind",
+            "duration": 579514,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142771,
+            "name": "Dreams",
+            "duration": 200031,
+            "artists": "BrunuhVille、SharM"
+          },
+          {
+            "id": 34142772,
+            "name": "Song of the North (Alt.version) [Bonus Track]",
+            "duration": 477822,
+            "artists": "BrunuhVille"
+          },
+          {
+            "id": 34142773,
+            "name": "Dreams (No Voices) [Bonus Track]",
+            "duration": 204563,
+            "artists": "BrunuhVille"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:41:48.158Z"
+    },
+    {
+      "albumId": 3394605,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3394605,
+        "name": "Sigma",
+        "artist": "Epic Soul Factory、Cesc Vilà、Fran Soto",
+        "cover": "https://p2.music.126.net/h7OatSNKpIxpju1hKhK27A==/109951164855903619.jpg",
+        "publishTime": 1446393600000,
+        "year": "2015",
+        "trackCount": 16,
+        "company": "Epic Soul Factory",
+        "description": "",
+        "tracks": [
+          {
+            "id": 36586593,
+            "name": "Made of Stardust",
+            "duration": 255000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587570,
+            "name": "Sigma",
+            "duration": 199000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586594,
+            "name": "Seeking Freedom",
+            "duration": 285500,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587571,
+            "name": "The Glorious Ones",
+            "duration": 193000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586595,
+            "name": "Quasar",
+            "duration": 119500,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587572,
+            "name": "Riding the Light",
+            "duration": 195000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586596,
+            "name": "Nevermore",
+            "duration": 134500,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587573,
+            "name": "Awaking Hearts",
+            "duration": 160000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586597,
+            "name": "Hero Memories",
+            "duration": 210000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587574,
+            "name": "Throne of Masters",
+            "duration": 182000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586598,
+            "name": "Legendary",
+            "duration": 201000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587575,
+            "name": "Bright Like Stars",
+            "duration": 187500,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586599,
+            "name": "Inner Power",
+            "duration": 176000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587576,
+            "name": "Beyond Our Dreams",
+            "duration": 320000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36586600,
+            "name": "Come to Me (feat. Elisabet Ochoa)",
+            "duration": 227708,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          },
+          {
+            "id": 36587577,
+            "name": "Everdream",
+            "duration": 513000,
+            "artists": "Epic Soul Factory、Cesc Vilà、Fran Soto"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:25:49.375Z"
+    },
+    {
+      "albumId": 3395778,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3395778,
+        "name": "Epic Emotional Piano 2 Look To The Stars",
+        "artist": "Gothic Storm",
+        "cover": "https://p1.music.126.net/HctSXTdIfTKRi-RRokIjsw==/3264450026393992.jpg",
+        "publishTime": 1441296000007,
+        "year": "2015",
+        "trackCount": 25,
+        "company": "Gothic Storm Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 36664684,
+            "name": "Look To The Stars (Main)",
+            "duration": 176379,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668622,
+            "name": "Our Only Hope (Main)",
+            "duration": 185625,
+            "artists": "Gothic Storm"
+          },
+          {
+            "id": 36664685,
+            "name": "Anti-Hero (Main)",
+            "duration": 177428,
+            "artists": "Gothic Storm"
+          },
+          {
+            "id": 36668623,
+            "name": "Everything To Fight For (Main)",
+            "duration": 173362,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664686,
+            "name": "Freefall (Main)",
+            "duration": 156000,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668624,
+            "name": "Strength To Overcome (Main)",
+            "duration": 206532,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664687,
+            "name": "The Resistance (Main)",
+            "duration": 175423,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668625,
+            "name": "All That We Are (Main)",
+            "duration": 167538,
+            "artists": "Gothic Storm"
+          },
+          {
+            "id": 36664688,
+            "name": "Tears Of Oppression (Main)",
+            "duration": 180000,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668626,
+            "name": "Conscious Deception (Main)",
+            "duration": 163469,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664689,
+            "name": "Horizon (Main)",
+            "duration": 188500,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668627,
+            "name": "Pre-Existence (Main)",
+            "duration": 180000,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664690,
+            "name": "Look To The Stars (With Vocals)",
+            "duration": 176379,
+            "artists": "Gothic Storm"
+          },
+          {
+            "id": 36668628,
+            "name": "Look To The Stars (Piano Only)",
+            "duration": 176379,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664691,
+            "name": "Our Only Hope (Piano Only)",
+            "duration": 169687,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668629,
+            "name": "Anti-Hero (Piano Only)",
+            "duration": 177456,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664692,
+            "name": "Everything To Fight For (Piano Only)",
+            "duration": 173362,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668630,
+            "name": "Freefall (Piano Only)",
+            "duration": 156048,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664693,
+            "name": "Strength To Overcome (Piano Only)",
+            "duration": 207240,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668631,
+            "name": "The Resistance (Piano Only)",
+            "duration": 166824,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664694,
+            "name": "All That We Are (Piano Only)",
+            "duration": 167568,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668632,
+            "name": "Tears Of Oppression (Piano Only)",
+            "duration": 180024,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664695,
+            "name": "Conscious Deception (Piano Only)",
+            "duration": 163512,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36668633,
+            "name": "Horizon (Piano Only)",
+            "duration": 188500,
+            "artists": "Gothic Storm、Christopher Haigh"
+          },
+          {
+            "id": 36664696,
+            "name": "Pre-Existence (Piano Only)",
+            "duration": 165360,
+            "artists": "Gothic Storm、Christopher Haigh"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:25:59.018Z"
+    },
+    {
+      "albumId": 81016182,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 81016182,
+        "name": "Gift Of Life",
+        "artist": "Dos Brains",
+        "cover": "https://p1.music.126.net/jgYaiWF_gIAj3ZtOcoBrUA==/109951164303638381.jpg",
+        "publishTime": 1566489600000,
+        "year": "2019",
+        "trackCount": 11,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1384983991,
+            "name": "Gift of Life",
+            "duration": 215509,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986152,
+            "name": "Remember Me",
+            "duration": 134741,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986153,
+            "name": "Ages",
+            "duration": 150857,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986154,
+            "name": "Journey to Heaven",
+            "duration": 189439,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986155,
+            "name": "Memento",
+            "duration": 160543,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986156,
+            "name": "Dreams of July",
+            "duration": 154453,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384983992,
+            "name": "Bittersweet",
+            "duration": 198855,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384983993,
+            "name": "Our Hope",
+            "duration": 174000,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986157,
+            "name": "Up",
+            "duration": 167082,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384983994,
+            "name": "Lost Earth",
+            "duration": 161728,
+            "artists": "Dos Brains"
+          },
+          {
+            "id": 1384986158,
+            "name": "Theme of Destiny",
+            "duration": 158625,
+            "artists": "Dos Brains"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:28:30.315Z"
+    },
+    {
+      "albumId": 136982734,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 136982734,
+        "name": "Aeon",
+        "artist": "Nick Murray",
+        "cover": "https://p2.music.126.net/BDVhFHtqIc8my0B-lO_nRg==/109951166684519231.jpg",
+        "publishTime": 1391184000000,
+        "year": "2014",
+        "trackCount": 9,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1900190081,
+            "name": "Interstellar",
+            "duration": 147284,
+            "artists": "Nick Murray"
+          },
+          {
+            "id": 1900191721,
+            "name": "Age of Desire",
+            "duration": 154544,
+            "artists": "Nick Murray"
+          },
+          {
+            "id": 1900190082,
+            "name": "Between Oceans (feat. Juliet Lyons)",
+            "duration": 229328,
+            "artists": "Nick Murray、Juliet Lyons"
+          },
+          {
+            "id": 1900190083,
+            "name": "Entropy",
+            "duration": 179986,
+            "artists": "Nick Murray"
+          },
+          {
+            "id": 1900191722,
+            "name": "Aeon (feat. Juliet Lyons)",
+            "duration": 198754,
+            "artists": "Nick Murray、Juliet Lyons"
+          },
+          {
+            "id": 1900190084,
+            "name": "Equinox",
+            "duration": 64222,
+            "artists": "Nick Murray"
+          },
+          {
+            "id": 1900190085,
+            "name": "High Above (feat. Tyler Gurwicz)",
+            "duration": 139615,
+            "artists": "Nick Murray、Tyler Gurwicz"
+          },
+          {
+            "id": 1900191723,
+            "name": "Existence (feat. Juliet Lyons)",
+            "duration": 147797,
+            "artists": "Nick Murray、Juliet Lyons"
+          },
+          {
+            "id": 1900190086,
+            "name": "Redshift",
+            "duration": 243802,
+            "artists": "Nick Murray"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:26:10.694Z"
+    },
+    {
+      "albumId": 34686191,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34686191,
+        "name": "Piano Works 7",
+        "artist": "Richard Schrieber",
+        "cover": "https://p1.music.126.net/xLSWxCln90ynSTJGqgvXQQ==/3304032444810192.jpg",
+        "publishTime": 1442160000007,
+        "year": "2015",
+        "trackCount": 11,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 411315531,
+            "name": "Age Of The Universe",
+            "duration": 159530,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411314556,
+            "name": "Amplitude",
+            "duration": 160085,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411315533,
+            "name": "Andromeda",
+            "duration": 177834,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411314559,
+            "name": "Dawn Of Time",
+            "duration": 172074,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411315536,
+            "name": "Density Of Silence",
+            "duration": 162514,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411314560,
+            "name": "Entrapment",
+            "duration": 165888,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411315537,
+            "name": "Exodus",
+            "duration": 148074,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411314561,
+            "name": "Starlings",
+            "duration": 159338,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411315538,
+            "name": "Sullen Remain",
+            "duration": 176064,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411314562,
+            "name": "Super Nova",
+            "duration": 144063,
+            "artists": "Richard Schrieber"
+          },
+          {
+            "id": 411315539,
+            "name": "Theory Of Rain",
+            "duration": 176554,
+            "artists": "Richard Schrieber"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T06:45:02.093Z"
+    },
+    {
+      "albumId": 151601,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 151601,
+        "name": "Titanic: Music from the Motion Picture Soundtrack",
+        "artist": "James Horner",
+        "cover": "https://p1.music.126.net/9X5nQlD2a4MBGIM5P8dOMw==/109951165995444837.jpg",
+        "publishTime": 879782400000,
+        "year": "1997",
+        "trackCount": 15,
+        "company": "索尼音乐",
+        "description": "原声带当年全球销售大破2600万张销售量，写下史上最畅销电影音乐专辑纪录！分别夺下奥斯卡与金球奖「最佳配乐」肯定。\n\n \n\n【关于电影】\n\n就在「海洋之心」沉入海底同时，杰克和萝丝刻骨铭心的爱恋，也随著铁达尼号成为人们心中永恆的凄美记忆！入籍美国电影学会「百大经典影片」、「百大爱情电影」名单的《泰坦尼克号》，赚了世界各地不知多少观众的热泪，累积全球多达18多亿美元票房！风光提名14项奥斯卡，赢得包括：「最佳影片」、「最佳导演」在内共11座大奖肯定！\n\n导演詹姆斯‧卡梅隆（James Cameron），是位加拿大籍身兼导演、编剧和监制的大师级人物，以1984年的《终结者》打开知名度。《泰坦尼克号》创下票房新高纪录，2009年的《阿凡达》打破自己所缔造影史最高票房纪录！饰演杰克的莱昂纳多迪卡普里奥（Leonardo DiCaprio），知名度瞬间暴涨，自此成为女性们心中的性感偶像，陆续接拍实力影片，最终以《飞行家》拿下金球奖「最佳男主角」头衔，提名过三次奥斯卡大奖。演出萝丝的凯特温斯莱特(Kate Winslet)，2009年靠著《革命之路》和《朗读者》两片，一口气拿下金球奖「最佳女主角」+「最佳女配角」双喝采，《朗读者》也抱回奥斯卡「最佳女主角」大奖加冕！\n\n【关于原声带】\n\n《泰坦尼克号》的原声带当时在全世界销售量超过2600万张，写下史上最畅销电影音乐专辑纪录！由詹姆斯‧霍纳（James Horner）主导的配乐，运用大量凯尔特音乐，无论是悠扬的苏格兰风笛，抑或堆叠的人声唱合，甚至节庆般的欢乐气氛，都能体会詹姆斯精緻处理每个环节之运用。分别夺取奥斯卡以及金球奖「最佳配乐」肯定，最后的主题曲「我心永恒」〈My Heart Will Go On〉由天后席琳狄翁荡气迴肠的演唱诠释，更是历久弥新。\nJames Horner's score for James Cameron's epic romance Titanic is much like the film itself — against all expectations, it delivers exactly what it promises. His score is grand, without falling into typical melodrama, and delicately romantic, without being sickly sentimental; it offers genuine emotion and excitement, with the haunting vocals of Norwegian singer Sissel providing a nice counterpoint to Horner's blend of strings, vocals, orchestras, and synthesizers. Celine Dion's \"My Heart Will Go On\" may feel a little like an afterthought, especially after experiencing Horner's wrenching, affecting score, but its heart is in the right place. Nevertheless, it is Horner's instrumental work and its whirlwind of emotions that makes the score of Titanic a voyage worth repeating. \n\n",
+        "tracks": [
+          {
+            "id": 1484825,
+            "name": "Never An Absolution",
+            "duration": 183066,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484831,
+            "name": "Distant Memories",
+            "duration": 144172,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484837,
+            "name": "Southampton",
+            "duration": 241893,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484843,
+            "name": "Rose",
+            "duration": 172570,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484848,
+            "name": "Leaving Port",
+            "duration": 206373,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484852,
+            "name": "\"Take Her To Sea, Mr. Murdoch\"",
+            "duration": 271226,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484856,
+            "name": "\"Hard To Starboard\"",
+            "duration": 412506,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484858,
+            "name": "Unable To Stay, Unwilling To Leave",
+            "duration": 236466,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484862,
+            "name": "The Sinking",
+            "duration": 305360,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484866,
+            "name": "Death Of Titanic",
+            "duration": 506402,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484872,
+            "name": "A Promise Kept",
+            "duration": 362354,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484878,
+            "name": "A Life So Changed",
+            "duration": 132913,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484884,
+            "name": "An Ocean Of Memories",
+            "duration": 477960,
+            "artists": "James Horner"
+          },
+          {
+            "id": 1484889,
+            "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+            "duration": 310775,
+            "artists": "Céline Dion、James Horner"
+          },
+          {
+            "id": 1484893,
+            "name": "Hymn To The Sea",
+            "duration": 385520,
+            "artists": "James Horner"
+          }
+        ]
+      },
+      "addedAt": "2026-09-11T06:13:07.335Z"
+    },
+    {
+      "albumId": 249747559,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 249747559,
+        "name": "Soul Stories 3 - Emotional Orchestral Drama Tracks",
+        "artist": "Gabriel Saban、Anne Sophie Versnaeyen",
+        "cover": "https://p2.music.126.net/RE1MTXt3xVyk09i0Grgk0w==/109951170014437554.jpg",
+        "publishTime": 1631203200000,
+        "year": "2021",
+        "trackCount": 10,
+        "company": "Cezame Trailers",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2633386432,
+            "name": "Beautiful Souls",
+            "duration": 217067,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633384143,
+            "name": "A World of Marvels",
+            "duration": 154678,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633384140,
+            "name": "Forever in This World",
+            "duration": 210744,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633386434,
+            "name": "Spring Romance",
+            "duration": 140225,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633384141,
+            "name": "Leaving Tomorrow Behind",
+            "duration": 215500,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633386435,
+            "name": "Through the Mirror",
+            "duration": 157599,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633386433,
+            "name": "Happy Memories",
+            "duration": 175274,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633384144,
+            "name": "From the Heart",
+            "duration": 187624,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633384142,
+            "name": "A Healing Place",
+            "duration": 171691,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 2633384145,
+            "name": "Challenging Times",
+            "duration": 194966,
+            "artists": "Gabriel Saban、Anne Sophie Versnaeyen"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:28:07.648Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 84182475,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 84182475,
+        "name": "Soul Stories 2 (Emotional Orchestral Drama Tracks)",
+        "artist": "Anne Sophie Versnaeyen、Gabriel Saban",
+        "cover": "https://p2.music.126.net/_ZdKZmUppU2eXlHGJrngog==/109951170014471730.jpg",
+        "publishTime": 1576425600000,
+        "year": "2019",
+        "trackCount": 12,
+        "company": "Cezame Trailers",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1410403691,
+            "name": "A World Apart",
+            "duration": 192750,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410404884,
+            "name": "A Taste of Elegance",
+            "duration": 173421,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410403690,
+            "name": "Facing the Past",
+            "duration": 159001,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410404875,
+            "name": "Feeling Alive",
+            "duration": 173142,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410404879,
+            "name": "Autumn Romance",
+            "duration": 143666,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410403688,
+            "name": "Rainy Dreams",
+            "duration": 159385,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410404881,
+            "name": "A Ray of Light",
+            "duration": 152470,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410404883,
+            "name": "The Heart of Life",
+            "duration": 196235,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410403686,
+            "name": "New Beginnings",
+            "duration": 178292,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410404880,
+            "name": "Haven of Peace",
+            "duration": 135492,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410403689,
+            "name": "A Priceless Soul",
+            "duration": 142235,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          },
+          {
+            "id": 1410403687,
+            "name": "Walk of Hope",
+            "duration": 145272,
+            "artists": "Anne Sophie Versnaeyen、Gabriel Saban"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:27:57.920Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 72022186,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 72022186,
+        "name": "Soul Stories (Emotional Orchestral Drama Tracks)",
+        "artist": "Philippe Briand",
+        "cover": "https://p1.music.126.net/7u8rE6bte7C4kVW40Uqmeg==/109951163426848241.jpg",
+        "publishTime": 1526227200007,
+        "year": "2018",
+        "trackCount": 10,
+        "company": "Cezame Trailers",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1296646680,
+            "name": "The Path of Silence",
+            "duration": 195742,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646681,
+            "name": "Building Light",
+            "duration": 179318,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646682,
+            "name": "Shining Horizon",
+            "duration": 206404,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646683,
+            "name": "The Power of Mind",
+            "duration": 176999,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646684,
+            "name": "Evermore",
+            "duration": 184772,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296647468,
+            "name": "Whispers of the Soul",
+            "duration": 179185,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646685,
+            "name": "Remember Me",
+            "duration": 192459,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646686,
+            "name": "Ancient Order",
+            "duration": 206297,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296647469,
+            "name": "Endless Sky",
+            "duration": 216666,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          },
+          {
+            "id": 1296646687,
+            "name": "Eventide",
+            "duration": 186800,
+            "artists": "Philippe Briand、Gabriel Saban、Anne Sophie Versnaeyen"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T15:28:06.253Z",
+      "groupId": "g1"
+    },
+    {
+      "albumId": 90337638,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 90337638,
+        "name": "The North Album",
+        "artist": "Power-Haus、Christian Reindl",
+        "cover": "https://p2.music.126.net/Ub8d5Y0ybv5i30OBpxE8Zw==/109951165037404038.jpg",
+        "publishTime": 1593705600000,
+        "year": "2020",
+        "trackCount": 6,
+        "company": "A&G Records/Power-Haus Creative",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1453006601,
+            "name": "Balder",
+            "duration": 140000,
+            "artists": "Power-Haus、Christian Reindl"
+          },
+          {
+            "id": 1453006602,
+            "name": "Cernunnos",
+            "duration": 134000,
+            "artists": "Power-Haus、Christian Reindl"
+          },
+          {
+            "id": 1453004943,
+            "name": "Freya",
+            "duration": 187500,
+            "artists": "Power-Haus、Christian Reindl"
+          },
+          {
+            "id": 1453006603,
+            "name": "Gefion",
+            "duration": 144680,
+            "artists": "Power-Haus、Christian Reindl"
+          },
+          {
+            "id": 1453006604,
+            "name": "Iduna",
+            "duration": 120845,
+            "artists": "Power-Haus、Christian Reindl"
+          },
+          {
+            "id": 1453004944,
+            "name": "Hel (bonus track)",
+            "duration": 146000,
+            "artists": "Power-Haus、Christian Reindl"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:12:08.573Z"
+    },
+    {
+      "albumId": 163805444,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 163805444,
+        "name": "Forzisimo",
+        "artist": "Adrián Berenguer",
+        "cover": "https://p2.music.126.net/z6tlILcWqPOXZiOYuuo0Vw==/109951168549480659.jpg",
+        "publishTime": 1682870400000,
+        "year": "2023",
+        "trackCount": 3,
+        "company": "Artlist Original",
+        "description": "",
+        "tracks": [
+          {
+            "id": 2039810814,
+            "name": "Forzisimo",
+            "duration": 200464,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 2039810815,
+            "name": "Aware",
+            "duration": 195160,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 2039810816,
+            "name": "The Walking",
+            "duration": 217525,
+            "artists": "Adrián Berenguer"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:13:01.656Z"
+    },
+    {
+      "albumId": 129028815,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 129028815,
+        "name": "Prestige",
+        "artist": "Howard Harper-Barnes",
+        "cover": "https://p2.music.126.net/r1zU9Zho3AtMYbLZb-Z1oA==/109951166087577570.jpg",
+        "publishTime": 1625155200000,
+        "year": "2021",
+        "trackCount": 3,
+        "company": "Epidemic Sound",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1853328099,
+            "name": "Prestige",
+            "duration": 186428,
+            "artists": "Howard Harper-Barnes"
+          },
+          {
+            "id": 1853328101,
+            "name": "Life in Pieces",
+            "duration": 190672,
+            "artists": "Howard Harper-Barnes"
+          },
+          {
+            "id": 1853326291,
+            "name": "Refined Antiquities",
+            "duration": 183625,
+            "artists": "Howard Harper-Barnes"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:13:27.322Z"
+    },
+    {
+      "albumId": 122547304,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 122547304,
+        "name": "Cinematic Orchestral Music",
+        "artist": "Carlos Estella",
+        "cover": "https://p2.music.126.net/JDMJk_UZCLG3_zJWRbNYqA==/109951165692994592.jpg",
+        "publishTime": 1612886400000,
+        "year": "2021",
+        "trackCount": 10,
+        "company": "carlos estella Music",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1817575839,
+            "name": "Classic Inspiration",
+            "duration": 132142,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817575840,
+            "name": "Epic Orchestra",
+            "duration": 135000,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817575841,
+            "name": "Epic Happy Inspiring Orchestral",
+            "duration": 127636,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817575842,
+            "name": "Epic Heroic Orchestra",
+            "duration": 153114,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817575843,
+            "name": "Epic Majestic Uplifting Trailer",
+            "duration": 156883,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817573528,
+            "name": "Inspiring Piano Cinematic Orchestral",
+            "duration": 154568,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817573530,
+            "name": "An Epic Cinematic",
+            "duration": 126000,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817575844,
+            "name": "Beautiful Classic Orchestral",
+            "duration": 123000,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817573533,
+            "name": "Cinematic Inspiring Epic Trailer",
+            "duration": 142105,
+            "artists": "Carlos Estella"
+          },
+          {
+            "id": 1817575845,
+            "name": "Epic Inspiring Adventure Cinematic",
+            "duration": 143437,
+            "artists": "Carlos Estella"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:13:55.868Z"
+    },
+    {
+      "albumId": 160612141,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 160612141,
+        "name": "Quartetra",
+        "artist": "Audiomachine",
+        "cover": "https://p2.music.126.net/nceHVs_Mf5F9355TJaw0-g==/109951168381259539.jpg",
+        "publishTime": 1678377600000,
+        "year": "2023",
+        "trackCount": 9,
+        "company": "Audiomachine",
+        "description": "准备好体验你从未听过的四重奏，灯光渐暗，一切已经就绪，敬请期待。精妙的弦乐和火热的trap节拍与铜管乐交锋，以ticks, clicks, quick cuts and snaps点缀。新作品是古典与现代的迷人结合，是一件不同于其他的新古典主义艺术作品。\n",
+        "tracks": [
+          {
+            "id": 2024813421,
+            "name": "A Cut Above",
+            "duration": 122858,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024811561,
+            "name": "King's Gambit",
+            "duration": 132725,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024813422,
+            "name": "Preeminence",
+            "duration": 162026,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024813423,
+            "name": "Mightier than the Sword",
+            "duration": 119797,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024811562,
+            "name": "Holding Court",
+            "duration": 124128,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024813424,
+            "name": "To the Death",
+            "duration": 147882,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024811563,
+            "name": "Second to None",
+            "duration": 167925,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024813425,
+            "name": "Conflict of Interest",
+            "duration": 160128,
+            "artists": "Audiomachine"
+          },
+          {
+            "id": 2024811564,
+            "name": "The Last Word",
+            "duration": 115232,
+            "artists": "Audiomachine"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:14:14.021Z"
+    },
+    {
+      "albumId": 74215660,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 74215660,
+        "name": "Limitless",
+        "artist": "The Piano Guys",
+        "cover": "https://p1.music.126.net/CUlP0wH6hoiH6VLzbG4NxQ==/109951165984700185.jpg",
+        "publishTime": 1541692800007,
+        "year": "2018",
+        "trackCount": 13,
+        "company": "索尼音乐",
+        "description": "\t重新翻奏The Chainsmokers和Coldplay合作〈Something Just Like This〉、Shawn Mendes的〈In My Blood〉、Ed Sheeran的〈Perfect〉、One Direction成员Niall Horan的〈Flicker〉、韩国男孩团体BTS的〈DNA〉和〈Epiphany〉等多元风格曲目。\n\t提供〈Limitless〉、〈North Cape〉、〈First Dance〉、〈Miracles〉等四首原创演奏曲。\n\n让音乐无限宽广、让创意无限延伸、让听觉无限聆赏，借由流行与古典所交织的神奇跨界魔力，The Piano Guys将再展无限魅力！打通作曲编曲、影像制作、表演呈现，以超乎想像的巧思与创意，绽放全方位的音乐能量。从网络起家，开始曝光至今10年内，累积2亿试听量，自2011-2017年间，每一年都有作品问市，惊人写下所有7张录音室专辑全数保送公告牌新世纪榜冠军纪录！\n\n由钢琴家Jon Schmidt＋大提琴手Steven Sharp Nelson＋影像摄影师Paul Anderson＋音乐制作人Al van der Beek所组成The Piano Guys，对时下流行歌曲了如指掌，每次呈现的选歌翻奏名单，都能确切打中乐迷的心，同时区别一般翻奏乐团的方式，创造令人惊艳的音乐奇迹和绝佳版本。除了造成流行领域的震撼，更颠覆一般对古典音乐的既定印象，不再高深难懂，反而活发多变且具亲和力的燃起全新生命。当然MV影像拍摄也毫不马虎，特别远征世界奇景取景，令人叹为观止！\n\n以Steven Sharp Nelson和Al van der Beek为核心掌控制作大任的新碟《Limitless》，又是一次自我挑战的体验，同时展现创意大连结，举凡美国最火红的电音双人组The Chainsmokers找来英伦摇滚天团Coldplay合作〈Something Just Like This〉，曾提名格莱美「最佳流行重唱／团体演出」奖项，搭配李斯特的第二号匈牙利狂想曲〈Hungarian Rhapsody No. 2〉开始，两曲叠奏如此合搭且旋律悠扬，提供一支上乘古典和流行的结合示范曲；全球票房破四亿美金的歌舞片《马戏之王》，一次将〈Rewrite The Stars〉和〈A Million Dreams〉尽情挥洒激昂戏居张力，拼贴出当代音乐融合的新概念；将新生代才气偶像Shawn Mendes的〈In My Blood〉，漂亮融入柴可夫斯基三大芭蕾舞居之「天鹅湖」〈Swan Lake〉，让人在The Piano Guys无界限音乐国度中肆意漫游；再一次的美丽邂逅，新世代摇滚谜幻乐团Imagine Dragons之〈Walking The Wire〉，切入亨德尔的〈Largo〉，把不可能化为可能，打造华丽场景；4座格莱美加持才子Ed Sheeran浪漫到底之歌〈Perfect〉、从男孩偶像团体One Direction走红成员Niall Horan的〈Flicker〉，包覆优雅爱的诗篇；就连韩国当红偶像男孩团体BTS的〈DNA〉和〈Epiphany〉都能惊喜诠释，搬出一快一慢的调性，尤其〈DNA〉还将歌声与电舞节拍剪辑进去，皆是一大突破；除此之外，「The Piano Guys」提供〈Limitless〉、〈North Cape〉、〈First Dance〉、〈Miracles〉等四首原创演奏曲，给予音乐新定位，酷劲十足的玩兴大开！\n",
+        "tracks": [
+          {
+            "id": 1322369832,
+            "name": "Something Just Like This / Hungarian Rhapsody",
+            "duration": 233894,
+            "artists": "The Piano Guys、Franz Liszt、Guy Berryman、Jonathan Buckland、William Champion、Chris Martin、Andrew Taggart"
+          },
+          {
+            "id": 1322373219,
+            "name": "Rewrite the Stars",
+            "duration": 211603,
+            "artists": "The Piano Guys、Benj Pasek、Justin Paul"
+          },
+          {
+            "id": 1322369833,
+            "name": "A Million Dreams",
+            "duration": 285884,
+            "artists": "The Piano Guys、Benj Pasek、Justin Paul"
+          },
+          {
+            "id": 1313745531,
+            "name": "In My Blood / Swan Lake",
+            "duration": 237052,
+            "artists": "The Piano Guys、Pyotr Ilyich Tchaikovsky、Scott Friedman、Teddy Geiger、Shawn Mendes、Geoffrey Warburton"
+          },
+          {
+            "id": 1322369834,
+            "name": "Limitless",
+            "duration": 271000,
+            "artists": "The Piano Guys、Al van der Beek、Steven Sharp Nelson"
+          },
+          {
+            "id": 1322369835,
+            "name": "DNA",
+            "duration": 185533,
+            "artists": "The Piano Guys、Si-Hyuk Bang、Hyo Won Kang、Nam Jun Kim、Woo Ram Kim、Yoon Gi Min、Dong Hyuck Shin"
+          },
+          {
+            "id": 1322373221,
+            "name": "Walking the Wire / Largo",
+            "duration": 258136,
+            "artists": "The Piano Guys、Georg Friedrich Händel、Robin Fredriksson、Mattias Per Larsson、Benjamin McKee、Daniel Platzman、Daniel Reynolds、Daniel Sermon、Justin Tranter"
+          },
+          {
+            "id": 1322373222,
+            "name": "Perfect",
+            "duration": 310148,
+            "artists": "The Piano Guys、Ed Sheeran"
+          },
+          {
+            "id": 1322373223,
+            "name": "Epiphany",
+            "duration": 282052,
+            "artists": "The Piano Guys、Si-Hyuk Bang、Soo Hyun Park、Do Hyung Kwon"
+          },
+          {
+            "id": 1322369836,
+            "name": "Flicker",
+            "duration": 196603,
+            "artists": "The Piano Guys、Julian Bunetta、Niall Horan、John Ryan"
+          },
+          {
+            "id": 1322369837,
+            "name": "North Cape",
+            "duration": 179676,
+            "artists": "The Piano Guys、Jon Schmidt、Steven Sharp Nelson"
+          },
+          {
+            "id": 1322369838,
+            "name": "First Dance",
+            "duration": 276433,
+            "artists": "The Piano Guys、Jon Schmidt"
+          },
+          {
+            "id": 1322373224,
+            "name": "Miracles",
+            "duration": 374003,
+            "artists": "The Piano Guys、Marshall McDonald、Steven Sharp Nelson"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:15:29.418Z"
+    },
+    {
+      "albumId": 2640501,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2640501,
+        "name": "Dream Once Again",
+        "artist": "Florian Bur",
+        "cover": "https://p2.music.126.net/MZeR2aMoaF1TZoid7_M1pw==/109951170245107183.jpg",
+        "publishTime": 1365436800000,
+        "year": "2013",
+        "trackCount": 16,
+        "company": "独立发行",
+        "description": "",
+        "tracks": [
+          {
+            "id": 27575577,
+            "name": "Intro",
+            "duration": 79464,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575578,
+            "name": "Heaven-Snowflakes",
+            "duration": 183980,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575579,
+            "name": "I'm Happy",
+            "duration": 165799,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575580,
+            "name": "My World",
+            "duration": 268643,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575581,
+            "name": "Assassin's",
+            "duration": 149968,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575582,
+            "name": "Florian Bur-Intro",
+            "duration": 43467,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575583,
+            "name": "Life goes on",
+            "duration": 162638,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575584,
+            "name": "The Irish Melody",
+            "duration": 190406,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575585,
+            "name": "The Way",
+            "duration": 135314,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575586,
+            "name": "Theme Lineah",
+            "duration": 180070,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575587,
+            "name": "Vivere",
+            "duration": 176796,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575588,
+            "name": "Love",
+            "duration": 135967,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575589,
+            "name": "Epic Trailer Music",
+            "duration": 142184,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575590,
+            "name": "Living",
+            "duration": 129567,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575591,
+            "name": "White Angel",
+            "duration": 293982,
+            "artists": "Florian Bur"
+          },
+          {
+            "id": 27575592,
+            "name": "We Believe",
+            "duration": 247980,
+            "artists": "Florian Bur"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:16:33.071Z"
+    },
+    {
+      "albumId": 81587639,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 81587639,
+        "name": "Artemis",
+        "artist": "Lindsey Stirling",
+        "cover": "https://p2.music.126.net/VIGuneFrc4p9u3N-9sOOjA==/109951172580124455.jpg",
+        "publishTime": 1567699200000,
+        "year": "2019",
+        "trackCount": 13,
+        "company": "BMG",
+        "description": "美国小提琴兼舞蹈艺术家林赛Lindsey Stirling发布她的第五张录音室专辑《Artemis》，专辑名字即阿尔忒弥斯，又名辛西亚，是古希腊神话中的狩猎女神，同时也是野兽的女主人与荒野的女领主，奥林匹斯十二主神之一。还是宙斯和勒托之女，接生了阿波罗，是其孪生姐姐。专辑里的每一首歌曲都代表着阿尔忒弥斯为寻早内心的光明，经历黑暗中的挣扎，挣脱重重桎梏，最终走向胜利的历程，而林赛再次将小提琴推向艺术高峰。\n",
+        "tracks": [
+          {
+            "id": 1390430687,
+            "name": "Underground",
+            "duration": 262347,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390431358,
+            "name": "Artemis",
+            "duration": 234004,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390430690,
+            "name": "Til the Light Goes Out",
+            "duration": 286798,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390431361,
+            "name": "Between Twilight",
+            "duration": 260022,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390430683,
+            "name": "Foreverglow",
+            "duration": 238210,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390430689,
+            "name": "Love Goes On And On",
+            "duration": 246543,
+            "artists": "Lindsey Stirling、Amy Lee"
+          },
+          {
+            "id": 1390430684,
+            "name": "Masquerade",
+            "duration": 201926,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390430685,
+            "name": "Sleepwalking",
+            "duration": 227421,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390430688,
+            "name": "Darkside",
+            "duration": 247640,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390431362,
+            "name": "The Upside",
+            "duration": 228702,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390431363,
+            "name": "Guardian",
+            "duration": 200766,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1390431360,
+            "name": "Aurora",
+            "duration": 215327,
+            "artists": "Lindsey Stirling"
+          },
+          {
+            "id": 1383152361,
+            "name": "The Upside",
+            "duration": 228501,
+            "artists": "Lindsey Stirling、Elle King"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:17:15.303Z"
+    },
+    {
+      "albumId": 3029289,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3029289,
+        "name": "Wonders",
+        "artist": "The Piano Guys",
+        "cover": "https://p2.music.126.net/1dAOPlO7SgDUsTn6gYztKQ==/109951165970771149.jpg",
+        "publishTime": 1412524800000,
+        "year": "2014",
+        "trackCount": 13,
+        "company": "索尼音乐",
+        "description": "●「酷音乐团」继2013年攻占Billboard第一名跨榜共计115周，2014年第四张大碟「奇迹」，即将再创音乐奇迹！\n●拥有YouTube超过5亿浏览人次、300万注册人数、脸书100万按赞粉丝团的全球最炙热音乐团体！\n●横跨流行与古典的极致演出组合，最新专辑大玩世代融合，包括一世代、菲利飞力普、大卫马修等冠军金曲完美再演绎。\n●酷玩电影名曲《冰雪奇缘》、《功夫熊猫》、《教会》，以及三代《蝙蝠侠》经典配乐首次合体超进化。\n●「CD版」与「CD+DVD版」全球同步发行，收录酷音乐团远征世界七大奇景拍摄MV。\n\n「酷音乐团」开创了我们这世代的全新指标，他们示范了音乐的真正玩法，不仅只有演出者，而是集结幕前幕后不同领域的才子，从作曲编曲、影像制作、到表演呈现，以超乎想像的巧思与创意，绽放出全方位的音乐能量。于是「酷音乐团」自2013年初发行首张同名专辑，年中趁胜追击的第二张专辑与年底的耶诞专辑，屡屡创下惊人记录，2014年秋天终于推出他们的第四张专辑：「奇迹」。\n\n酷音乐团将在最新专辑「奇迹」中继续创造令人惊艳的音乐奇迹，其中最鲜明的风格，莫过于他们藉由流行与古典所交织的神奇跨界魔力。第一首就是当红偶像团体「一世代」的《Story of my Life》衬上钢琴伴奏圣桑《动物狂欢节》之「水族馆」；而在《Home》这首歌里，他们将菲利飞力普（Phillip Phillips）夺冠单曲《Home》佐以德弗札克《新世界》交响曲之主题〈念故乡〉；同时也为大卫马修乐团（Dave Matthews）1995年摇滚金曲《Ants Marching》最后巧妙地以贝多芬《快乐颂》作为华丽尾奏，一次满足不同口味的所有乐迷。\n\n2013年电影《冰雪奇缘》最轰动的歌曲《Let It Go》自然逃不了酷音乐团的魔手，搭配韦瓦第《四季》的〈冬〉，在极尽寒冬中迸发无比火热的音符；电影《功夫熊猫》中那段柔肠寸断〈龟仙人升天〉旋律，在萧邦音乐中昇华为歌曲《功夫钢琴：大提琴升天》，而为了拍摄这支MV，「酷音乐团」特地远征中国长城当好汉。自此，让酷音乐团展开了「征服世界七大奇景」的雄心壮志，于是在拍摄颜尼欧莫利克奈经典电影配乐《The Mission / How Great Thou Art》MV时，全团再度拉拔至南美洲，除了重回电影《教会》里气势磅礡的伊瓜苏瀑布之外，还在里约热内卢的基督像下演奏，这五支美不胜收的MV将同时收录在专辑里。\n\n整张专辑一如过往的作品尽是充满惊喜，特别推荐歌曲《Batman Evolution》，这可说是「蝙蝠侠」三代配乐的超进化，从六?年代海夫提的电视影集配乐，加上九十年代丹尼叶夫曼《蝙蝠侠》系列电影配乐，以及二十一世纪重启《黑暗骑士》系列的汉斯季默之电影配乐，此乃有史以来第一次将老中青三代蝙蝠侠经典配乐融合为一的音乐开战时刻。除了流行与古典的跨界改编之外，「奇迹」专辑也收录了几首酷音乐团的创作曲，包括为了感谢粉丝所写的《Because of You》，还与火热的印度宝莱坞歌手苏布拉姆（Shweta Subram）合作《Don’t You Worry Child》，尼尔森的大提琴也因此转变为充满舞韵的「西塔大提琴」（Sitello）。酷音乐团在这张最新专辑再次创造了音乐的奇迹，邀请您进入他们不思议的异想世界。",
+        "tracks": [
+          {
+            "id": 29460771,
+            "name": "Story of My Life",
+            "duration": 270883,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460772,
+            "name": "Let It Go",
+            "duration": 243760,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460804,
+            "name": "Ants Marching / Ode to Joy",
+            "duration": 172524,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460773,
+            "name": "Fathers' Eyes",
+            "duration": 240117,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460805,
+            "name": "Kung Fu Piano:Cello Ascends",
+            "duration": 245179,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460774,
+            "name": "Summer Jam",
+            "duration": 234687,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460775,
+            "name": "Batman Evolution",
+            "duration": 253012,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460776,
+            "name": "Don't You Worry Child (feat. Shweta Subram)",
+            "duration": 245899,
+            "artists": "The Piano Guys、Shweta Subram"
+          },
+          {
+            "id": 29460777,
+            "name": "Home",
+            "duration": 281177,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460806,
+            "name": "The Mission / How Great Thou Art",
+            "duration": 191230,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460778,
+            "name": "Because of You",
+            "duration": 244807,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460779,
+            "name": "Pictures at an Exhibition",
+            "duration": 242230,
+            "artists": "The Piano Guys"
+          },
+          {
+            "id": 29460780,
+            "name": "Love Story",
+            "duration": 384880,
+            "artists": "The Piano Guys"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T08:16:17.360Z"
+    },
+    {
+      "albumId": 75029323,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 75029323,
+        "name": "Dream Worlds",
+        "artist": "Immediate Music",
+        "cover": "https://p2.music.126.net/OB_AcZh_u1OeziIFlo8loQ==/109951163767434857.jpg",
+        "publishTime": 1544803200007,
+        "year": "2018",
+        "trackCount": 14,
+        "company": "Immediate Music / BMG Production Music",
+        "description": "洛杉矶知名音乐制作公司Immediate Music于2018年12月15日发布的专辑《Dream Worlds》。",
+        "tracks": [
+          {
+            "id": 1337110014,
+            "name": "Taking Flight",
+            "duration": 190286,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111644,
+            "name": "Exaltation",
+            "duration": 156000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111645,
+            "name": "Dream Worlds",
+            "duration": 218000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111646,
+            "name": "Resilience",
+            "duration": 234000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111647,
+            "name": "Invisible Cities",
+            "duration": 208800,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337110015,
+            "name": "Offering Light",
+            "duration": 276000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111648,
+            "name": "Unbreakable One",
+            "duration": 309677,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111649,
+            "name": "The Great Race",
+            "duration": 215041,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337110016,
+            "name": "Without Limit",
+            "duration": 222000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337110017,
+            "name": "Resonance of Fate",
+            "duration": 264000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111650,
+            "name": "Time Is Passing",
+            "duration": 362041,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337110018,
+            "name": "Yet We Still Stand",
+            "duration": 173837,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337110019,
+            "name": "Circles",
+            "duration": 252000,
+            "artists": "Immediate Music"
+          },
+          {
+            "id": 1337111651,
+            "name": "Our Oblivion",
+            "duration": 214588,
+            "artists": "Immediate Music"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T11:30:35.036Z"
+    },
+    {
+      "albumId": 3451718,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3451718,
+        "name": "Oceans",
+        "artist": "Marcus Warner",
+        "cover": "https://p1.music.126.net/ZHqRHH2W_8YwANqTwCl48w==/109951173979990003.jpg",
+        "publishTime": 1454601600000,
+        "year": "2016",
+        "trackCount": 14,
+        "company": "Marcus Warner",
+        "description": "",
+        "tracks": [
+          {
+            "id": 41666271,
+            "name": "A Tale of Sea Dragons",
+            "duration": 217976,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666272,
+            "name": "Ends of the Earth",
+            "duration": 271250,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666273,
+            "name": "The First Few Waves",
+            "duration": 200750,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666274,
+            "name": "Emergency Protocol",
+            "duration": 258000,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666275,
+            "name": "In Arcadia",
+            "duration": 227000,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666276,
+            "name": "The Blue Edge",
+            "duration": 317646,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666277,
+            "name": "White Sails",
+            "duration": 223000,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666278,
+            "name": "Emperor of the Sea",
+            "duration": 182652,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666279,
+            "name": "On the Count of Ten",
+            "duration": 327750,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666280,
+            "name": "Sky Sounds",
+            "duration": 324000,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666281,
+            "name": "Dance of the River Spirits",
+            "duration": 282027,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666282,
+            "name": "Mountaineers",
+            "duration": 392000,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666283,
+            "name": "The Prophecy",
+            "duration": 188250,
+            "artists": "Marcus Warner"
+          },
+          {
+            "id": 41666284,
+            "name": "Oceans",
+            "duration": 448000,
+            "artists": "Marcus Warner"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T06:04:00.424Z"
+    },
+    {
+      "albumId": 166572259,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 166572259,
+        "name": "Succession: Season 4 (HBO Original Series Soundtrack)",
+        "artist": "Nicholas Britell",
+        "cover": "https://p2.music.126.net/UETngKaO5Zw0srC8frzzfw==/109951168645099688.jpg",
+        "publishTime": 1685289600000,
+        "year": "2023",
+        "trackCount": 25,
+        "company": "Lake George Music Group",
+        "description": "美国作曲家、钢琴家和电影制片人Nicholas Britell操刀制作的HBO剧集《继承之战 第四季 / Succession Season 4》原声带上线，第四季为该系列的最终季。\n",
+        "tracks": [
+          {
+            "id": 2051274843,
+            "name": "Succession (Main Title Theme) (Orchestral Intro Version)",
+            "duration": 121893,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275745,
+            "name": "Langsam - \"We Gave It a Go\"",
+            "duration": 133160,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274844,
+            "name": "End Credits - Vivace Appassionato in G Minor",
+            "duration": 69880,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275746,
+            "name": "Lento Nobile + Lento Pizzicato",
+            "duration": 76160,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275747,
+            "name": "Allegro Bellicoso - \"Pirates\"",
+            "duration": 55466,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274845,
+            "name": "Lamentoso - \"Needy Love Sponges\"",
+            "duration": 160197,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274846,
+            "name": "Minuet in C Minor - English Horn - \"I Need You\"",
+            "duration": 107746,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275748,
+            "name": "Phone Call",
+            "duration": 206183,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274847,
+            "name": "Piano Solo + Elegy for Orchestra - \"Logan's Return\"",
+            "duration": 165899,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275749,
+            "name": "Lamentoso - Clarinets, Piano, Pizzicato Strings",
+            "duration": 51426,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274848,
+            "name": "End Credits - \"Action That\"",
+            "duration": 125373,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275750,
+            "name": "Pianos + 808 + Beat - \"Welcome Home”",
+            "duration": 124693,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274849,
+            "name": "Marcato e con Forza",
+            "duration": 76240,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274850,
+            "name": "A Piacere di Nuovo",
+            "duration": 132266,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274851,
+            "name": "Interlude - Ricercare - \"On the Lot\"",
+            "duration": 40571,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274852,
+            "name": "Minuet in C Minor - Strings and Viola Solo",
+            "duration": 90733,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275751,
+            "name": "Andante Espressivo - String Orchestra - \"Number One Boy\"",
+            "duration": 205026,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275752,
+            "name": "\"My Dear, Dear, World of a Father\"",
+            "duration": 117680,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274853,
+            "name": "Molto Grave - Recessional",
+            "duration": 62226,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275753,
+            "name": "Elegy - Strings",
+            "duration": 151413,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275754,
+            "name": "Lamentoso - Piano, Oboes, Strings",
+            "duration": 110640,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274854,
+            "name": "Allegro in F Minor - Arrival at Waystar",
+            "duration": 90746,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051275755,
+            "name": "It's Done",
+            "duration": 169344,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274855,
+            "name": "Succession - Andante Risoluto",
+            "duration": 148427,
+            "artists": "Nicholas Britell"
+          },
+          {
+            "id": 2051274856,
+            "name": "End Credits - Choir and Orchestra - \"With Open Eyes\"",
+            "duration": 141332,
+            "artists": "Nicholas Britell"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T06:08:06.392Z"
+    }
+  ],
+  "groups": [
+    {
+      "id": "g1",
+      "name": "CET Album"
+    },
+    {
+      "id": "g2",
+      "name": "AudioMachine"
+    }
+  ],
+  "order": [
+    179201313,
+    91927362,
+    75731337,
+    3171557,
+    188323682,
+    3415590,
+    3275300,
+    35369061,
+    91343241,
+    34898901,
+    34886063,
+    3233257,
+    182746381,
+    2711608,
+    3264722,
+    3394605,
+    3395778,
+    81016182,
+    136982734,
+    34686191,
+    151601,
+    249747559,
+    84182475,
+    72022186,
+    2569064,
+    36528056,
+    124748065,
+    90337638,
+    163805444,
+    129028815,
+    122547304,
+    160612141,
+    74215660,
+    2640501,
+    81587639,
+    3029289,
+    75029323,
+    3451718,
+    166572259
+  ],
+  "view": {
+    "sortMode": "artist"
+  }
+}

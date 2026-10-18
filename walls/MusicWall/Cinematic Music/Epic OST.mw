@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "name": "Epic OST",
+  "style": "cassette",
+  "items": [
+    {
+      "albumId": 78242870,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 78242870,
+        "name": "The Arrow of Time: Soundtrack to \"Timelapse of the Future\"",
+        "artist": "melodysheep",
+        "cover": "https://p2.music.126.net/WQNrJO6ITpcdhSazSJXWdQ==/109951163959017564.jpg",
+        "publishTime": 1553011200000,
+        "year": "2019",
+        "trackCount": 14,
+        "company": "Melodysheep",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1355146597,
+            "name": "Sun Mother",
+            "duration": 216362,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355146598,
+            "name": "The Somnium",
+            "duration": 330000,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147161,
+            "name": "Ether",
+            "duration": 114637,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355146599,
+            "name": "Wither Away",
+            "duration": 58573,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147162,
+            "name": "Afterlife",
+            "duration": 51353,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355146600,
+            "name": "Mesa",
+            "duration": 71943,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147163,
+            "name": "Subterranean",
+            "duration": 102679,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147164,
+            "name": "The Long Sleep",
+            "duration": 103428,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355146601,
+            "name": "Black Desert",
+            "duration": 93275,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147165,
+            "name": "Hawking's Waltz",
+            "duration": 75000,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147166,
+            "name": "Oceans of Time",
+            "duration": 166632,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355146602,
+            "name": "The Rising Dawn Bellows Like Thunder",
+            "duration": 252107,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355147167,
+            "name": "City of Ghosts",
+            "duration": 92000,
+            "artists": "melodysheep"
+          },
+          {
+            "id": 1355146603,
+            "name": "Passage",
+            "duration": 165405,
+            "artists": "melodysheep"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:39:51.699Z"
+    },
+    {
+      "albumId": 2636878,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2636878,
+        "name": "Africa (Original Television Soundtrack)",
+        "artist": "Sarah Class",
+        "cover": "https://p1.music.126.net/dv3KnWtPJ-8hGPJGdQ9wRA==/18443208044582332.jpg",
+        "publishTime": 1363564800000,
+        "year": "2013",
+        "trackCount": 26,
+        "company": "Silva Screen Records",
+        "description": "《Africa（非洲）》由《Life（生命）》原班人马打造，是一部大型原生态纪录片。镜头将跟随主持人大卫·爱登堡（David Attenborough）一起穿越神奇的非洲大陆，探索那些从未被发现、被记录的生物物种和壮观的非洲奇迹。完美的剧情方式拍摄出一部纪录片，不亚于微观世界。绝美的画面和完美的配乐及那略带沧桑感的解说，光是片头就强烈感受的到了那震撼心灵的自然之美。",
+        "tracks": [
+          {
+            "id": 27567403,
+            "name": "Journey of the King Fish",
+            "duration": 185053,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567404,
+            "name": "Rivers and Falls",
+            "duration": 120000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567405,
+            "name": "Lakes and Flamingos",
+            "duration": 142000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567406,
+            "name": "Butterfly Ball",
+            "duration": 207000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567407,
+            "name": "Force of the Whale",
+            "duration": 138373,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567408,
+            "name": "Mystery Path",
+            "duration": 150066,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567409,
+            "name": "Giraffe vs. Giraffe",
+            "duration": 154000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567410,
+            "name": "Beauty of Aguillus Sands",
+            "duration": 176000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567411,
+            "name": "Leopard Mirage",
+            "duration": 125000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567412,
+            "name": "Bats and Eagles",
+            "duration": 133000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567413,
+            "name": "By the Beach",
+            "duration": 199000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567414,
+            "name": "Bangweulu Swamp",
+            "duration": 109000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567415,
+            "name": "The Desert Victor",
+            "duration": 174000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567416,
+            "name": "Up in the Clouds",
+            "duration": 126000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567417,
+            "name": "Lions and Lizards Rock Café",
+            "duration": 215000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567418,
+            "name": "Baptism of Fire",
+            "duration": 160000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567419,
+            "name": "Fairy Circles",
+            "duration": 109280,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567420,
+            "name": "Bull Elephant Fight",
+            "duration": 169000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567421,
+            "name": "Shimmer of the Flower Fields",
+            "duration": 93000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567422,
+            "name": "Drought",
+            "duration": 354000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567423,
+            "name": "Under the Stars",
+            "duration": 114000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567424,
+            "name": "Rwenzori Mountains",
+            "duration": 118000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567425,
+            "name": "Shores of Respite",
+            "duration": 135000,
+            "artists": "Sarah Class"
+          },
+          {
+            "id": 27567426,
+            "name": "Draconsberg",
+            "duration": 103000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567427,
+            "name": "Turtles",
+            "duration": 219000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          },
+          {
+            "id": 27567428,
+            "name": "River of Life",
+            "duration": 153000,
+            "artists": "Sarah Class、The BBC Concert Orchestra & Elizabeth Purnell"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:39:58.011Z"
+    }
+  ]
+}

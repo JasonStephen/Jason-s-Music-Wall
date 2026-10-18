@@ -1,0 +1,220 @@
+{
+  "version": 2,
+  "name": "Pure Music",
+  "style": "vinyl",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 405552,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 405552,
+        "name": "Fly Away",
+        "artist": "Capo Productions",
+        "cover": "https://p2.music.126.net/C-0FcJ5gbtpEEMurfQrxpA==/6633353651371892.jpg",
+        "publishTime": 1299600000007,
+        "year": "2011",
+        "trackCount": 16,
+        "company": "",
+        "description": "加拿大蒙特利尔作曲家Capo Productions的音乐专辑《Fly Away》于2011年3月9日发布。",
+        "tracks": [
+          {
+            "id": 4010716,
+            "name": "Breathe",
+            "duration": 125426,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010717,
+            "name": "Aurora",
+            "duration": 134556,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010718,
+            "name": "Beautiful Revenge",
+            "duration": 259493,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010719,
+            "name": "Sight & Sound",
+            "duration": 195929,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010720,
+            "name": "Oblivion",
+            "duration": 180780,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010721,
+            "name": "Corporate Dreams",
+            "duration": 269700,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010722,
+            "name": "Relaxing Freestyle",
+            "duration": 491288,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010726,
+            "name": "Above Everything",
+            "duration": 201425,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010730,
+            "name": "Smile",
+            "duration": 180480,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010734,
+            "name": "Legends Of Time",
+            "duration": 260179,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010737,
+            "name": "Tranquillità",
+            "duration": 202552,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010741,
+            "name": "Ominous",
+            "duration": 222751,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010746,
+            "name": "Till The End",
+            "duration": 253422,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010751,
+            "name": "Galactic Peace",
+            "duration": 214273,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010756,
+            "name": "Fly Away",
+            "duration": 240744,
+            "artists": "Capo Productions"
+          },
+          {
+            "id": 4010761,
+            "name": "Sunshine",
+            "duration": 247064,
+            "artists": "Capo Productions"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T10:32:53.018Z"
+    },
+    {
+      "albumId": 2070312,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2070312,
+        "name": "Visions Of Christmas",
+        "artist": "David Arkenstone",
+        "cover": "https://p1.music.126.net/ltn11D8gPlc-yt_0kxQcSA==/109951169039852340.jpg",
+        "publishTime": 1262275200000,
+        "year": "2010",
+        "trackCount": 13,
+        "company": "Green Hill Productions",
+        "description": "",
+        "tracks": [
+          {
+            "id": 22620898,
+            "name": "Joy To The World",
+            "duration": 253480,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620899,
+            "name": "Deck The Halls",
+            "duration": 227293,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620900,
+            "name": "What Child Is This",
+            "duration": 252253,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620901,
+            "name": "Hark! The Herald Angels Sing",
+            "duration": 216400,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620902,
+            "name": "The Coventry Carol",
+            "duration": 237333,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620903,
+            "name": "Snowdance",
+            "duration": 298746,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620904,
+            "name": "I Saw Three Ships",
+            "duration": 227853,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620905,
+            "name": "Angels In The Snow",
+            "duration": 290933,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620906,
+            "name": "O Christmas Tree/Il Est Né Le Divin Enfant (Medley)",
+            "duration": 250333,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620907,
+            "name": "Bottom Of The Punch Bowl",
+            "duration": 257786,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620908,
+            "name": "Arabian Dance",
+            "duration": 253546,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620909,
+            "name": "The Holly And The Ivy",
+            "duration": 198800,
+            "artists": "David Arkenstone"
+          },
+          {
+            "id": 22620910,
+            "name": "Silent Night",
+            "duration": 218413,
+            "artists": "David Arkenstone"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T11:11:11.743Z"
+    }
+  ]
+}

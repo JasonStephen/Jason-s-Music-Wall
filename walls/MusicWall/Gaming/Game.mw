@@ -1,0 +1,1240 @@
+{
+  "version": 1,
+  "name": "新的音乐墙",
+  "style": "cover",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 382255647,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 382255647,
+        "name": "Hospital Records: Forza Horizon 6",
+        "artist": "Various Artists",
+        "cover": "https://p2.music.126.net/MjFt5MXRJp03UNegSTRrtA==/109951173410890586.jpg",
+        "publishTime": 1784822400000,
+        "year": "2026",
+        "trackCount": 24,
+        "company": "Hospital Records",
+        "description": "",
+        "tracks": [
+          {
+            "id": 3394957921,
+            "name": "Thread The Needle",
+            "duration": 283618,
+            "artists": "Hoax、So What、Dynamite MC"
+          },
+          {
+            "id": 3394957922,
+            "name": "Dawnbreaker (Subsonic Remix)",
+            "duration": 226306,
+            "artists": "Metrik"
+          },
+          {
+            "id": 3394957923,
+            "name": "Photo Finish",
+            "duration": 178385,
+            "artists": "P Money、Whiney"
+          },
+          {
+            "id": 3394958808,
+            "name": "Turbo Fire",
+            "duration": 207451,
+            "artists": "TANTRON、Nakamura Minami"
+          },
+          {
+            "id": 3394957924,
+            "name": "Hyperspace",
+            "duration": 258620,
+            "artists": "Logistics"
+          },
+          {
+            "id": 3394958809,
+            "name": "SKYLINE FEVER",
+            "duration": 256544,
+            "artists": "IYRE、Makoto"
+          },
+          {
+            "id": 3394957925,
+            "name": "Pieces Of Me",
+            "duration": 228055,
+            "artists": "Winslow、Gabriella Bongo、Elsa"
+          },
+          {
+            "id": 3394958810,
+            "name": "Vortex",
+            "duration": 248459,
+            "artists": "Fred V"
+          },
+          {
+            "id": 3394957926,
+            "name": "Superheim",
+            "duration": 254759,
+            "artists": "Urbandawn"
+          },
+          {
+            "id": 3394957927,
+            "name": "Rock Da House (Alibi Remix)",
+            "duration": 309065,
+            "artists": "S.P.Y"
+          },
+          {
+            "id": 3394957928,
+            "name": "Trigger Sequence",
+            "duration": 168683,
+            "artists": "TANTRON"
+          },
+          {
+            "id": 3394957929,
+            "name": "Challenger",
+            "duration": 225958,
+            "artists": "Hugh Hardie"
+          },
+          {
+            "id": 3394957930,
+            "name": "Iceberg",
+            "duration": 288804,
+            "artists": "InsideInfo、Kemal"
+          },
+          {
+            "id": 3394957931,
+            "name": "Chromium",
+            "duration": 248375,
+            "artists": "Nu:Logic"
+          },
+          {
+            "id": 3394957932,
+            "name": "Elastic Dreams",
+            "duration": 282495,
+            "artists": "Bop、Subwave"
+          },
+          {
+            "id": 3394957933,
+            "name": "U & Me",
+            "duration": 235614,
+            "artists": "Waeys"
+          },
+          {
+            "id": 3394958811,
+            "name": "Breathe Again",
+            "duration": 171064,
+            "artists": "Sudley、Degs"
+          },
+          {
+            "id": 3394957934,
+            "name": "Clarity",
+            "duration": 200486,
+            "artists": "Nu:Tone、SOLAH"
+          },
+          {
+            "id": 3394958812,
+            "name": "Salsa Stepper",
+            "duration": 180758,
+            "artists": "Nixxy Rain"
+          },
+          {
+            "id": 3394957935,
+            "name": "Astral Travelling",
+            "duration": 224584,
+            "artists": "Makoto、Elle Shimada"
+          },
+          {
+            "id": 3394957936,
+            "name": "Falling",
+            "duration": 251381,
+            "artists": "Fonts"
+          },
+          {
+            "id": 3394958813,
+            "name": "Wrong Phase, Right Time",
+            "duration": 177483,
+            "artists": "Unglued"
+          },
+          {
+            "id": 3394958814,
+            "name": "Redline",
+            "duration": 180689,
+            "artists": "hayve、Anaïs、Laminar、Skyelle"
+          },
+          {
+            "id": 3394957937,
+            "name": "Stone Cold",
+            "duration": 229418,
+            "artists": "Formula"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:43:29.142Z"
+    },
+    {
+      "albumId": 134975276,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 134975276,
+        "name": "Forza Horizon 5: Hospital Soundtrack",
+        "artist": "Various Artists",
+        "cover": "https://p1.music.126.net/BqPD-zzRrCyFMqdhmtwDhw==/109951172287922341.jpg",
+        "publishTime": 1637856000000,
+        "year": "2021",
+        "trackCount": 20,
+        "company": "Hospital Records",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1888184300,
+            "name": "Fly Away",
+            "duration": 251206,
+            "artists": "Urbandawn"
+          },
+          {
+            "id": 1888187762,
+            "name": "Bandicoot",
+            "duration": 229755,
+            "artists": "Flava D"
+          },
+          {
+            "id": 1888187763,
+            "name": "Skyscraping",
+            "duration": 251642,
+            "artists": "Fred V"
+          },
+          {
+            "id": 1888187764,
+            "name": "Alone",
+            "duration": 253220,
+            "artists": "Grafix、Ruth Royall"
+          },
+          {
+            "id": 1888184301,
+            "name": "Utopia",
+            "duration": 253893,
+            "artists": "Metrik"
+          },
+          {
+            "id": 1888184302,
+            "name": "Illusion of Time",
+            "duration": 231337,
+            "artists": "S.P.Y"
+          },
+          {
+            "id": 1888187765,
+            "name": "Magnetosphere",
+            "duration": 255217,
+            "artists": "Unglued"
+          },
+          {
+            "id": 1888184303,
+            "name": "Boundless",
+            "duration": 294434,
+            "artists": "Logistics"
+          },
+          {
+            "id": 1888184304,
+            "name": "Unwritten",
+            "duration": 249078,
+            "artists": "Degs"
+          },
+          {
+            "id": 1888187766,
+            "name": "Trial Mountain",
+            "duration": 334048,
+            "artists": "Mitekiss、Makoto、Karina Ramage"
+          },
+          {
+            "id": 1888187767,
+            "name": "Zaichik",
+            "duration": 234640,
+            "artists": "Subwave、Bop"
+          },
+          {
+            "id": 1888184305,
+            "name": "Burn Out",
+            "duration": 242978,
+            "artists": "Kings Of The Rollers"
+          },
+          {
+            "id": 1888184306,
+            "name": "Black Magic",
+            "duration": 248606,
+            "artists": "Grafix、Dynamite MC"
+          },
+          {
+            "id": 1888184307,
+            "name": "Communications",
+            "duration": 248194,
+            "artists": "Keeno"
+          },
+          {
+            "id": 1888187768,
+            "name": "Deckard's Chords",
+            "duration": 266996,
+            "artists": "Hugh Hardie"
+          },
+          {
+            "id": 1888184308,
+            "name": "Midwest Shuffle",
+            "duration": 293632,
+            "artists": "Winslow"
+          },
+          {
+            "id": 1888187769,
+            "name": "Turn Up",
+            "duration": 213942,
+            "artists": "Whiney"
+          },
+          {
+            "id": 1888184309,
+            "name": "Second Time Around",
+            "duration": 252605,
+            "artists": "Nu:Tone"
+          },
+          {
+            "id": 1888187770,
+            "name": "Another Star",
+            "duration": 322858,
+            "artists": "Makoto"
+          },
+          {
+            "id": 1888184310,
+            "name": "Naperone",
+            "duration": 205599,
+            "artists": "Etherwood"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:43:30.991Z"
+    },
+    {
+      "albumId": 73589820,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 73589820,
+        "name": "Forza Horizon 4: Hospital Soundtrack",
+        "artist": "Hospital Records",
+        "cover": "https://p1.music.126.net/_IRAcM1FF8rzwr8p_cUCLA==/109951172287717009.jpg",
+        "publishTime": 1540483200000,
+        "year": "2018",
+        "trackCount": 20,
+        "company": "Hospital Records",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1312569782,
+            "name": "While The World Sleeps",
+            "duration": 251890,
+            "artists": "Keeno"
+          },
+          {
+            "id": 1312569783,
+            "name": "That's A Switch",
+            "duration": 298248,
+            "artists": "London Elektricity"
+          },
+          {
+            "id": 1312570605,
+            "name": "Auckland Sunrise",
+            "duration": 222872,
+            "artists": "Fred V & Grafix"
+          },
+          {
+            "id": 1312569784,
+            "name": "City Lights",
+            "duration": 277867,
+            "artists": "Subwave、Bop"
+          },
+          {
+            "id": 1312570606,
+            "name": "Mismatch",
+            "duration": 225285,
+            "artists": "Krakota"
+          },
+          {
+            "id": 1312570607,
+            "name": "Hot Wheels",
+            "duration": 286159,
+            "artists": "Kings Of The Rollers"
+          },
+          {
+            "id": 1312569785,
+            "name": "Caffeine",
+            "duration": 249953,
+            "artists": "Urbandawn"
+          },
+          {
+            "id": 1312570608,
+            "name": "Dawnbreaker",
+            "duration": 301070,
+            "artists": "Metrik"
+          },
+          {
+            "id": 1312569786,
+            "name": "The Sound Of Your Smile",
+            "duration": 225027,
+            "artists": "Nu:Logic"
+          },
+          {
+            "id": 1312570609,
+            "name": "Lessons Learned",
+            "duration": 440100,
+            "artists": "Polaris"
+          },
+          {
+            "id": 1312570610,
+            "name": "Let The Senses Clear Your Mind",
+            "duration": 253893,
+            "artists": "Logistics"
+          },
+          {
+            "id": 1312570611,
+            "name": "Rock Da House",
+            "duration": 297359,
+            "artists": "S.P.Y"
+          },
+          {
+            "id": 1312570612,
+            "name": "Loki",
+            "duration": 264787,
+            "artists": "Whiney、Urbandawn"
+          },
+          {
+            "id": 1312570613,
+            "name": "Wading Through The Crowds",
+            "duration": 275530,
+            "artists": "Makoto、Karina Ramage"
+          },
+          {
+            "id": 1312570614,
+            "name": "Brave Face",
+            "duration": 383548,
+            "artists": "Keeno"
+          },
+          {
+            "id": 1312570615,
+            "name": "Veloce",
+            "duration": 300805,
+            "artists": "Mitekiss"
+          },
+          {
+            "id": 1312570616,
+            "name": "Haltija",
+            "duration": 328322,
+            "artists": "Etherwood"
+          },
+          {
+            "id": 1312569787,
+            "name": "Offshore",
+            "duration": 262101,
+            "artists": "Hugh Hardie"
+          },
+          {
+            "id": 1312570617,
+            "name": "Stomp Your Soul",
+            "duration": 306219,
+            "artists": "Lakeway"
+          },
+          {
+            "id": 1312570618,
+            "name": "Empire",
+            "duration": 419410,
+            "artists": "Polaris"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:43:32.746Z"
+    },
+    {
+      "albumId": 79085252,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 79085252,
+        "name": "Surviving Mars: Official Mars Radio",
+        "artist": "Various Artists",
+        "cover": "https://p1.music.126.net/DfC_HdCKBdAHjP_Cui-YPQ==/109951164071700324.jpg",
+        "publishTime": 1554998400000,
+        "year": "2019",
+        "trackCount": 16,
+        "company": "Paradox Interactive",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1365036072,
+            "name": "My Journey",
+            "duration": 244035,
+            "artists": "Sugar Orchestra"
+          },
+          {
+            "id": 1365032917,
+            "name": "Shores Of Mars",
+            "duration": 250155,
+            "artists": "Sugar Orchestra"
+          },
+          {
+            "id": 1365036073,
+            "name": "Sunrise",
+            "duration": 240360,
+            "artists": "Sugar Orchestra"
+          },
+          {
+            "id": 1365032918,
+            "name": "Your Best",
+            "duration": 248755,
+            "artists": "Sugar Orchestra"
+          },
+          {
+            "id": 1365032919,
+            "name": "Candy Castle",
+            "duration": 240577,
+            "artists": "Juhanni"
+          },
+          {
+            "id": 1365036074,
+            "name": "The Time",
+            "duration": 240279,
+            "artists": "Juhanni"
+          },
+          {
+            "id": 1365036075,
+            "name": "Unfold",
+            "duration": 240645,
+            "artists": "Juhanni"
+          },
+          {
+            "id": 1365032920,
+            "name": "White Trees",
+            "duration": 247073,
+            "artists": "Juhanni"
+          },
+          {
+            "id": 1365036076,
+            "name": "Among The Stars",
+            "duration": 252383,
+            "artists": "Pinky"
+          },
+          {
+            "id": 1365032921,
+            "name": "It's Going To Be Okay With Me",
+            "duration": 252259,
+            "artists": "Pinky"
+          },
+          {
+            "id": 1365036077,
+            "name": "Little Town",
+            "duration": 242054,
+            "artists": "Pinky"
+          },
+          {
+            "id": 1365036078,
+            "name": "Spread",
+            "duration": 245068,
+            "artists": "Pinky"
+          },
+          {
+            "id": 1365036079,
+            "name": "Corners",
+            "duration": 248507,
+            "artists": "Profet Sorb Z"
+          },
+          {
+            "id": 1365036080,
+            "name": "Let's Care",
+            "duration": 248129,
+            "artists": "Profet Sorb Z"
+          },
+          {
+            "id": 1365032922,
+            "name": "Gray Hole",
+            "duration": 247276,
+            "artists": "Profet Sorb Z"
+          },
+          {
+            "id": 1365032923,
+            "name": "Temporary",
+            "duration": 279310,
+            "artists": "Profet Sorb Z"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T09:51:32.082Z"
+    },
+    {
+      "albumId": 85251555,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 85251555,
+        "name": "Death Stranding (Songs from the Video Game)",
+        "artist": "Various Artists",
+        "cover": "https://p2.music.126.net/T7CfAIy9BGu80xIIflmcAg==/109951168959882340.jpg",
+        "publishTime": 1580400000000,
+        "year": "2020",
+        "trackCount": 22,
+        "company": "索尼音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1419191927,
+            "name": "Don't Be So Serious",
+            "duration": 373318,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188874,
+            "name": "Bones",
+            "duration": 170106,
+            "artists": "Low Roar、Jófriður"
+          },
+          {
+            "id": 1419191928,
+            "name": "Easy Way Out",
+            "duration": 288345,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188875,
+            "name": "Poznan",
+            "duration": 123099,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188876,
+            "name": "Asylums for the Feeling",
+            "duration": 427827,
+            "artists": "Silent Poets、Leila Adu"
+          },
+          {
+            "id": 1419191929,
+            "name": "Once in a Long, Long While",
+            "duration": 316524,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419191930,
+            "name": "St. Eriksplan",
+            "duration": 221187,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188877,
+            "name": "Death Stranding",
+            "duration": 316214,
+            "artists": "CHVRCHES"
+          },
+          {
+            "id": 1419188878,
+            "name": "Please Don't Stop Chapter 1",
+            "duration": 280760,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419191931,
+            "name": "Because We Have To",
+            "duration": 235800,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419191932,
+            "name": "Waiting (10 Years)",
+            "duration": 244838,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188880,
+            "name": "Almost Nothing",
+            "duration": 297958,
+            "artists": "Silent Poets、Okay Kaya"
+          },
+          {
+            "id": 1419188882,
+            "name": "Tonight, Tonight, Tonight",
+            "duration": 476960,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188883,
+            "name": "Nobody Else",
+            "duration": 297960,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188884,
+            "name": "The Machine",
+            "duration": 337660,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188885,
+            "name": "Anything You Need",
+            "duration": 192373,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188886,
+            "name": "Give Up",
+            "duration": 186644,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419191933,
+            "name": "Patience",
+            "duration": 345306,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419188887,
+            "name": "Path",
+            "duration": 187946,
+            "artists": "Apocalyptica"
+          },
+          {
+            "id": 1419188888,
+            "name": "Not Around",
+            "duration": 315636,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419191934,
+            "name": "I'm Leaving",
+            "duration": 334680,
+            "artists": "Low Roar"
+          },
+          {
+            "id": 1419191935,
+            "name": "I'll Keep Coming",
+            "duration": 352391,
+            "artists": "Low Roar"
+          }
+        ]
+      },
+      "addedAt": "2026-09-01T13:17:02.049Z"
+    },
+    {
+      "albumId": 2512266,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2512266,
+        "name": "The Last of Us (Video Game Soundtrack)",
+        "artist": "Gustavo Santaolalla",
+        "cover": "https://p1.music.126.net/V5BIlxMo9B9S05QTJlPy4Q==/109951165967664824.jpg",
+        "publishTime": 1370793600000,
+        "year": "2013",
+        "trackCount": 30,
+        "company": "索尼音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 26509683,
+            "name": "The Quarantine Zone (20 Years Later)",
+            "duration": 220264,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509684,
+            "name": "The Hour",
+            "duration": 61666,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509685,
+            "name": "The Last of Us",
+            "duration": 183600,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509686,
+            "name": "Forgotten Memories",
+            "duration": 67709,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509687,
+            "name": "The Outbreak",
+            "duration": 91649,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509688,
+            "name": "Vanishing Grace",
+            "duration": 126053,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509689,
+            "name": "The Hunters",
+            "duration": 119946,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509690,
+            "name": "All Gone",
+            "duration": 73189,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509691,
+            "name": "Vanishing Grace (Innocence)",
+            "duration": 55820,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509692,
+            "name": "By Any Means",
+            "duration": 113174,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509693,
+            "name": "The Choice",
+            "duration": 102373,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509694,
+            "name": "Smugglers",
+            "duration": 98429,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509695,
+            "name": "The Last of Us (Never Again)",
+            "duration": 61573,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509696,
+            "name": "The Last of Us (Goodnight)",
+            "duration": 51060,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509697,
+            "name": "I Know What You Are",
+            "duration": 81687,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509698,
+            "name": "Home",
+            "duration": 187919,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509699,
+            "name": "Infected",
+            "duration": 76068,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509700,
+            "name": "All Gone (Aftermath)",
+            "duration": 64440,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509701,
+            "name": "The Last of Us (A New Dawn)",
+            "duration": 148189,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509702,
+            "name": "All Gone (No Escape)",
+            "duration": 174381,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509703,
+            "name": "Vanishing Grace (Childhood)",
+            "duration": 101106,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509704,
+            "name": "The Path",
+            "duration": 88932,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509705,
+            "name": "All Gone (Alone)",
+            "duration": 82314,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509706,
+            "name": "Blackout",
+            "duration": 98800,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509707,
+            "name": "The Way It Was",
+            "duration": 91493,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509708,
+            "name": "Breathless",
+            "duration": 84427,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509709,
+            "name": "The Last of Us (You and Me)",
+            "duration": 128826,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509710,
+            "name": "All Gone (The Outside)",
+            "duration": 117957,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509711,
+            "name": "The Path (A New Beginning)",
+            "duration": 167066,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 26509712,
+            "name": "Returning",
+            "duration": 216015,
+            "artists": "Gustavo Santaolalla"
+          }
+        ]
+      },
+      "addedAt": "2026-09-02T10:42:22.952Z"
+    },
+    {
+      "albumId": 2762269,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2762269,
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "artist": "Gustavo Santaolalla",
+        "cover": "https://p2.music.126.net/XgRKTE4o5ccjgom1TcKbrA==/109951165969474480.jpg",
+        "publishTime": 1391961600000,
+        "year": "2014",
+        "trackCount": 25,
+        "company": "索尼音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 28267345,
+            "name": "Fleeting",
+            "duration": 180372,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267346,
+            "name": "All Gone (Seasons)",
+            "duration": 120349,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267347,
+            "name": "Evasion",
+            "duration": 80480,
+            "artists": "Andrew Buresh"
+          },
+          {
+            "id": 28267349,
+            "name": "All Gone (Partners)",
+            "duration": 137415,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267350,
+            "name": "Cause and Effect",
+            "duration": 134786,
+            "artists": "JD Mayer"
+          },
+          {
+            "id": 28267351,
+            "name": "All Gone (Reunion)",
+            "duration": 108226,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267352,
+            "name": "Stalking",
+            "duration": 119373,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267353,
+            "name": "Left Behind (Together)",
+            "duration": 163538,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267354,
+            "name": "The Capitol",
+            "duration": 201363,
+            "artists": "Anthony Caruso"
+          },
+          {
+            "id": 28267355,
+            "name": "Head Rush",
+            "duration": 205937,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267356,
+            "name": "Wandering",
+            "duration": 126600,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267357,
+            "name": "All Gone (Overcome)",
+            "duration": 112779,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267358,
+            "name": "Unstable",
+            "duration": 110666,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267359,
+            "name": "The Last of Us (Astray)",
+            "duration": 208886,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267360,
+            "name": "Answers",
+            "duration": 74628,
+            "artists": "JD Mayer"
+          },
+          {
+            "id": 28267361,
+            "name": "Drawn In",
+            "duration": 69706,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267362,
+            "name": "Apprehension",
+            "duration": 92670,
+            "artists": "JD Mayer"
+          },
+          {
+            "id": 28267363,
+            "name": "The Path (Vacant)",
+            "duration": 179049,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267364,
+            "name": "Convergence",
+            "duration": 169761,
+            "artists": "JD Mayer"
+          },
+          {
+            "id": 28267365,
+            "name": "Shadows",
+            "duration": 58816,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267366,
+            "name": "No Mercy",
+            "duration": 154157,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267367,
+            "name": "Fleeting (Affection)",
+            "duration": 107787,
+            "artists": "Gustavo Santaolalla"
+          },
+          {
+            "id": 28267368,
+            "name": "Extinction",
+            "duration": 115937,
+            "artists": "Andrew Buresh"
+          },
+          {
+            "id": 28267369,
+            "name": "Consumed",
+            "duration": 254786,
+            "artists": "Anthony Caruso、JD Mayer"
+          },
+          {
+            "id": 28267370,
+            "name": "Left Behind",
+            "duration": 235659,
+            "artists": "Gustavo Santaolalla"
+          }
+        ]
+      },
+      "addedAt": "2026-09-02T10:42:45.829Z"
+    },
+    {
+      "albumId": 34720585,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 34720585,
+        "name": "Stellaris Original Soundtrack",
+        "artist": "Andreas Waldetoft",
+        "cover": "https://p1.music.126.net/Gxv6d9W4Yd9q9WNHPpi8rw==/1379887104073348.jpg",
+        "publishTime": 1462723200007,
+        "year": "2016",
+        "trackCount": 23,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 415792373,
+            "name": "Stellaris Suite: Creation and Beyond",
+            "duration": 510667,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793340,
+            "name": "Faster Than Light",
+            "duration": 400313,
+            "artists": "Andreas Waldetoft、Mia Stegmar"
+          },
+          {
+            "id": 415792374,
+            "name": "Deep Space Travels",
+            "duration": 449000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793341,
+            "name": "To the Ends of the Galaxy - Instrumental",
+            "duration": 373000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792375,
+            "name": "In Search of Life",
+            "duration": 361000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793342,
+            "name": "Spatial Lullaby",
+            "duration": 254500,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792376,
+            "name": "Gravitational Constant",
+            "duration": 427000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793343,
+            "name": "Alpha Centauri",
+            "duration": 323500,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792377,
+            "name": "Genesis",
+            "duration": 368000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793344,
+            "name": "The Celestial City",
+            "duration": 349981,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792378,
+            "name": "Infinite Being",
+            "duration": 453000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793345,
+            "name": "Pillars of Creation",
+            "duration": 756000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792379,
+            "name": "Distant Nebula - Instrumental",
+            "duration": 476500,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793346,
+            "name": "Sigma Tauri",
+            "duration": 336330,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792380,
+            "name": "Journey Through the Galaxy",
+            "duration": 347076,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793347,
+            "name": "Riding the Solar Wind",
+            "duration": 433562,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792381,
+            "name": "The Birth of a Star",
+            "duration": 662776,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793348,
+            "name": "Luminescence",
+            "duration": 483000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792382,
+            "name": "Distant Nebula",
+            "duration": 476669,
+            "artists": "Andreas Waldetoft、Mia Stegmar"
+          },
+          {
+            "id": 415793349,
+            "name": "Faster Than Light - Instrumental",
+            "duration": 400500,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792383,
+            "name": "Battle For Supremacy - Bonus Track",
+            "duration": 240628,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415793350,
+            "name": "Infinite Being - Alternative Version",
+            "duration": 453000,
+            "artists": "Andreas Waldetoft"
+          },
+          {
+            "id": 415792384,
+            "name": "To the Ends of the Galaxy - Alternative Version",
+            "duration": 373051,
+            "artists": "Andreas Waldetoft"
+          }
+        ]
+      },
+      "addedAt": "2026-09-03T07:03:39.006Z"
+    }
+  ]
+}

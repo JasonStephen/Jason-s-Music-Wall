@@ -1,0 +1,1165 @@
+{
+  "version": 2,
+  "name": "Others",
+  "style": "cover",
+  "layout": "shelf",
+  "items": [
+    {
+      "albumId": 157640212,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 157640212,
+        "name": "AD:PIANO IX -Alt-",
+        "artist": "Diverse System",
+        "cover": "https://p1.music.126.net/KnNNRtl2BOcf5DJlDDhUzw==/109951169525321630.jpg",
+        "publishTime": 1672329600000,
+        "year": "2022",
+        "trackCount": 19,
+        "company": "Diverse System",
+        "description": "Model Number:DVSP-0279\nRelease Date:2022/12/30\nIllustrator:電鬼\nDesigner:レク\nMastering:うこぼね\nProducer:YsK439",
+        "tracks": [
+          {
+            "id": 2011880149,
+            "name": "I Can't Remember Anymore",
+            "duration": 204613,
+            "artists": "削除"
+          },
+          {
+            "id": 2011881260,
+            "name": "Immutable",
+            "duration": 325493,
+            "artists": "Juggernaut."
+          },
+          {
+            "id": 2011880150,
+            "name": "Relictos",
+            "duration": 207533,
+            "artists": "satie"
+          },
+          {
+            "id": 2011880151,
+            "name": "記憶の固執",
+            "duration": 202506,
+            "artists": "yuichi NAGAO"
+          },
+          {
+            "id": 2011880152,
+            "name": "SIZUMU",
+            "duration": 277160,
+            "artists": "Essbee"
+          },
+          {
+            "id": 2011881261,
+            "name": "Chamber of Shackles",
+            "duration": 273973,
+            "artists": "Elliot Hsu"
+          },
+          {
+            "id": 2011880153,
+            "name": "Odyssey",
+            "duration": 284453,
+            "artists": "BlackY"
+          },
+          {
+            "id": 2011881262,
+            "name": "Badass GigaForte",
+            "duration": 192053,
+            "artists": "cosMo@暴走P"
+          },
+          {
+            "id": 2011880154,
+            "name": "４つの大鍵盤のための小悪魔狂想曲 (feat. PYKAMIA)",
+            "duration": 278960,
+            "artists": "Ice、PYKAMIA"
+          },
+          {
+            "id": 2011881263,
+            "name": "When You Were Here",
+            "duration": 247506,
+            "artists": "ARForest"
+          },
+          {
+            "id": 2011881264,
+            "name": "vacant",
+            "duration": 213880,
+            "artists": "callasoiled"
+          },
+          {
+            "id": 2011881265,
+            "name": "Dubblethink",
+            "duration": 189080,
+            "artists": "Avans"
+          },
+          {
+            "id": 2011881266,
+            "name": "Liquid Waste Pool",
+            "duration": 179960,
+            "artists": "黒魔"
+          },
+          {
+            "id": 2011881267,
+            "name": "Baa-raa-ra",
+            "duration": 191973,
+            "artists": "Sobrem"
+          },
+          {
+            "id": 2011880155,
+            "name": "Memories of You (feat. vally.exe)",
+            "duration": 338000,
+            "artists": "Sad Keyboard Guy、Vally.exe"
+          },
+          {
+            "id": 2011881268,
+            "name": "時間工場",
+            "duration": 300000,
+            "artists": "bqスタヂオ"
+          },
+          {
+            "id": 2011880156,
+            "name": "堆積、そして固結、在ったもの",
+            "duration": 214786,
+            "artists": "Error Signal"
+          },
+          {
+            "id": 2011881269,
+            "name": "A Voyage to Nowhere",
+            "duration": 333520,
+            "artists": "久保田修"
+          },
+          {
+            "id": 2011881270,
+            "name": "III.追想",
+            "duration": 228000,
+            "artists": "Feryquitous"
+          }
+        ]
+      },
+      "addedAt": "2026-09-12T09:40:42.311Z"
+    },
+    {
+      "albumId": 124162314,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 124162314,
+        "name": "Still Life",
+        "artist": "Adrián Berenguer",
+        "cover": "https://p1.music.126.net/gqD7g0UifgI7XwUbs3-ZOg==/109951169925234872.jpg",
+        "publishTime": 1613664000000,
+        "year": "2021",
+        "trackCount": 17,
+        "company": "The Other Songs",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1826336762,
+            "name": "Effort",
+            "duration": 216136,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335145,
+            "name": "Overcoming",
+            "duration": 219473,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335146,
+            "name": "Still Life",
+            "duration": 195473,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335147,
+            "name": "The Castle",
+            "duration": 170281,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335148,
+            "name": "Farewell",
+            "duration": 190625,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335149,
+            "name": "Flowers",
+            "duration": 164307,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826336764,
+            "name": "The Court",
+            "duration": 163263,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335150,
+            "name": "Midnight Vals",
+            "duration": 174649,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826336765,
+            "name": "Falling Down",
+            "duration": 186527,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826336766,
+            "name": "December",
+            "duration": 191086,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826336767,
+            "name": "Dancing on the Snow",
+            "duration": 236500,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335151,
+            "name": "The Gift",
+            "duration": 264500,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826336768,
+            "name": "Magician",
+            "duration": 150500,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335152,
+            "name": "Leaves",
+            "duration": 188928,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335153,
+            "name": "Frontier",
+            "duration": 192500,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335154,
+            "name": "October",
+            "duration": 272090,
+            "artists": "Adrián Berenguer"
+          },
+          {
+            "id": 1826335155,
+            "name": "Sublime",
+            "duration": 208620,
+            "artists": "Adrián Berenguer"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T04:57:11.060Z"
+    },
+    {
+      "albumId": 74699,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 74699,
+        "name": "クドわふたー オリジナル サウンドトラック",
+        "artist": "Key Sounds Label",
+        "cover": "https://p1.music.126.net/XLuCCuFhNQStLUuFNgmO4Q==/109951169946925792.jpg",
+        "publishTime": 1277395200000,
+        "year": "2010",
+        "trackCount": 24,
+        "company": "独立发行",
+        "description": "\"one's future\"\n\nlyrics: Sakigake\n\ncompose: Jyunichi Shimizu\n\narrange: Manack\n\nvocal: Miyako Suzuta\n\n\n\n\"星守歌\"\n\nlyrics: Chika Shirokiri\n\ncompose/arrange: Jyunichi Shimizu\n\nvocal: Miyako Suzuta\n\n\n\n\"Hoshikuzu\"\n\nlyrics: Chika Shirokiri\n\ncompose/arrange: Jyunichi Shimizu\n\nvocal: Haruka Shimotsuki\n\n\n\nDirector\n\nJyunichi Shimizu\n\n\n\nBGM Arrange Assistance\n\nManack / Donmaru (どんまる)\n\n\n\nDrums & Percussion\n\nToshiharu Okajima\n\n\n\nBass\n\nTakafumi Kamijo (Change of the moon) / Jyunichi Shimizu\n\n\n\nAcoustic & Electric Guitar\n\na2c (MintJam) / Jyunichi Shimizu\n\n\n\nPiano\n\nAkane Doi\n\n\n\nStrings\n\nEnsemble Shou\n\n\n\nBGM Instrument\n\nJyunichi Shimizu / Donmaru",
+        "tracks": [
+          {
+            "id": 760003,
+            "name": "Sunday Morning Dance",
+            "duration": 182871,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760007,
+            "name": "At The Mountain Behind",
+            "duration": 174485,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760011,
+            "name": "mini glamour",
+            "duration": 111452,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760014,
+            "name": "Path of Sunset",
+            "duration": 167720,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760017,
+            "name": "Breath of Stars",
+            "duration": 141258,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760020,
+            "name": "Color blossom",
+            "duration": 116703,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760024,
+            "name": "Where I Belong",
+            "duration": 161738,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760028,
+            "name": "When We Wish a Upon a Star",
+            "duration": 135459,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760032,
+            "name": "Cape of Future",
+            "duration": 142747,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760037,
+            "name": "Adagio for Summer Wind",
+            "duration": 141177,
+            "artists": "清水淳一、Key Sounds Label"
+          },
+          {
+            "id": 760041,
+            "name": "Trampoline Girl",
+            "duration": 133865,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760045,
+            "name": "August Green",
+            "duration": 143086,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760049,
+            "name": "Moontan",
+            "duration": 227201,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760054,
+            "name": "The Roots of consciousness",
+            "duration": 243971,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760058,
+            "name": "Bloom of Youth",
+            "duration": 148013,
+            "artists": "清水淳一、Key Sounds Label"
+          },
+          {
+            "id": 760060,
+            "name": "Further Away",
+            "duration": 152569,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760062,
+            "name": "grief",
+            "duration": 187024,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760063,
+            "name": "Close to Edge",
+            "duration": 149303,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760066,
+            "name": "Reminiscence",
+            "duration": 150453,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760069,
+            "name": "Star Dust",
+            "duration": 140735,
+            "artists": "清水淳一"
+          },
+          {
+            "id": 760072,
+            "name": "星守歌",
+            "duration": 219756,
+            "artists": "鈴田美夜子"
+          },
+          {
+            "id": 760075,
+            "name": "星屑",
+            "duration": 333090,
+            "artists": "霜月はるか"
+          },
+          {
+            "id": 760078,
+            "name": "星守歌 [アカペラ版]",
+            "duration": 165473,
+            "artists": "鈴田美夜子"
+          },
+          {
+            "id": 760081,
+            "name": "one's future [Rock Band Mix]",
+            "duration": 303269,
+            "artists": "鈴田美夜子"
+          }
+        ]
+      },
+      "addedAt": "2026-09-13T05:00:18.429Z"
+    },
+    {
+      "albumId": 2502003,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2502003,
+        "name": "Bedtime Story",
+        "artist": "伍々慧",
+        "cover": "https://p1.music.126.net/m77bQUkQHORPcWW61xSMsQ==/2515682604414740.jpg",
+        "publishTime": 1365091200007,
+        "year": "2013",
+        "trackCount": 12,
+        "company": null,
+        "description": "ギターとメロディで紡ぐ物語。\nプライベートレーベルよりリリースされる第一作!2ndフルアルバム。\nかねてから各方面に評価されていたソングライティング、歌心あふれるギタープレイにさらに磨きがかけられた充実作。\nポップで爽やか、どこかセンチメンタルな持ち味の「約束の海」や「風待ち」、シンプルなのに聴く者に涙を誘う味わい深いバラード「Distance」、 「つぼみ」など、\n以前の作風を受け継ぎつつブラッシュアップされたオリジナル 曲に加え、ビートルズや不朽のスタンダードナンバーも収録。独自のアレンジセンスが光る。\n楽器プレイヤーでなくても誰でも楽しめる、PopでSweetでDreamy、ちょっぴりSwingin'なバラエティー豊かなソロアコースティックギターアルバム。",
+        "tracks": [
+          {
+            "id": 26450083,
+            "name": "Introlude",
+            "duration": 59768,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450084,
+            "name": "約束の海",
+            "duration": 234660,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450085,
+            "name": "My Favorite Time",
+            "duration": 269467,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450086,
+            "name": "Distance",
+            "duration": 309013,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450087,
+            "name": "When I'm 64",
+            "duration": 162000,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450088,
+            "name": "Ticket to Starry Sky",
+            "duration": 237725,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450089,
+            "name": "Moon River",
+            "duration": 332000,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450090,
+            "name": "雨の日はワルツを踊って",
+            "duration": 245200,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450091,
+            "name": "Autumn Leaves",
+            "duration": 206000,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450092,
+            "name": "つぼみ",
+            "duration": 282656,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450093,
+            "name": "風待ち",
+            "duration": 202547,
+            "artists": "伍々慧"
+          },
+          {
+            "id": 26450094,
+            "name": "朝のしずく",
+            "duration": 145240,
+            "artists": "伍々慧"
+          }
+        ]
+      },
+      "addedAt": "2026-09-12T14:37:22.772Z"
+    },
+    {
+      "albumId": 2080036,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2080036,
+        "name": "MIRROR",
+        "artist": "DJ OKAWARI",
+        "cover": "https://p2.music.126.net/CNv5t-oNNMwUzk-sSBE2jQ==/109951168761290816.jpg",
+        "publishTime": 1245772800000,
+        "year": "2009",
+        "trackCount": 11,
+        "company": "Libyus Music",
+        "description": "昨年リリースしたデビューアルバム「DIORAMA」がCDショップはもちろん、\n雑貨店等でも大きな反響を呼び、iTunes Storeでも超ロングランセールスを記録。\n一躍、美メロサウンドのトップアーティストへと上りつめた\nDJ OKAWARIが早くも2ndアルバムを完成！\n\nハートがオカワリしたくなる安らぎのメロディーライン\nキラキラ木漏れ日の中、ゆったりとした時を過ごしたくなる\n珠玉のビューティフルサウンドを是非、ご堪能下さい♪\n\n♪ 聴きどころその1 ♪\nSweetな歌声の女性シンガー5名とコラボレーションし、\nJazzy Hip HopとR&Bの融合＝Jazzy R&Bという新たな可能性に\nチャレンジしました！！\n♪ 聴きどころその2 ♪\n女性ピアニストTSUKINO SORAを迎え、美メロ・ビーツはさらに充実！\nピアノやギターの甘く切ない旋律に、心も体も芯からほっこり癒されます！\n♪ 聴きどころその3 ♪\n誰もが一度は聴いたことがある、あの超有名R&Bクラシック \nDes'ree\"You Gotta Be\"のカバーも収録！永遠のマスターピース、\nここにありです！",
+        "tracks": [
+          {
+            "id": 22676177,
+            "name": "Sound of Silence feat. KAORI",
+            "duration": 268466,
+            "artists": "DJ OKAWARI、KAORI."
+          },
+          {
+            "id": 22676185,
+            "name": "Luv Letter",
+            "duration": 268613,
+            "artists": "DJ OKAWARI"
+          },
+          {
+            "id": 22676179,
+            "name": "You Gotta Be feat. AMADORI",
+            "duration": 239946,
+            "artists": "DJ OKAWARI、AMADORI"
+          },
+          {
+            "id": 22676181,
+            "name": "Pack Light feat. ERIKO",
+            "duration": 244506,
+            "artists": "DJ OKAWARI、ERIKO"
+          },
+          {
+            "id": 22676178,
+            "name": "Afterschool",
+            "duration": 232942,
+            "artists": "DJ OKAWARI"
+          },
+          {
+            "id": 22676186,
+            "name": "Following the Dream",
+            "duration": 118700,
+            "artists": "DJ OKAWARI"
+          },
+          {
+            "id": 22676182,
+            "name": "Free Bird feat. SIERRA",
+            "duration": 299440,
+            "artists": "DJ OKAWARI、Sierra"
+          },
+          {
+            "id": 22676183,
+            "name": "Sweet Light",
+            "duration": 234800,
+            "artists": "DJ OKAWARI"
+          },
+          {
+            "id": 22676180,
+            "name": "All I Have feat. AMANDA DIVA",
+            "duration": 232571,
+            "artists": "DJ OKAWARI、Amanda Diva"
+          },
+          {
+            "id": 22676187,
+            "name": "Minamo",
+            "duration": 231906,
+            "artists": "DJ OKAWARI"
+          },
+          {
+            "id": 22676184,
+            "name": "Evening Comes 2",
+            "duration": 251920,
+            "artists": "DJ OKAWARI"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T11:11:43.106Z"
+    },
+    {
+      "albumId": 3077448,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 3077448,
+        "name": "sora",
+        "artist": "Foxtail-Grass Studio",
+        "cover": "https://p1.music.126.net/eTpPwP7ZvHswOwbG2YVSaQ==/6639950721409471.jpg",
+        "publishTime": 1408204800000,
+        "year": "2014",
+        "trackCount": 4,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 29784759,
+            "name": "natsu-iro",
+            "duration": 261000,
+            "artists": "Foxtail-Grass Studio"
+          },
+          {
+            "id": 29784760,
+            "name": "rainy days",
+            "duration": 175000,
+            "artists": "Foxtail-Grass Studio"
+          },
+          {
+            "id": 29784761,
+            "name": "heaven sunshine",
+            "duration": 160000,
+            "artists": "Foxtail-Grass Studio"
+          },
+          {
+            "id": 29784762,
+            "name": "sora no mukou",
+            "duration": 226063,
+            "artists": "Foxtail-Grass Studio"
+          }
+        ]
+      },
+      "addedAt": "2026-09-23T11:26:18.772Z"
+    },
+    {
+      "albumId": 94997974,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 94997974,
+        "name": "Hazy",
+        "artist": "junior state",
+        "cover": "https://p1.music.126.net/XBEryZ6tRswBGeEYcU-Wrw==/109951165295354653.jpg",
+        "publishTime": 1600790400000,
+        "year": "2020",
+        "trackCount": 7,
+        "company": "",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1476679991,
+            "name": "Thin Line",
+            "duration": 159512,
+            "artists": "junior state"
+          },
+          {
+            "id": 1476681317,
+            "name": "Make Believe",
+            "duration": 160924,
+            "artists": "junior state"
+          },
+          {
+            "id": 1476681318,
+            "name": "Labyrinth",
+            "duration": 185600,
+            "artists": "junior state"
+          },
+          {
+            "id": 1476679992,
+            "name": "Sun Up",
+            "duration": 132413,
+            "artists": "junior state"
+          },
+          {
+            "id": 1476679993,
+            "name": "Crystal Ball",
+            "duration": 160645,
+            "artists": "junior state"
+          },
+          {
+            "id": 1476679994,
+            "name": "In The Wild",
+            "duration": 121237,
+            "artists": "junior state"
+          },
+          {
+            "id": 1476679995,
+            "name": "Hazy",
+            "duration": 142978,
+            "artists": "junior state"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T00:50:19.682Z"
+    },
+    {
+      "albumId": 162571,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 162571,
+        "name": "We Bought A Zoo (Motion Picture Soundtrack)",
+        "artist": "Jónsi",
+        "cover": "https://p1.music.126.net/vJriVd21xe6EYW8dYnj8uQ==/109951165967012184.jpg",
+        "publishTime": 1323619200000,
+        "year": "2011",
+        "trackCount": 15,
+        "company": "索尼音乐",
+        "description": "",
+        "tracks": [
+          {
+            "id": 1597431,
+            "name": "Why Not?",
+            "duration": 289158,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597434,
+            "name": "Ævin Endar",
+            "duration": 212183,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597436,
+            "name": "Boy Lilikoi",
+            "duration": 269760,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597438,
+            "name": "Sun",
+            "duration": 110480,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597439,
+            "name": "Brambles",
+            "duration": 144172,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597440,
+            "name": "Sinking Friendships",
+            "duration": 282120,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597441,
+            "name": "We Bought A Zoo",
+            "duration": 260643,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597443,
+            "name": "Hoppípolla",
+            "duration": 269746,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597445,
+            "name": "Snærisendar",
+            "duration": 163189,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597447,
+            "name": "Sink Ships",
+            "duration": 141107,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597449,
+            "name": "Go Do",
+            "duration": 280640,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597451,
+            "name": "Whole Made Of Pieces",
+            "duration": 166948,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597453,
+            "name": "Humming",
+            "duration": 152880,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597455,
+            "name": "First Day",
+            "duration": 99706,
+            "artists": "Jónsi"
+          },
+          {
+            "id": 1597457,
+            "name": "Gathering Stories",
+            "duration": 236239,
+            "artists": "Jónsi"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T00:54:16.195Z"
+    },
+    {
+      "albumId": 1627580,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 1627580,
+        "name": "Secret Journey",
+        "artist": "Omar Akram",
+        "cover": "https://p1.music.126.net/A8xVbAcnd5XO1sA4XslGkQ==/109951169200394873.jpg",
+        "publishTime": 1190649600000,
+        "year": "2007",
+        "trackCount": 12,
+        "company": "Real Music",
+        "description": "Secret Journey reflects a musician in full stride, creating compositions laced with unbridled passion and poised grace. Rooted in world themes layered in smooth jazz and new age influences, Omar's third album has all the ingredients to be not only a chart topper but also a critic's darling. \n\n",
+        "tracks": [
+          {
+            "id": 17691338,
+            "name": "Run Away with Me",
+            "duration": 303640,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691339,
+            "name": "Secret Journey",
+            "duration": 365346,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691340,
+            "name": "Nomadic Rhapsody",
+            "duration": 217720,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691341,
+            "name": "Passage of the Heart",
+            "duration": 212653,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691342,
+            "name": "Gypsy Spirit",
+            "duration": 268906,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691343,
+            "name": "Stargazers",
+            "duration": 236426,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691344,
+            "name": "Seven Secrets",
+            "duration": 287053,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691345,
+            "name": "Whispers in the Moonlight",
+            "duration": 278786,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691346,
+            "name": "Mirage",
+            "duration": 272573,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691347,
+            "name": "Shimmering Star",
+            "duration": 283240,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691348,
+            "name": "Caravan",
+            "duration": 275546,
+            "artists": "Omar Akram"
+          },
+          {
+            "id": 17691349,
+            "name": "Angel of Hope",
+            "duration": 211160,
+            "artists": "Omar Akram"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T06:08:06.392Z"
+    },
+    {
+      "albumId": 85144268,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 85144268,
+        "name": "Classic",
+        "artist": "HAUSER",
+        "cover": "https://p1.music.126.net/xeGADhWJO2DwPQi4J1I4WA==/109951164645176069.jpg",
+        "publishTime": 1581004800000,
+        "year": "2020",
+        "trackCount": 16,
+        "company": "索尼音乐",
+        "description": "2CELLOS之HAUSER首张个人专辑。\n\n16首音乐史上最美丽最浪漫的经典旋律，从巴洛克到新世纪音乐。\n\n不朽名曲重新编曲，HAUSER大提琴音与伦敦交响乐团交织的缱绻热情。\n超人气大提琴组合2CELLOS成员HAUSER首张个人演奏专辑《Classic》正式发行，这张专辑包括有史以来最受欢迎的古典旋律，每首都是HAUSER的私心最爱，他用大提琴精心策划和重新编排了这些旋律。 同时，HAUSER具有超凡的视觉创意，在布达佩斯录制的MV《Air on a G String》展现出大提琴演奏家在巴赫经典音乐中的惊人表现。这张专辑由HAUSER与伦敦交响乐团合作录制，用最美最浪漫的乐器大提琴来演奏那些为世人所喜爱的最美最浪漫的古典音乐旋律。\n\n以「2CELLOS」打响国际知名度，两位身具偶像魅力的年轻大提琴家Stjepan Hauser与Luka Sulic，自2011年组成搭档一鸣惊人之后，近来合击且分进，先是Luka Sulic录制首张大提琴版的维瓦尔第《四季》，紧接著HAUSER也在2020年初，发行第一张个人专辑【classic】，作为耀眼事业的新里程碑。\n\n \n\n或许众多乐迷对于HAUSER的印象，宛若狂放不羁的摇滚乐手，然而他却拥有扎扎实实的演奏实力。1986年出生于克罗地亚，HAUSER八岁开始学习大提琴，在故乡毕业后，前往英美深造，成为「美艺三重奏」之大提琴名家格林豪斯的得意学生，以及大提琴巨匠罗斯特罗波维奇的关门弟子。自出道以来，HAUSER赢得多达二十一座国际音乐比赛首奖，更应邀于全球各大音乐厅演出。\n\n \n\n虽然Stjepan Hauser与Luka Sulic在这眼球世代，是以演绎流行音乐的「2CELLOS」而大红大紫，但他们仍锺情于古典音乐世界。于是HAUSER这张【classic】中所挑选的乐段，就如同他自己所说：「这是由伟大的作曲家所写过最美丽、最浪漫的旋律，藉由最美丽、最浪漫的乐器：大提琴来诠释。」\n\n \n\n整张专辑中，我们可以听到柴可夫斯基盪气迴肠的《天鹅湖》与《胡桃夹子》选粹，巴赫《G弦上的咏叹调》、莫扎特竖笛协奏曲、肖邦《夜曲》等隽永不朽的器乐名曲，尤其透过英国当代作曲大师Robin Smith的重新编曲，并邀请赫赫有名的伦敦交响乐团与HAUSER合作，让这些原本就广受欢迎的隽永旋律，展现了有别传统的无限新意。\n\n \n\n而大提琴一向被誉为最能比拟人声的乐器，因此豪瑟也挑选男高音咏叹调《公主彻夜未眠》、阉人歌手名曲《让我痛苦吧》、及帕瓦罗蒂唱红的《卡鲁索》，HAUSER用大提琴「唱出」动人的歌声。此外，还有近年的流行经典曲目，例如原为排笛所写的格奥尔基·赞菲尔《孤独的牧羊人》，及韩国新世纪音乐钢琴家李闰珉脍炙人口的《River Flows in You》。\n\n \n\n如同「2CELLOS」以传统乐器演绎流行歌曲，HAUSER的个人专辑【classic】则用新世代语彙诠释经典音乐，见证了「过去的流行乃是现代的经典」，流行与经典，表裡之间在豪瑟的大提琴音中化为永恆。\n",
+        "tracks": [
+          {
+            "id": 1418284112,
+            "name": "Swan Lake",
+            "duration": 172240,
+            "artists": "HAUSER、Pyotr Ilyich Tchaikovsky、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418284113,
+            "name": "Rachmaninov 2nd Piano Concerto",
+            "duration": 288200,
+            "artists": "HAUSER、Sergei Rachmaninoff、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280401,
+            "name": "Caruso",
+            "duration": 330933,
+            "artists": "HAUSER、Lucio Dalla、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280402,
+            "name": "Air on a G String",
+            "duration": 289692,
+            "artists": "HAUSER、Johann Sebastian Bach、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280403,
+            "name": "The Nutcracker Suite",
+            "duration": 257040,
+            "artists": "HAUSER、Pyotr Ilyich Tchaikovsky、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418284114,
+            "name": "Concerto for Clarinet",
+            "duration": 202186,
+            "artists": "HAUSER、Wolfgang Amadeus Mozart、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280404,
+            "name": "Nocturne in C Sharp",
+            "duration": 273493,
+            "artists": "HAUSER、Fréderic Chopin、Robin Smith、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280405,
+            "name": "Intermezzo (Cavalleria Rusticana)",
+            "duration": 206400,
+            "artists": "HAUSER、Domenico Monleone、Pietro Mascagni、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280406,
+            "name": "River Flows in You",
+            "duration": 180929,
+            "artists": "HAUSER、YIRUMA、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280407,
+            "name": "Lascia Ch' io Pianga",
+            "duration": 269426,
+            "artists": "HAUSER、Georg Friedrich Händel、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280408,
+            "name": "The Lonely Shepherd",
+            "duration": 212733,
+            "artists": "HAUSER、James Last、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418284115,
+            "name": "Piano Concerto No. 21",
+            "duration": 443906,
+            "artists": "HAUSER、Wolfgang Amadeus Mozart、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280409,
+            "name": "Nocturne",
+            "duration": 428160,
+            "artists": "HAUSER、Alexander Borodin、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1415476603,
+            "name": "Nessun Dorma",
+            "duration": 177960,
+            "artists": "HAUSER、Giacomo Puccini、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418280410,
+            "name": "Lacrimosa",
+            "duration": 173266,
+            "artists": "HAUSER、Wolfgang Amadeus Mozart、London Symphony Orchestra、Robert Ziegler"
+          },
+          {
+            "id": 1418284117,
+            "name": "Adagio for Strings",
+            "duration": 477493,
+            "artists": "HAUSER、Samuel Barber、London Symphony Orchestra、Robert Ziegler"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T08:45:33.130Z"
+    },
+    {
+      "albumId": 2431236,
+      "source": "search",
+      "locked": true,
+      "meta": {
+        "albumId": 2431236,
+        "name": "Disconnect (Original Motion Picture Soundtrack)",
+        "artist": "Max Richter",
+        "cover": "https://p2.music.126.net/nGJBZs0XSd-EKFxi50fw3w==/18277181789090294.jpg",
+        "publishTime": 1366646400000,
+        "year": "2013",
+        "trackCount": 21,
+        "company": "华纳音乐",
+        "description": "虚拟的社交网络连了线，真实的人际关系却断了线。聊天室的每句对话、脸书上的一张照片一条短片，背后隐藏着人渴望与人接触的欲望，但却分分钟带来不堪设想的后果。日理万机的大律师无暇与家人相处沟通，直到儿子出事才悔恨爱得太迟；一对婚姻枯燥无味的夫妇各自在网上寻求慰藉，但网络世界何来秘密；孤僻宅男网上会女神，原来一直被玩更误堕色欲陷阱；顽童网上欺凌同学，乐极生悲；女记者为爆独家猛料，故意接近未成年色情网男模，道德界线难划清。几条故事线纠缠交错，每个荡失于虚拟世界的主人翁，只是渴望找到与人真正的联系和沟通。",
+        "tracks": [
+          {
+            "id": 26244421,
+            "name": "On the Nature of Daylight",
+            "duration": 374000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244422,
+            "name": "Find Schumaker",
+            "duration": 46000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244423,
+            "name": "Love Slave",
+            "duration": 168000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244424,
+            "name": "Zero Balance",
+            "duration": 240000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244425,
+            "name": "Clone the Hard Drive",
+            "duration": 79000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244426,
+            "name": "Pursuit",
+            "duration": 94000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244427,
+            "name": "Hospital",
+            "duration": 101000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244428,
+            "name": "Running",
+            "duration": 424000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244429,
+            "name": "The Report",
+            "duration": 57000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244430,
+            "name": "Written on the Sky",
+            "duration": 98000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244431,
+            "name": "Arrival",
+            "duration": 130000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244432,
+            "name": "Drycleaner",
+            "duration": 105000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244433,
+            "name": "Break In",
+            "duration": 208000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244434,
+            "name": "Confrontation",
+            "duration": 660819,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244435,
+            "name": "Afghanistan",
+            "duration": 93000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244436,
+            "name": "I Will Come and Get You",
+            "duration": 124000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244437,
+            "name": "The Gun",
+            "duration": 127000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244438,
+            "name": "Derek to El Paso",
+            "duration": 99000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244439,
+            "name": "Unwritten",
+            "duration": 108000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244440,
+            "name": "The Swimmer",
+            "duration": 126000,
+            "artists": "Max Richter"
+          },
+          {
+            "id": 26244441,
+            "name": "Ni Su Nave",
+            "duration": 177240,
+            "artists": "Jayme Ivison"
+          }
+        ]
+      },
+      "addedAt": "2026-09-26T08:45:33.131Z"
+    }
+  ]
+}
